@@ -4,13 +4,8 @@ from sdg.translations import TranslationInputSdmx
 
 source_language = 'en'
 
-source = 'https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial'
-request_params = {
-    'headers': {
-        'User-Agent': 'Mozilla'
-    }
-}
-translation_input = TranslationInputSdmx(source=source, request_params=request_params)
+source = 'LSB_DSD.xml'
+translation_input = TranslationInputSdmx(source=source)
 translation_input.execute()
 translations = translation_input.get_translations()
 

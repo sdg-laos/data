@@ -1,21 +1,13 @@
 import yaml
 import os
 from sdg.translations import TranslationInputYaml
-from sdg.helpers import files
 import xml.etree.ElementTree as ET
 
 translation_input = TranslationInputYaml(source='translations/dsd')
 translation_input.execute()
 translations = translation_input.get_translations()
 
-dsd_source = 'https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial'
-filename = 'dsd.xml'
-request_params = {
-    'headers': {
-        'User-Agent': 'Mozilla'
-    }
-}
-files.download_remote_file(dsd_source, filename, request_params=request_params)
+filename = 'LSB_DSD.xml'
 namespaces = dict([node for _, node in ET.iterparse(filename, events=['start-ns'])])
 if 'xml' not in namespaces:
     namespaces['xml'] = 'http://www.w3.org/XML/1998/namespace'

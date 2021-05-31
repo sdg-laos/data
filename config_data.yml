@@ -3,16 +3,23 @@
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
+# The following should be changed according to the hosting environment. In the most
+# common environment, Github Pages, you would need to set this according to the name
+# of this repository, after a preceding slash. Eg: /my-repository-name
+docs_baseurl: /data
+
 # Languages
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 languages:
+  - lo
   - en
 
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
+# Here we use '_build' to avoid conflicting with Jekyll, which uses '_site'.
 site_dir: _site
 
 # Schema file
@@ -38,21 +45,30 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
-  - class: InputYamlMdMeta
-    # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.md
-    # This specifies whether or not to use Git to calculate the "last updated"
-    # dates for data files.
-    git: true
-    # This specifies an alternate folder to look in for Git-versioned data files,
-    # when calculating the "last updated" dates for data files. This defaults to
-    # "data" (the folder where the data files actually exist.) Most sites will not
-    # need to change this setting. It is intended for sites where the data needs
-    # to be "built" before being processed by sdg-build.
-    git_data_dir: data
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*.yml
+    git: false
+  - class: InputSdgMetadata
+    source: translations/meta
+    default_language: lo
+  - class: InputSdmxMl_Multiple
+    path_pattern: 'data/*.xml'
+    dsd: LSB_DSD.xml
+    import_codes: true
+    import_names: false
+    dimension_map:
+      REF_AREA|LA: ''
+    drop_singleton_dimensions: false
+    drop_dimensions:
+      - NATURE
+      - OBS_STATUS
+      - REPORTING_TYPE
+      - SOURCE_DETAIL
+      - TIME_DETAIL
+      - UNIT_MULT
+      - FREQ
+    indicator_id_xpath: .//Name[@lang='en']
+    indicator_name_xpath: .//Name[@lang='en']
 
 # Translations
 # ------------
@@ -67,10 +83,11 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: master
-  # This pulls in translations from a local 'translations' folder.
+    tag: 1.4.0-dev
   - class: TranslationInputYaml
-    source: translations
+    source: translations/dsd
+  - class: TranslationInputYaml
+    source: translations/custom
 
 # Reporting status extra fields
 # -----------------------------
@@ -87,10 +104,10 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 #map_layers:
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-#    name_property: rgn17nm
-#    id_property: rgn17cd
-#    output_subfolder: regions
+#  - geojson_file: geojson/provinces.json
+#    name_property: translation_key
+#    id_property: source_adm
+#    output_subfolder: provinces
 #    filename_prefix: indicator_
 
 # Documentation settings
@@ -102,7 +119,14 @@ docs_branding: SDG data build documentation
 # This displays at the top of the automated documentation homepage.
 docs_intro: This is a list of examples of endpoints and output that are
   available on this service. Click each of the links below for more information
-  on the available output.
+  on the available output.<br><br>
+  The latest translated DSD can be downloaded <a href="dsd-exported.xml">here</a>.<br><br>
+  All translations can be maintained on <a href="https://hosted.weblate.org/projects/sdg-laos/">Weblate</a>.
+#docs_subfolder: ''
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-#docs_indicator_url: https://my-github-org/my-site-repository/[id]
+docs_indicator_url: https://sdg-laos.github.io/site/[id]
+docs_extra_disaggregations:
+  - SERIES
+  - UNIT_MEASURE
+docs_translate_disaggregations: true

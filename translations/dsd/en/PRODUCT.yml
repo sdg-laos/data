@@ -1,0 +1,32 @@
+AGG_AGR: Agriculture products
+AGG_ARMS: Arms
+AGG_CLTH: Clothing
+AGG_IND: Industrial products
+AGG_OIL: Oil
+AGG_TXT: Textiles
+CPC2_1_111: Wheat
+CPC2_1_112: Maize
+CPC2_1_113: Rice
+CPC2_1_114: Sorghum
+CPC2_1_118: Millet
+MF1: Biomass (material flows)
+MF11: Crops (material flows)
+MF121: Crop residues (material flows)
+MF122: Grazed biomass and fodder crops (material flows)
+MF13: Wood (material flows)
+MF14: Wild catch and harvest (material flows)
+MF2: Metal ores (material flows)
+MF21: Ferrous ores (material flows)
+MF22: Non-ferrous ores (material flows)
+MF3: Non-metallic minerals (material flows)
+MF4: Fossil fuels (material flows)
+MF41: Coal (material flows)
+MF413: Oil shale and tar sands (material flows)
+MF421: Petroleum (material flows)
+MF422: Natural gas (material flows)
+MF_AGG3A: Non-metallic minerals - construction dominant (material flows)
+MF_AGG3B: Non-metallic minerals - industrial or agricultural dominant (material flows)
+PRODUCT: Type of product
+_L_LA_MEAT: Meat and fish
+_L_LA_VEG: Vegetable
+_T: No breakdown

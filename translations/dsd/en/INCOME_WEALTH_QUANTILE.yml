@@ -1,0 +1,11 @@
+B40: Bottom 40%
+B50: Bottom 50%
+INCOME_WEALTH_QUANTILE: Income or wealth quantile
+Q1: Quintile 1 (poorest)
+Q2: Quintile 2
+Q3: Quintile 3
+Q4: Quintile 4
+Q5: Quintile 5 (richest)
+R50: Richest 50%
+R60: Richest 60%
+_T: Total (national average) or no breakdown

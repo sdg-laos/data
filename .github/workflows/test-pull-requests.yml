@@ -8,16 +8,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    - name: Set up Python 3.7
+    - uses: actions/checkout@v2
+    - uses: dorny/paths-filter@v2
+      id: filter
+      with:
+        filters: |
+          do_not_test:
+            - 'meta/**'
+            - 'translations/**'
+    - if: steps.filter.outputs.do_not_test == 'false'
+      name: Set up Python 3.7
       uses: actions/setup-python@v1
       with:
         python-version: 3.7
-    - name: Install dependencies
+    - if: steps.filter.outputs.do_not_test == 'false'
+      name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
-    - name: Test and build data
+    - if: steps.filter.outputs.do_not_test == 'false'
+      name: Test and build data
       run: |
         python scripts/check_data.py
         python scripts/build_data.py

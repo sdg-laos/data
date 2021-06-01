@@ -67,8 +67,6 @@ inputs:
       - TIME_DETAIL
       - UNIT_MULT
       - FREQ
-    indicator_id_xpath: .//Name[@lang='en']
-    indicator_name_xpath: .//Name[@lang='en']
 
 # Translations
 # ------------

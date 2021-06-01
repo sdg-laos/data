@@ -11,14 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           },
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-2-1",
-  "title": "Under‐five mortality rate"
+  "title": "3-2-1"
 }

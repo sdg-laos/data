@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Value",
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-1",
-  "title": "global_indicators.1-2-1-title"
+  "title": "1-2-1"
 }

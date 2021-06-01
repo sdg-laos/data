@@ -11,26 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "A",
-                "B"
-              ]
-            },
-            "title": "Group"
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
@@ -38,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1",
-  "title": "Average hourly earnings of female and male employees, by occupation, age and persons with disabilities"
+  "title": "8-5-1"
 }

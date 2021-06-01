@@ -11,14 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           },
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-1-1",
-  "title": "Maternal mortality ratio"
+  "title": "3-1-1"
 }

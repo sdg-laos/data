@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <message:Header>
-    <message:ID>IDREF6</message:ID>
+    <message:ID>IDREF4</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-04-08T23:56:10.4637004-04:00</message:Prepared>
+    <message:Prepared>2021-06-01T19:21:01.5345054-04:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -5610,6 +5610,14 @@
         <structure:Code id="MF_AGG3B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF_AGG3B">
           <common:Name xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_VEG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0)._L_LA_VEG">
+          <common:Name xml:lang="en">Vegetable</common:Name>
+          <common:Description xml:lang="en">Vegetable</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_MEAT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0)._L_LA_MEAT">
+          <common:Name xml:lang="en">Meat and fish</common:Name>
+          <common:Description xml:lang="en">Meat and fish</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_QUANTILE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_QUANTILE(1.1)" agencyID="IAEG-SDGs" version="1.1" isFinal="true">
@@ -25150,20 +25158,20 @@
           <common:Name xml:lang="en">Percentage of registered UXO survivors mainstreamed into health, education and employment services [18.3.2 ]</common:Name>
           <common:Description xml:lang="en">Percentage of registered UXO survivors mainstreamed into health, education and employment services [18.3.2 ]</common:Description>
         </structure:Code>
-        <structure:Code id="_L_LA_010203_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_010203_01">
+        <structure:Code id="_L_LA_010401_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_010401_01">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1.2.3</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C010203</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -25172,8 +25180,158 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage families defined as poor by National Committee for Rural Development and Poverty Eradication (NCRDPE), Lao PDR [1.2.3]</common:Name>
-          <common:Description xml:lang="en">Percentage families defined as poor by National Committee for Rural Development and Poverty Eradication (NCRDPE), Lao PDR [1.2.3]</common:Description>
+          <common:Name xml:lang="en">Proportion of population living in households with access to secondary school [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of population living in households with access to secondary school [1.4.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_010401_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_010401_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of population living in households with access to health service [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of population living in households with access to health service [1.4.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_010401_03" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_010401_03">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of population living in households with access to improved water [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of population living in households with access to improved water [1.4.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_010401_04" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_010401_04">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of population living in households with access to eletricity [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of population living in households with access to eletricity [1.4.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_010401_05" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_010401_05">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of population living in households with access to roads all seasons [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of population living in households with access to roads all seasons [1.4.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_020104_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_020104_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.1.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Food production</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Food production [2.1.4]</common:Name>
+          <common:Description xml:lang="en">Food production [2.1.4]</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_020201_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_020201_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1]</common:Name>
+          <common:Description xml:lang="en">Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1]</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_SEX(1.1)" agencyID="LSB-SDGs" version="1.1" isFinal="true">

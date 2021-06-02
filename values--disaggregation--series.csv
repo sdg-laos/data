@@ -1,22 +1,22 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
-AG_FPA_COMM,,Indicator of Food Price Anomalies (IFPA) [2.c.1],1,1
-AG_XPD_AGSGB,,Agriculture share of Government Expenditure [2.a.1],1,1
-_L_LA_010401_01,,Proportion of population living in households with access to secondary school [1.4.1],1,1
-_L_LA_010401_02,,Proportion of population living in households with access to health service [1.4.1],1,1
-_L_LA_010401_03,,Proportion of population living in households with access to improved water [1.4.1],1,1
-_L_LA_010401_04,,Proportion of population living in households with access to eletricity [1.4.1],1,1
-_L_LA_010401_05,,Proportion of population living in households with access to roads all seasons [1.4.1],1,1
-_L_LA_020104_01,,Food production [2.1.4],5,1
-_L_LA_020201_01,,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],10,1
-SD_MDP_CSMP,,Proportion of children living in child-specific multidimensional poverty [1.2.2],9,1
-SH_STA_STNT,,Proportion of children moderately or severely stunted [2.2.1],10,1
-SH_STA_WAST,,Proportion of children moderately or severely wasted [2.2.2],10,1
-SI_POV_DAY1,,Proportion of population below international poverty line [1.1.1],1,1
-SI_POV_NAHC,,Proportion of population living below the national poverty line [1.2.1],9,1
-SN_ITK_DEFC,,Prevalence of undernourishment [2.1.1],1,1
-SN_STA_OVWGT,,Proportion of children moderately or severely overweight [2.2.2],10,1
-VC_DSR_AFFCT,,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",1,1
-VC_DSR_IJILN,,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1
-VC_DSR_MISS,,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1
-VC_DSR_MORT,,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1
-VC_DSR_PDYN,,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1
+AG_FPA_COMM,ຕົວຊີ້ວັດຂອງລາຄາອາຫານ Anomalies (IFPA) [2.c.1],Indicator of Food Price Anomalies (IFPA) [2.c.1],1,1
+AG_XPD_AGSGB,ສ່ວນແບ່ງດ້ານກະສິກໍາລາຍຈ່າຍຂອງລັດຖະບານ [2.a.1],Agriculture share of Government Expenditure [2.a.1],1,1
+_L_LA_010401_01,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ອາໄສຢູ່ໃນຄົວເຮືອນທີ່ມີການເຂົ້າເຖິງໂຮງຮຽນມັດທະຍົມ [1.4.1],Proportion of population living in households with access to secondary school [1.4.1],1,1
+_L_LA_010401_02,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ອາໄສຢູ່ໃນຄົວເຮືອນທີ່ມີການເຂົ້າເຖິງການບໍລິການສຸຂະພາບ [1.4.1],Proportion of population living in households with access to health service [1.4.1],1,1
+_L_LA_010401_03,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ອາໄສຢູ່ໃນຄົວເຮືອນທີ່ມີການເຂົ້າເຖິງນ້ໍາທີ່ດີຂຶ້ນ [1.4.1],Proportion of population living in households with access to improved water [1.4.1],1,1
+_L_LA_010401_04,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ອາໄສຢູ່ໃນຄົວເຮືອນທີ່ມີການເຂົ້າເຖິງeletricity [1.4.1],Proportion of population living in households with access to eletricity [1.4.1],1,1
+_L_LA_010401_05,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ອາໄສຢູ່ໃນຄົວເຮືອນທີ່ມີການເຂົ້າເຖິງເສັ້ນທາງຕະຫຼອດລະດູການ [1.4.1],Proportion of population living in households with access to roads all seasons [1.4.1],1,1
+_L_LA_020104_01,ການຜະລິດອາຫານ [2.1.4],Food production [2.1.4],5,1
+_L_LA_020201_01,ຕື່ນຕົກໃຈໃນທ່າມກາງອາຍຸຕໍ່າກວ່າ 2 ປີ (ສໍາລັບຄໍາຫມັ້ນສັນຍາຂອງ Lao PDR ຕໍ່ໂຄງການ SUN 1000 ມື້) [2.2.1],Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],10,1
+SD_MDP_CSMP,ອັດຕາສ່ວນຂອງເດັກທີ່ດໍາລົງຊີວິດຢູ່ໃນຄວາມທຸກຍາກmultidimensional ສະເພາະເດັກ [1.2.2],Proportion of children living in child-specific multidimensional poverty [1.2.2],9,1
+SH_STA_STNT,ອັດຕາສ່ວນຂອງເດັກທີ່ພໍດີພໍສົມຄວນ ຫຼື ຮຸນແຮງ [2.2.1],Proportion of children moderately or severely stunted [2.2.1],10,1
+SH_STA_WAST,ອັດຕາສ່ວນຂອງເດັກໃນລະດັບປານກາງຫຼືຮ້າຍແຮງເສຍ [2.2.2],Proportion of children moderately or severely wasted [2.2.2],10,1
+SI_POV_DAY1,ອັດຕາສ່ວນຂອງປະຊາກອນຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກສາກົນ [1.1.1],Proportion of population below international poverty line [1.1.1],1,1
+SI_POV_NAHC,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ [1.2.1],Proportion of population living below the national poverty line [1.2.1],9,1
+SN_ITK_DEFC,Prevalence ຂອງການຂາດສານອາຫານ [2.1.1],Prevalence of undernourishment [2.1.1],1,1
+SN_STA_OVWGT,ອັດຕາສ່ວນຂອງເດັກທີ່ມີນໍ້າຫນັກປານກາງ ຫຼື ຮຸນແຮງ [2.2.2],Proportion of children moderately or severely overweight [2.2.2],10,1
+VC_DSR_AFFCT,"ຈໍານວນຄົນທີ່ໄດ້ຮັບຜົນກະທົບຈາກໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_IJILN,"ຈໍານວນຄົນທີ່ໄດ້ຮັບບາດເຈັບ ຫຼື ເຈັບຍ້ອນໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_MISS,"ຈໍານວນຜູ້ຫາຍສາບສູນ ຍ້ອນໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_MORT,"ຈໍານວນຜູ້ເສຍຊີວິດຍ້ອນໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1
+VC_DSR_PDYN,"ຈໍານວນຄົນທີ່ບ້ານທີ່ຖືກທໍາລາຍແມ່ນຍ້ອນໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1

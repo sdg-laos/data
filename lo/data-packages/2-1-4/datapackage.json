@@ -42,7 +42,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": ""
+            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",

@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v7.7.2-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=LSB-SDGs:SDG(1.1):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <message:Header>
-    <message:ID>IREF1622602183961</message:ID>
+    <message:ID>IREF1622587274121</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-06-02T02:49:43Z</message:Prepared>
+    <message:Prepared>2021-06-01T22:41:14Z</message:Prepared>
     <message:Sender id="BIS">
       <message:Contact></message:Contact>
     </message:Sender>
@@ -161,7 +161,7 @@
     <Obs TIME_PERIOD="2016" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" SOURCE_DETAIL="Ministry of Labor and Social Welfare; http://www.molsw.gov.la"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" SOURCE_DETAIL="Ministry of Labor and Social Welfare; http://www.molsw.gov.la"></Obs>
     <Obs TIME_PERIOD="2018" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" SOURCE_DETAIL="Ministry of Labor and Social Welfare; http://www.molsw.gov.la"></Obs>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="50" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" SOURCE_DETAIL="Ministry of Labor and Social Welfare; http://www.molsw.gov.la"></Obs>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" SOURCE_DETAIL="Ministry of Labor and Social Welfare; http://www.molsw.gov.la"></Obs>
   </Series>
 </message:DataSet>
 </message:StructureSpecificData>

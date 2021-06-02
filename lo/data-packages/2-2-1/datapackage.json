@@ -21,14 +21,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "Quintile 1 (ທຸກຍາກທີ່ສຸດ)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (ຮັ່ງມີທີ່ສຸດ)"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ລາຍໄດ້ ຫຼື ຄວາມຮັ່ງມີ quantile"
           },
           {
             "name": "REF_AREA",
@@ -38,7 +38,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",

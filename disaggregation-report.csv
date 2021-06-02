@@ -1,6 +1,6 @@
 Disaggregation,lo,en,Number of indicators,Number of values
-AGE,AGE,Age,2,4
-INCOME_WEALTH_QUANTILE,INCOME_WEALTH_QUANTILE,Income or wealth quantile,2,5
+AGE,ອາຍຸ,Age,2,4
+INCOME_WEALTH_QUANTILE,ລາຍໄດ້ ຫຼື ຄວາມຮັ່ງມີ quantile,Income or wealth quantile,2,5
 PRODUCT,ປະເພດຜະລິດຕະພັນ,Type of product,1,4
 SERIES,,SDG Series,11,21
 SEX,ເພດ,Sex,4,2

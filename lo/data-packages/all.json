@@ -18,13 +18,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0T14",
-                "Y15T24",
-                "Y55T64",
-                "Y_GE65"
+                "ອາຍຸຕ່ໍາກວ່າ 15 ປີ",
+                "15 ຫາ 24 ປີ",
+                "55 ຫາ 64 ປີ",
+                "65 ປີແລະຫຼາຍກວ່າ"
               ]
             },
-            "title": "AGE"
+            "title": "ອາຍຸ"
           },
           {
             "name": "GeoCode",
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -158,14 +158,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "Quintile 1 (ທຸກຍາກທີ່ສຸດ)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (ຮັ່ງມີທີ່ສຸດ)"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ລາຍໄດ້ ຫຼື ຄວາມຮັ່ງມີ quantile"
           },
           {
             "name": "REF_AREA",
@@ -175,7 +175,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -392,7 +392,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -561,7 +561,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -624,7 +624,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -671,14 +671,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5"
+                "Quintile 1 (ທຸກຍາກທີ່ສຸດ)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (ຮັ່ງມີທີ່ສຸດ)"
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ລາຍໄດ້ ຫຼື ຄວາມຮັ່ງມີ quantile"
           },
           {
             "name": "REF_AREA",
@@ -688,7 +688,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -761,7 +761,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -810,7 +810,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -859,7 +859,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -901,13 +901,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Y0T14",
-                "Y15T24",
-                "Y55T64",
-                "Y_GE65"
+                "ອາຍຸຕ່ໍາກວ່າ 15 ປີ",
+                "15 ຫາ 24 ປີ",
+                "55 ຫາ 64 ປີ",
+                "65 ປີແລະຫຼາຍກວ່າ"
               ]
             },
-            "title": "AGE"
+            "title": "ອາຍຸ"
           },
           {
             "name": "GeoCode",
@@ -922,7 +922,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",
@@ -995,7 +995,7 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "ເຂດອ້າງອີງ"
           },
           {
             "name": "SERIES",

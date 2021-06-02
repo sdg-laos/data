@@ -1,6 +1,6 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,AG_XPD_AGSGB,,PT,,158.56
-2016,AG_XPD_AGSGB,,PT,,188.77
-2017,AG_XPD_AGSGB,,PT,,271.19
-2018,AG_XPD_AGSGB,,PT,,244.43
-2019,AG_XPD_AGSGB,,PT,,178.56
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,Agriculture share of Government Expenditure [2.a.1],,Percent,,158.56
+2016,Agriculture share of Government Expenditure [2.a.1],,Percent,,188.77
+2017,Agriculture share of Government Expenditure [2.a.1],,Percent,,271.19
+2018,Agriculture share of Government Expenditure [2.a.1],,Percent,,244.43
+2019,Agriculture share of Government Expenditure [2.a.1],,Percent,,178.56

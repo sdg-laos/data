@@ -1,5 +1,5 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
-CPC2_1_112,CPC2_1_112,CPC2_1_112,1,1
-CPC2_1_113,CPC2_1_113,CPC2_1_113,1,1
-_L_LA_MEAT,_L_LA_MEAT,_L_LA_MEAT,1,1
-_L_LA_VEG,_L_LA_VEG,_L_LA_VEG,1,1
+CPC2_1_112,CPC2_1_112,Maize,1,1
+CPC2_1_113,CPC2_1_113,Rice,1,1
+_L_LA_MEAT,_L_LA_MEAT,Meat and fish,1,1
+_L_LA_VEG,_L_LA_VEG,Vegetable,1,1

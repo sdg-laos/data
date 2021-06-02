@@ -18,7 +18,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -28,26 +28,26 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "Reference area"
           },
           {
             "name": "PRODUCT",
             "type": "string",
             "constraints": {
               "enum": [
-                "CPC2_1_113",
-                "CPC2_1_112",
-                "_L_LA_VEG",
-                "_L_LA_MEAT",
+                "Rice",
+                "Maize",
+                "Vegetable",
+                "Meat and fish",
                 ""
               ]
             },
-            "title": "PRODUCT"
+            "title": "Type of product"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

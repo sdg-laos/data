@@ -1,7 +1,7 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-1993,46.0,,PT,SI_POV_NAHC
-1998,39.0,,PT,SI_POV_NAHC
-2003,33.5,,PT,SI_POV_NAHC
-2008,27.6,,PT,SI_POV_NAHC
-2013,24.6,,PT,SI_POV_NAHC
-2018,18.3,,PT,SI_POV_NAHC
+1993,46.0,,Percent,Proportion of population living below the national poverty line [1.2.1]
+1998,39.0,,Percent,Proportion of population living below the national poverty line [1.2.1]
+2003,33.5,,Percent,Proportion of population living below the national poverty line [1.2.1]
+2008,27.6,,Percent,Proportion of population living below the national poverty line [1.2.1]
+2013,24.6,,Percent,Proportion of population living below the national poverty line [1.2.1]
+2018,18.3,,Percent,Proportion of population living below the national poverty line [1.2.1]

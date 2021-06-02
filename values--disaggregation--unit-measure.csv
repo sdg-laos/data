@@ -1,5 +1,5 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
-NUMBER,NUMBER,NUMBER,1,1
-PER_100000_POP,PER_100000_POP,PER_100000_POP,5,1
-PT,PT,PT,66,8
-T,T,T,5,1
+NUMBER,NUMBER,Number,1,1
+PER_100000_POP,PER_100000_POP,"Per 100,000 population",5,1
+PT,PT,Percent,66,8
+T,T,Metric Tons,5,1

@@ -1,23 +1,23 @@
-Year,SERIES,REF_AREA,SEX,URBANISATION,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,GeoCode,Value
-2012,SH_STA_WAST,,,,,PT,,5.1
-2018,SH_STA_WAST,,,,,PT,,9.0
-2018,SH_STA_WAST,,,U,,PT,,7.0
-2018,SH_STA_WAST,,,R,,PT,,9.8
-2018,SH_STA_WAST,,M,,,PT,,9.4
-2018,SH_STA_WAST,,F,,,PT,,8.6
-2018,SH_STA_WAST,,,,Q1,PT,,11.9
-2018,SH_STA_WAST,,,,Q2,PT,,9.4
-2018,SH_STA_WAST,,,,Q3,PT,,9.6
-2018,SH_STA_WAST,,,,Q4,PT,,6.5
-2018,SH_STA_WAST,,,,Q5,PT,,6.0
-2012,SN_STA_OVWGT,,,,,PT,,2.5
-2018,SN_STA_OVWGT,,,,,PT,,3.5
-2018,SN_STA_OVWGT,,,U,,PT,,4.8
-2018,SN_STA_OVWGT,,,R,,PT,,3.1
-2018,SN_STA_OVWGT,,M,,,PT,,3.9
-2018,SN_STA_OVWGT,,F,,,PT,,3.1
-2018,SN_STA_OVWGT,,,,Q1,PT,,4.0
-2018,SN_STA_OVWGT,,,,Q2,PT,,2.5
-2018,SN_STA_OVWGT,,,,Q3,PT,,20.0
-2018,SN_STA_OVWGT,,,,Q4,PT,,3.1
-2018,SN_STA_OVWGT,,,,Q5,PT,,6.4
+Year,SERIES,Reference area,Sex,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,GeoCode,Value
+2012,Proportion of children moderately or severely wasted [2.2.2],,,,,Percent,,5.1
+2018,Proportion of children moderately or severely wasted [2.2.2],,,,,Percent,,9.0
+2018,Proportion of children moderately or severely wasted [2.2.2],,,Urban,,Percent,,7.0
+2018,Proportion of children moderately or severely wasted [2.2.2],,,Rural,,Percent,,9.8
+2018,Proportion of children moderately or severely wasted [2.2.2],,Male,,,Percent,,9.4
+2018,Proportion of children moderately or severely wasted [2.2.2],,Female,,,Percent,,8.6
+2018,Proportion of children moderately or severely wasted [2.2.2],,,,Quintile 1 (poorest),Percent,,11.9
+2018,Proportion of children moderately or severely wasted [2.2.2],,,,Quintile 2,Percent,,9.4
+2018,Proportion of children moderately or severely wasted [2.2.2],,,,Quintile 3,Percent,,9.6
+2018,Proportion of children moderately or severely wasted [2.2.2],,,,Quintile 4,Percent,,6.5
+2018,Proportion of children moderately or severely wasted [2.2.2],,,,Quintile 5 (richest),Percent,,6.0
+2012,Proportion of children moderately or severely overweight [2.2.2],,,,,Percent,,2.5
+2018,Proportion of children moderately or severely overweight [2.2.2],,,,,Percent,,3.5
+2018,Proportion of children moderately or severely overweight [2.2.2],,,Urban,,Percent,,4.8
+2018,Proportion of children moderately or severely overweight [2.2.2],,,Rural,,Percent,,3.1
+2018,Proportion of children moderately or severely overweight [2.2.2],,Male,,,Percent,,3.9
+2018,Proportion of children moderately or severely overweight [2.2.2],,Female,,,Percent,,3.1
+2018,Proportion of children moderately or severely overweight [2.2.2],,,,Quintile 1 (poorest),Percent,,4.0
+2018,Proportion of children moderately or severely overweight [2.2.2],,,,Quintile 2,Percent,,2.5
+2018,Proportion of children moderately or severely overweight [2.2.2],,,,Quintile 3,Percent,,20.0
+2018,Proportion of children moderately or severely overweight [2.2.2],,,,Quintile 4,Percent,,3.1
+2018,Proportion of children moderately or severely overweight [2.2.2],,,,Quintile 5 (richest),Percent,,6.4

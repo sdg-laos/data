@@ -1,26 +1,26 @@
-Year,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,VC_DSR_AFFCT,,PER_100000_POP,,996.75
-2016,VC_DSR_AFFCT,,PER_100000_POP,,358.1
-2017,VC_DSR_AFFCT,,PER_100000_POP,,3805.69
-2018,VC_DSR_AFFCT,,PER_100000_POP,,9270.11
-2019,VC_DSR_AFFCT,,PER_100000_POP,,10795.47
-2015,VC_DSR_MORT,,PER_100000_POP,,0.1
-2016,VC_DSR_MORT,,PER_100000_POP,,0.07
-2017,VC_DSR_MORT,,PER_100000_POP,,0.14
-2018,VC_DSR_MORT,,PER_100000_POP,,0.91
-2019,VC_DSR_MORT,,PER_100000_POP,,0.37
-2015,VC_DSR_IJILN,,PER_100000_POP,,0.38
-2016,VC_DSR_IJILN,,PER_100000_POP,,0.0
-2017,VC_DSR_IJILN,,PER_100000_POP,,0.0
-2018,VC_DSR_IJILN,,PER_100000_POP,,0.02
-2019,VC_DSR_IJILN,,PER_100000_POP,,0.22
-2015,VC_DSR_MISS,,PER_100000_POP,,0.0
-2016,VC_DSR_MISS,,PER_100000_POP,,0.0
-2017,VC_DSR_MISS,,PER_100000_POP,,0.0
-2018,VC_DSR_MISS,,PER_100000_POP,,0.37
-2019,VC_DSR_MISS,,PER_100000_POP,,0.99
-2015,VC_DSR_PDYN,,PER_100000_POP,,1.37
-2016,VC_DSR_PDYN,,PER_100000_POP,,0.0
-2017,VC_DSR_PDYN,,PER_100000_POP,,0.0
-2018,VC_DSR_PDYN,,PER_100000_POP,,0.0
-2019,VC_DSR_PDYN,,PER_100000_POP,,0.0
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2015,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,996.75
+2016,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,358.1
+2017,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,3805.69
+2018,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,9270.11
+2019,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,10795.47
+2015,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.1
+2016,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.07
+2017,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.14
+2018,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.91
+2019,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.37
+2015,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.38
+2016,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2017,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2018,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.02
+2019,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.22
+2015,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2016,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2017,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2018,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.37
+2019,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.99
+2015,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,1.37
+2016,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2017,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2018,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0
+2019,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",,"Per 100,000 population",,0.0

@@ -1,23 +1,23 @@
-Year,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,GeoCode,Value
-1993,SI_POV_NAHC,,,,,PT,,46.0
-1998,SI_POV_NAHC,,,,,PT,,39.0
-2003,SI_POV_NAHC,,,,,PT,,33.5
-2008,SI_POV_NAHC,,,,,PT,,27.6
-2013,SI_POV_NAHC,,,,,PT,,24.6
-2018,SI_POV_NAHC,,,,,PT,,18.3
-2013,SI_POV_NAHC,,,,U,PT,,7.9
-2018,SI_POV_NAHC,,,,U,PT,,7.0
-2013,SI_POV_NAHC,,,,R,PT,,31.4
-2018,SI_POV_NAHC,,,,R,PT,,23.8
-2013,SI_POV_NAHC,,M,,,PT,,24.7
-2018,SI_POV_NAHC,,M,,,PT,,18.5
-2013,SI_POV_NAHC,,F,,,PT,,24.6
-2018,SI_POV_NAHC,,F,,,PT,,18.2
-2013,SI_POV_NAHC,,,Y0T14,,PT,,32.6
-2013,SI_POV_NAHC,,,Y15T24,,PT,,22.7
-2013,SI_POV_NAHC,,,Y55T64,,PT,,18.0
-2013,SI_POV_NAHC,,,Y_GE65,,PT,,22.1
-2018,SI_POV_NAHC,,,Y0T14,,PT,,24.3
-2018,SI_POV_NAHC,,,Y15T24,,PT,,19.7
-2018,SI_POV_NAHC,,,Y55T64,,PT,,12.4
-2018,SI_POV_NAHC,,,Y_GE65,,PT,,15.1
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+1993,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,46.0
+1998,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,39.0
+2003,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,33.5
+2008,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,27.6
+2013,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,24.6
+2018,Proportion of population living below the national poverty line [1.2.1],,,,,Percent,,18.3
+2013,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,7.9
+2018,Proportion of population living below the national poverty line [1.2.1],,,,Urban,Percent,,7.0
+2013,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,31.4
+2018,Proportion of population living below the national poverty line [1.2.1],,,,Rural,Percent,,23.8
+2013,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,24.7
+2018,Proportion of population living below the national poverty line [1.2.1],,Male,,,Percent,,18.5
+2013,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,24.6
+2018,Proportion of population living below the national poverty line [1.2.1],,Female,,,Percent,,18.2
+2013,Proportion of population living below the national poverty line [1.2.1],,,under 15 years old,,Percent,,32.6
+2013,Proportion of population living below the national poverty line [1.2.1],,,15 to 24 years old,,Percent,,22.7
+2013,Proportion of population living below the national poverty line [1.2.1],,,55 to 64 years old,,Percent,,18.0
+2013,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,22.1
+2018,Proportion of population living below the national poverty line [1.2.1],,,under 15 years old,,Percent,,24.3
+2018,Proportion of population living below the national poverty line [1.2.1],,,15 to 24 years old,,Percent,,19.7
+2018,Proportion of population living below the national poverty line [1.2.1],,,55 to 64 years old,,Percent,,12.4
+2018,Proportion of population living below the national poverty line [1.2.1],,,65 years old and over,,Percent,,15.1

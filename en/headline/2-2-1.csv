@@ -1,5 +1,5 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2015,35.5,,PT,SH_STA_STNT
-2018,33.0,,PT,SH_STA_STNT
-2012,42.0,,PT,_L_LA_020201_01
-2018,25.4,,PT,_L_LA_020201_01
+2015,35.5,,Percent,Proportion of children moderately or severely stunted [2.2.1]
+2018,33.0,,Percent,Proportion of children moderately or severely stunted [2.2.1]
+2012,42.0,,Percent,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1]
+2018,25.4,,Percent,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1]

@@ -1,23 +1,23 @@
-Year,SERIES,REF_AREA,SEX,URBANISATION,INCOME_WEALTH_QUANTILE,UNIT_MEASURE,GeoCode,Value
-2015,SH_STA_STNT,,,,,PT,,35.5
-2018,SH_STA_STNT,,,,,PT,,33.0
-2018,SH_STA_STNT,,,U,,PT,,21.5
-2018,SH_STA_STNT,,,R,,PT,,37.2
-2018,SH_STA_STNT,,M,,,PT,,34.0
-2018,SH_STA_STNT,,F,,,PT,,32.0
-2018,SH_STA_STNT,,,,Q1,PT,,48.0
-2018,SH_STA_STNT,,,,Q2,PT,,40.5
-2018,SH_STA_STNT,,,,Q3,PT,,30.0
-2018,SH_STA_STNT,,,,Q4,PT,,22.8
-2018,SH_STA_STNT,,,,Q5,PT,,13.9
-2012,_L_LA_020201_01,,,,,PT,,42.0
-2018,_L_LA_020201_01,,,,,PT,,25.4
-2018,_L_LA_020201_01,,,U,,PT,,16.8
-2018,_L_LA_020201_01,,,R,,PT,,28.6
-2018,_L_LA_020201_01,,M,,,PT,,27.7
-2018,_L_LA_020201_01,,F,,,PT,,22.8
-2018,_L_LA_020201_01,,,,Q1,PT,,36.2
-2018,_L_LA_020201_01,,,,Q2,PT,,31.9
-2018,_L_LA_020201_01,,,,Q3,PT,,22.2
-2018,_L_LA_020201_01,,,,Q4,PT,,18.0
-2018,_L_LA_020201_01,,,,Q5,PT,,12.3
+Year,SERIES,Reference area,Sex,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,GeoCode,Value
+2015,Proportion of children moderately or severely stunted [2.2.1],,,,,Percent,,35.5
+2018,Proportion of children moderately or severely stunted [2.2.1],,,,,Percent,,33.0
+2018,Proportion of children moderately or severely stunted [2.2.1],,,Urban,,Percent,,21.5
+2018,Proportion of children moderately or severely stunted [2.2.1],,,Rural,,Percent,,37.2
+2018,Proportion of children moderately or severely stunted [2.2.1],,Male,,,Percent,,34.0
+2018,Proportion of children moderately or severely stunted [2.2.1],,Female,,,Percent,,32.0
+2018,Proportion of children moderately or severely stunted [2.2.1],,,,Quintile 1 (poorest),Percent,,48.0
+2018,Proportion of children moderately or severely stunted [2.2.1],,,,Quintile 2,Percent,,40.5
+2018,Proportion of children moderately or severely stunted [2.2.1],,,,Quintile 3,Percent,,30.0
+2018,Proportion of children moderately or severely stunted [2.2.1],,,,Quintile 4,Percent,,22.8
+2018,Proportion of children moderately or severely stunted [2.2.1],,,,Quintile 5 (richest),Percent,,13.9
+2012,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,,Percent,,42.0
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,,Percent,,25.4
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,Urban,,Percent,,16.8
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,Rural,,Percent,,28.6
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,Male,,,Percent,,27.7
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,Female,,,Percent,,22.8
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,Quintile 1 (poorest),Percent,,36.2
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,Quintile 2,Percent,,31.9
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,Quintile 3,Percent,,22.2
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,Quintile 4,Percent,,18.0
+2018,Stunting among under 2 years old (for Lao PDR's commitment to SUN 1000 days programme) [2.2.1],,,,Quintile 5 (richest),Percent,,12.3

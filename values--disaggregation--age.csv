@@ -1,5 +1,5 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
-Y_GE65,Y_GE65,Y_GE65,2,2
-Y0T14,Y0T14,Y0T14,2,2
-Y15T24,Y15T24,Y15T24,2,2
-Y55T64,Y55T64,Y55T64,2,2
+Y_GE65,Y_GE65,65 years old and over,2,2
+Y0T14,Y0T14,under 15 years old,2,2
+Y15T24,Y15T24,15 to 24 years old,2,2
+Y55T64,Y55T64,55 to 64 years old,2,2

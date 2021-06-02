@@ -1,1 +1,51 @@
-{}
+W_PER_CAPITA: Watts ຕໍ່ຫົວຄົນ
+USD_PER_M3: ໂດລາສະຫະລັດຕໍ່ແມັດກ້ອນ
+USD: USD
+UNIT_MEASURE: ຫນ່ວຍງານວັດແທກ
+T_PER_HA: ໂຕນຕໍ່ເຮັກຕາ
+T_KM: ກິ ໂລ ແມັດ ຕັນ
+TEU: ຫນ່ວຍທຽບເທົ່າຊາວແມັດ (TEUs)
+TCO2E: ໂຕນຂອງ CO2-ທຽບເທົ່າ
+T: Metric Tons
+SCORE: ຄະແນນ
+RO: ອັດຕາສ່ວນ
+P_KM: ກິໂລແມັດຂອງຜູ້ໂດຍສານ
+PV_USD: USD ໃນເງື່ອນໄຂມູນຄ່າລວມໃນປັດຈຸບັນ
+PH: pH
+PER_USD_GDP_PPP: ຕໍ່ 1 USD GDP (PPP)
+PER_100_POP: ຕໍ່ 100 ປະຊາກອນ
+PER_100_LIVE_BIRTHS: Per 100 live births
+PER_1000_USD: ຕໍ່ 1,000 USD
+PER_1000_UNINFECTED_POP: ຕໍ່ 1,000 ຄົນທີ່ບໍ່ໄດ້ຕິດເຊື້ອ
+PER_1000_POP: ຕໍ່ 1,000 ຄົນ
+PER_1000_LIVE_BIRTHS: ຕໍ່ 1,000 ຄົນທີ່ມີຊີວິດ
+PER_10000_POP: ຕໍ່ 10,000 ຄົນ
+PER_100000_WKRS_EXPD: ຕໍ່ 100,000 ຄົນທີ່ປະສົບກັບຄວາມສ່ຽງ
+PER_100000_WKRS_EMP: ຕໍ່ 100,000 ຄົນທີ່ຈ້າງງານ
+PER_100000_PRSN_INSR: ຕໍ່ 100,000 ຄົນ ທີ່ໄດ້ຮັບປະກັນໄພ
+PER_100000_POP: ຕໍ່ 100,000 ຄົນ
+PER_100000_LIVE_BIRTHS: ຕໍ່ 100,000 ຄົນທີ່ເກີດໃຫມ່
+PER_100000_FTE: ຕໍ່ 100,000 ເທົ່າເຕັມເວລາ
+PER_100000_EMP: ຕໍ່ ພະນັກງານ 100,000 ຄົນ
+PER_1000000_POP: ຕໍ່ລ້ານປະຊາກອນ
+NUMBER: ເລກທີ
+M_M3_PER_YR: ລ້ານແມັດກ້ອນຕໍ່ປີ
+MJ_PER_GDP_CON_PPP_USD: Megajoules ຕໍ່ USD ຢ່າງຕໍ່ເນື່ອງ PPP GDP
+LITRES_PURE_ALCOHOL: Litres ທາດເຫຼົ້າບໍລິສຸດ
+LCU_PPP_USD: ສະກຸນເງິນທ້ອງຖິ່ນຕໍ່ USD (PPP)
+KM2: ຕາລາງກິໂລແມັດ
+KM: ກິໂລແມັດ
+KG_PER_CON_USD: Kilograms ຕໍ່ USD ສະ ຫມ່ໍາ ສະ ເຫມີ
+KG_OE_PER_GDP_USD: kg ນ້ໍາມັນທຽບເທົ່າຕໍ່ USD1,000 GDP
+KG_OE_PER_GDP_CON_PPP_USD: kg ນໍ້າມັນທຽບເທົ່າຕໍ່ USD1,000 ທີ່ສະ ຫມ່ໍາສະ ເຫມີ PPP GDP
+KG_C_KM2_PER_DAY: ກິໂລກຣາມຂອງກາກບອນຈາກຊີວະມວນalgae ຕໍ່ກິໂລແມັດ. ຂອງເຂດອ່າງແມ່ນໍ້າຂອງຕໍ່ມື້
+KG_CO2_PER_GDP_CON_PPP_USD: kg CO2 ເທົ່າກັບ USD1 ສະ ຫມ່ໍາສະ ເຫມີ PPP GDP
+KG: Kilograms
+IX: ອິນເດັກ
+HA: ເຮັກຕາ
+GPERM3: ໄມໂຄຣແກຣມຕໍ່ແມັດກ້ອນ
+CUR_LCU: ສະກຸນເງິນທ້ອງຖິ່ນ
+CON_USD: ສະ ຫມ່ໍາ ສະ ເຫມີ USD
+BOOL: Boolean ຫຼື binary ວັດແທກ
+PT: ເປີເຊັນ
+PROB: ຄວາມເປັນໄປໄດ້

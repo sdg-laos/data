@@ -33,7 +33,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",

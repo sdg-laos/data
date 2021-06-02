@@ -61,7 +61,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "URBANISATION",
@@ -197,7 +197,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "URBANISATION",
@@ -402,7 +402,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",
@@ -571,7 +571,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",
@@ -608,13 +608,13 @@
             "constraints": {
               "enum": [
                 "",
-                "CPC2_1_112",
-                "CPC2_1_113",
-                "_L_LA_MEAT",
-                "_L_LA_VEG"
+                "ສາລີ",
+                "ເຂົ້າ",
+                "ຊີ້ນ ແລະ ປາ",
+                "ຜັກ"
               ]
             },
-            "title": "PRODUCT"
+            "title": "ປະເພດຜະລິດຕະພັນ"
           },
           {
             "name": "REF_AREA",
@@ -634,7 +634,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",
@@ -710,7 +710,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "URBANISATION",
@@ -771,7 +771,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",
@@ -820,7 +820,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",
@@ -869,7 +869,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",
@@ -944,7 +944,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "URBANISATION",
@@ -1005,7 +1005,7 @@
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ຫນ່ວຍງານວັດແທກ"
           },
           {
             "name": "Value",

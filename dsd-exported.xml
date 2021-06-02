@@ -5498,127 +5498,127 @@
         <structure:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0)._T">
           <common:Name xml:lang="en">No breakdown</common:Name>
           <common:Description xml:lang="en">No breakdown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ບໍ່ແຕກ</common:Name></structure:Code>
         <structure:Code id="AGG_ARMS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_ARMS">
           <common:Name xml:lang="en">Arms</common:Name>
           <common:Description xml:lang="en">Arms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອາວຸດ</common:Name></structure:Code>
         <structure:Code id="AGG_CLTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_CLTH">
           <common:Name xml:lang="en">Clothing</common:Name>
           <common:Description xml:lang="en">Clothing</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເຄື່ອງນຸ່ງຫົ່ມ</common:Name></structure:Code>
         <structure:Code id="AGG_IND" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_IND">
           <common:Name xml:lang="en">Industrial products</common:Name>
           <common:Description xml:lang="en">Industrial products</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຜະ ລິດ ຕະ ພັນ ອຸດ ສາ ຫະ ກໍາ</common:Name></structure:Code>
         <structure:Code id="AGG_AGR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_AGR">
           <common:Name xml:lang="en">Agriculture products</common:Name>
           <common:Description xml:lang="en">Agriculture products</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຜະລິດຕະພັນກະສິກໍາ</common:Name></structure:Code>
         <structure:Code id="AGG_OIL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_OIL">
           <common:Name xml:lang="en">Oil</common:Name>
           <common:Description xml:lang="en">Oil</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ນ້ໍາມັນ</common:Name></structure:Code>
         <structure:Code id="AGG_TXT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).AGG_TXT">
           <common:Name xml:lang="en">Textiles</common:Name>
           <common:Description xml:lang="en">Textiles</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Textiles</common:Name></structure:Code>
         <structure:Code id="CPC2_1_112" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_112">
           <common:Name xml:lang="en">Maize</common:Name>
           <common:Description xml:lang="en">Maize</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສາລີ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_118" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_118">
           <common:Name xml:lang="en">Millet</common:Name>
           <common:Description xml:lang="en">Millet</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Millet</common:Name></structure:Code>
         <structure:Code id="CPC2_1_113" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_113">
           <common:Name xml:lang="en">Rice</common:Name>
           <common:Description xml:lang="en">Rice</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເຂົ້າ</common:Name></structure:Code>
         <structure:Code id="CPC2_1_114" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_114">
           <common:Name xml:lang="en">Sorghum</common:Name>
           <common:Description xml:lang="en">Sorghum</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Sorghum</common:Name></structure:Code>
         <structure:Code id="CPC2_1_111" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).CPC2_1_111">
           <common:Name xml:lang="en">Wheat</common:Name>
           <common:Description xml:lang="en">Wheat</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເຂົ້າສາລີ</common:Name></structure:Code>
         <structure:Code id="MF1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF1">
           <common:Name xml:lang="en">Biomass (material flows)</common:Name>
           <common:Description xml:lang="en">Biomass (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຊີວະມວນ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF2">
           <common:Name xml:lang="en">Metal ores (material flows)</common:Name>
           <common:Description xml:lang="en">Metal ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໂລຫະໂລຫະ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF3">
           <common:Name xml:lang="en">Non-metallic minerals (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ແຮ່ທາດທີ່ບໍ່ແມ່ນໂລຫະ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF4">
           <common:Name xml:lang="en">Fossil fuels (material flows)</common:Name>
           <common:Description xml:lang="en">Fossil fuels (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເຊື້ອໄຟຟອດຊິນ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF121" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF121">
           <common:Name xml:lang="en">Crop residues (material flows)</common:Name>
           <common:Description xml:lang="en">Crop residues (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສ່ວນທີ່ເຫຼືອຂອງພືດ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF11">
           <common:Name xml:lang="en">Crops (material flows)</common:Name>
           <common:Description xml:lang="en">Crops (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ພືດ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF122" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF122">
           <common:Name xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Name>
           <common:Description xml:lang="en">Grazed biomass and fodder crops (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ການປູກຊີວະມວນ ແລະ ການປູກອາຫານ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF14">
           <common:Name xml:lang="en">Wild catch and harvest (material flows)</common:Name>
           <common:Description xml:lang="en">Wild catch and harvest (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ການຈັບແລະເກັບກ່ຽວປ່າ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF13">
           <common:Name xml:lang="en">Wood (material flows)</common:Name>
           <common:Description xml:lang="en">Wood (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໄມ້ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF41" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF41">
           <common:Name xml:lang="en">Coal (material flows)</common:Name>
           <common:Description xml:lang="en">Coal (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຖ່ານ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF422" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF422">
           <common:Name xml:lang="en">Natural gas (material flows)</common:Name>
           <common:Description xml:lang="en">Natural gas (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ແກັສທໍາມະຊາດ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF413" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF413">
           <common:Name xml:lang="en">Oil shale and tar sands (material flows)</common:Name>
           <common:Description xml:lang="en">Oil shale and tar sands (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຂີ້ອາຍນ້ໍາມັນ ແລະ ດິນຊາຍtar (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF421" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF421">
           <common:Name xml:lang="en">Petroleum (material flows)</common:Name>
           <common:Description xml:lang="en">Petroleum (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ນ້ໍາມັນເຊື້ອໄຟ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF21" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF21">
           <common:Name xml:lang="en">Ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Ferrous ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Ferrous ores (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF22" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF22">
           <common:Name xml:lang="en">Non-ferrous ores (material flows)</common:Name>
           <common:Description xml:lang="en">Non-ferrous ores (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ແຮ່ທາດທີ່ບໍ່ແມ່ນferrous (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF_AGG3A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF_AGG3A">
           <common:Name xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - construction dominant (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ແຮ່ທາດທີ່ບໍ່ແມ່ນໂລຫະ - ການກໍ່ສ້າງທີ່ຄອບງໍາ (ການໄຫຼຂອງວັດຖຸ)</common:Name></structure:Code>
         <structure:Code id="MF_AGG3B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0).MF_AGG3B">
           <common:Name xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Name>
           <common:Description xml:lang="en">Non-metallic minerals - industrial or agricultural dominant (material flows)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ແຮ່ທາດທີ່ບໍ່ແມ່ນໂລຫະ - ອຸດສາຫະກໍາ ຫຼື ກະສິກໍາທີ່ຄອບງໍາ (ການໄຫຼຂອງວັດຖຸດິບ)</common:Name></structure:Code>
         <structure:Code id="_L_LA_VEG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0)._L_LA_VEG">
           <common:Name xml:lang="en">Vegetable</common:Name>
           <common:Description xml:lang="en">Vegetable</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຜັກ</common:Name></structure:Code>
         <structure:Code id="_L_LA_MEAT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_PRODUCT(1.0)._L_LA_MEAT">
           <common:Name xml:lang="en">Meat and fish</common:Name>
           <common:Description xml:lang="en">Meat and fish</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຊີ້ນ ແລະ ປາ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_QUANTILE" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_QUANTILE(1.1)" version="1.1">
         <common:Name xml:lang="en">Income/wealth quantile code list</common:Name>
@@ -5684,203 +5684,203 @@
         <structure:Code id="CON_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).CON_USD">
           <common:Name xml:lang="en">Constant USD</common:Name>
           <common:Description xml:lang="en">Constant USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສະ ຫມ່ໍາ ສະ ເຫມີ USD</common:Name></structure:Code>
         <structure:Code id="HA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).HA">
           <common:Name xml:lang="en">Hectares</common:Name>
           <common:Description xml:lang="en">Hectares</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເຮັກຕາ</common:Name></structure:Code>
         <structure:Code id="IX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).IX">
           <common:Name xml:lang="en">Index</common:Name>
           <common:Description xml:lang="en">Index</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອິນເດັກ</common:Name></structure:Code>
         <structure:Code id="KG_CO2_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_CO2_PER_GDP_CON_PPP_USD">
           <common:Name xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</common:Name>
           <common:Description xml:lang="en">kg CO2 equivalent per USD1 constant PPP GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">kg CO2 ເທົ່າກັບ USD1 ສະ ຫມ່ໍາສະ ເຫມີ PPP GDP</common:Name></structure:Code>
         <structure:Code id="KG_OE_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_OE_PER_GDP_CON_PPP_USD">
           <common:Name xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</common:Name>
           <common:Description xml:lang="en">kg oil equivalent per USD1,000 constant PPP GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">kg ນໍ້າມັນທຽບເທົ່າຕໍ່ USD1,000 ທີ່ສະ ຫມ່ໍາສະ ເຫມີ PPP GDP</common:Name></structure:Code>
         <structure:Code id="KG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG">
           <common:Name xml:lang="en">Kilograms</common:Name>
           <common:Description xml:lang="en">Kilograms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Kilograms</common:Name></structure:Code>
         <structure:Code id="KG_PER_CON_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_PER_CON_USD">
           <common:Name xml:lang="en">Kilograms per constant USD</common:Name>
           <common:Description xml:lang="en">Kilograms per constant USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Kilograms ຕໍ່ USD ສະ ຫມ່ໍາ ສະ ເຫມີ</common:Name></structure:Code>
         <structure:Code id="KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KM">
           <common:Name xml:lang="en">Kilometers</common:Name>
           <common:Description xml:lang="en">Kilometers</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ກິໂລແມັດ</common:Name></structure:Code>
         <structure:Code id="KM2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KM2">
           <common:Name xml:lang="en">Square kilometers</common:Name>
           <common:Description xml:lang="en">Square kilometers</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕາລາງກິໂລແມັດ</common:Name></structure:Code>
         <structure:Code id="LITRES_PURE_ALCOHOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).LITRES_PURE_ALCOHOL">
           <common:Name xml:lang="en">Litres pure alcohol</common:Name>
           <common:Description xml:lang="en">Litres pure alcohol</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Litres ທາດເຫຼົ້າບໍລິສຸດ</common:Name></structure:Code>
         <structure:Code id="CUR_LCU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).CUR_LCU">
           <common:Name xml:lang="en">Local currency</common:Name>
           <common:Description xml:lang="en">Local currency</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສະກຸນເງິນທ້ອງຖິ່ນ</common:Name></structure:Code>
         <structure:Code id="LCU_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).LCU_PPP_USD">
           <common:Name xml:lang="en">Local currency per USD (PPP)</common:Name>
           <common:Description xml:lang="en">Local currency per USD (PPP)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສະກຸນເງິນທ້ອງຖິ່ນຕໍ່ USD (PPP)</common:Name></structure:Code>
         <structure:Code id="MJ_PER_GDP_CON_PPP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).MJ_PER_GDP_CON_PPP_USD">
           <common:Name xml:lang="en">Megajoules per USD constant PPP GDP</common:Name>
           <common:Description xml:lang="en">Megajoules per USD constant PPP GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Megajoules ຕໍ່ USD ຢ່າງຕໍ່ເນື່ອງ PPP GDP</common:Name></structure:Code>
         <structure:Code id="T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T">
           <common:Name xml:lang="en">Metric Tons</common:Name>
           <common:Description xml:lang="en">Metric Tons</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Metric Tons</common:Name></structure:Code>
         <structure:Code id="GPERM3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).GPERM3">
           <common:Name xml:lang="en">Micrograms per cubic meter</common:Name>
           <common:Description xml:lang="en">Micrograms per cubic meter</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໄມໂຄຣແກຣມຕໍ່ແມັດກ້ອນ</common:Name></structure:Code>
         <structure:Code id="NUMBER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).NUMBER">
           <common:Name xml:lang="en">Number</common:Name>
           <common:Description xml:lang="en">Number</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເລກທີ</common:Name></structure:Code>
         <structure:Code id="PER_USD_GDP_PPP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_USD_GDP_PPP">
           <common:Name xml:lang="en">Per 1 USD GDP (PPP)</common:Name>
           <common:Description xml:lang="en">Per 1 USD GDP (PPP)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 1 USD GDP (PPP)</common:Name></structure:Code>
         <structure:Code id="PER_1000_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_LIVE_BIRTHS">
           <common:Name xml:lang="en">Per 1,000 live births</common:Name>
           <common:Description xml:lang="en">Per 1,000 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 1,000 ຄົນທີ່ມີຊີວິດ</common:Name></structure:Code>
         <structure:Code id="PER_1000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_POP">
           <common:Name xml:lang="en">Per 1,000 population</common:Name>
           <common:Description xml:lang="en">Per 1,000 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 1,000 ຄົນ</common:Name></structure:Code>
         <structure:Code id="PER_1000_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_USD">
           <common:Name xml:lang="en">Per 1,000 USD</common:Name>
           <common:Description xml:lang="en">Per 1,000 USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 1,000 USD</common:Name></structure:Code>
         <structure:Code id="PER_1000_UNINFECTED_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000_UNINFECTED_POP">
           <common:Name xml:lang="en">Per 1,000 uninfected population</common:Name>
           <common:Description xml:lang="en">Per 1,000 uninfected population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 1,000 ຄົນທີ່ບໍ່ໄດ້ຕິດເຊື້ອ</common:Name></structure:Code>
         <structure:Code id="PER_100_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100_LIVE_BIRTHS">
           <common:Name xml:lang="en">Per 100 live births</common:Name>
           <common:Description xml:lang="en">Per 100 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Per 100 live births</common:Name></structure:Code>
         <structure:Code id="PER_100_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100_POP">
           <common:Name xml:lang="en">Per 100 population</common:Name>
           <common:Description xml:lang="en">Per 100 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100 ປະຊາກອນ</common:Name></structure:Code>
         <structure:Code id="PER_100000_EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_EMP">
           <common:Name xml:lang="en">Per 100,000 employees</common:Name>
           <common:Description xml:lang="en">Per 100,000 employees</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ ພະນັກງານ 100,000 ຄົນ</common:Name></structure:Code>
         <structure:Code id="PER_100000_FTE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_FTE">
           <common:Name xml:lang="en">Per 100,000 full-time equivalents</common:Name>
           <common:Description xml:lang="en">Per 100,000 full-time equivalents</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100,000 ເທົ່າເຕັມເວລາ</common:Name></structure:Code>
         <structure:Code id="PER_100000_LIVE_BIRTHS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_LIVE_BIRTHS">
           <common:Name xml:lang="en">Per 100,000 live births</common:Name>
           <common:Description xml:lang="en">Per 100,000 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100,000 ຄົນທີ່ເກີດໃຫມ່</common:Name></structure:Code>
         <structure:Code id="PER_100000_PRSN_INSR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_PRSN_INSR">
           <common:Name xml:lang="en">Per 100,000 persons insured</common:Name>
           <common:Description xml:lang="en">Per 100,000 persons insured</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100,000 ຄົນ ທີ່ໄດ້ຮັບປະກັນໄພ</common:Name></structure:Code>
         <structure:Code id="PER_100000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_POP">
           <common:Name xml:lang="en">Per 100,000 population</common:Name>
           <common:Description xml:lang="en">Per 100,000 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100,000 ຄົນ</common:Name></structure:Code>
         <structure:Code id="PER_100000_WKRS_EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_WKRS_EMP">
           <common:Name xml:lang="en">Per 100,000 workers employed</common:Name>
           <common:Description xml:lang="en">Per 100,000 workers employed</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100,000 ຄົນທີ່ຈ້າງງານ</common:Name></structure:Code>
         <structure:Code id="PER_100000_WKRS_EXPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_100000_WKRS_EXPD">
           <common:Name xml:lang="en">Per 100,000 workers exposed to risk</common:Name>
           <common:Description xml:lang="en">Per 100,000 workers exposed to risk</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 100,000 ຄົນທີ່ປະສົບກັບຄວາມສ່ຽງ</common:Name></structure:Code>
         <structure:Code id="PER_1000000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_1000000_POP">
           <common:Name xml:lang="en">Per million population</common:Name>
           <common:Description xml:lang="en">Per million population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ລ້ານປະຊາກອນ</common:Name></structure:Code>
         <structure:Code id="PT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PT">
           <common:Name xml:lang="en">Percent</common:Name>
           <common:Description xml:lang="en">Percent</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເປີເຊັນ</common:Name></structure:Code>
         <structure:Code id="PROB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PROB">
           <common:Name xml:lang="en">Probability</common:Name>
           <common:Description xml:lang="en">Probability</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຄວາມເປັນໄປໄດ້</common:Name></structure:Code>
         <structure:Code id="RO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).RO">
           <common:Name xml:lang="en">Ratio</common:Name>
           <common:Description xml:lang="en">Ratio</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອັດຕາສ່ວນ</common:Name></structure:Code>
         <structure:Code id="T_KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T_KM">
           <common:Name xml:lang="en">Tonne kilometres</common:Name>
           <common:Description xml:lang="en">Tonne kilometres</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ກິ ໂລ ແມັດ ຕັນ</common:Name></structure:Code>
         <structure:Code id="T_PER_HA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).T_PER_HA">
           <common:Name xml:lang="en">Tonnes per hectare</common:Name>
           <common:Description xml:lang="en">Tonnes per hectare</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໂຕນຕໍ່ເຮັກຕາ</common:Name></structure:Code>
         <structure:Code id="USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).USD">
           <common:Name xml:lang="en">USD</common:Name>
           <common:Description xml:lang="en">USD</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">USD</common:Name></structure:Code>
         <structure:Code id="PV_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PV_USD">
           <common:Name xml:lang="en">USD in net present value terms</common:Name>
           <common:Description xml:lang="en">USD in net present value terms</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">USD ໃນເງື່ອນໄຂມູນຄ່າລວມໃນປັດຈຸບັນ</common:Name></structure:Code>
         <structure:Code id="USD_PER_M3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).USD_PER_M3">
           <common:Name xml:lang="en">United States dollars per cubic metre</common:Name>
           <common:Description xml:lang="en">United States dollars per cubic metre</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໂດລາສະຫະລັດຕໍ່ແມັດກ້ອນ</common:Name></structure:Code>
         <structure:Code id="PER_10000_POP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PER_10000_POP">
           <common:Name xml:lang="en">Per 10,000 population</common:Name>
           <common:Description xml:lang="en">Per 10,000 population</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕໍ່ 10,000 ຄົນ</common:Name></structure:Code>
         <structure:Code id="P_KM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).P_KM">
           <common:Name xml:lang="en">Passenger kilometres</common:Name>
           <common:Description xml:lang="en">Passenger kilometres</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ກິໂລແມັດຂອງຜູ້ໂດຍສານ</common:Name></structure:Code>
         <structure:Code id="M_M3_PER_YR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).M_M3_PER_YR">
           <common:Name xml:lang="en">Million of cubic metres per annum</common:Name>
           <common:Description xml:lang="en">Million of cubic metres per annum</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ລ້ານແມັດກ້ອນຕໍ່ປີ</common:Name></structure:Code>
         <structure:Code id="BOOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).BOOL">
           <common:Name xml:lang="en">Boolean or binary measure</common:Name>
           <common:Description xml:lang="en">Boolean or binary measure</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Boolean ຫຼື binary ວັດແທກ</common:Name></structure:Code>
         <structure:Code id="TEU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TEU">
           <common:Name xml:lang="en">Twenty-foot equivalent units (TEUs)</common:Name>
           <common:Description xml:lang="en">Twenty-foot equivalent units (TEUs)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຫນ່ວຍທຽບເທົ່າຊາວແມັດ (TEUs)</common:Name></structure:Code>
         <structure:Code id="PH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).PH">
           <common:Name xml:lang="en">pH</common:Name>
           <common:Description xml:lang="en">pH</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">pH</common:Name></structure:Code>
         <structure:Code id="SCORE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).SCORE">
           <common:Name xml:lang="en">Score</common:Name>
           <common:Description xml:lang="en">Score</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຄະແນນ</common:Name></structure:Code>
         <structure:Code id="W_PER_CAPITA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).W_PER_CAPITA">
           <common:Name xml:lang="en">Watts per capita</common:Name>
           <common:Description xml:lang="en">Watts per capita</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Watts ຕໍ່ຫົວຄົນ</common:Name></structure:Code>
         <structure:Code id="KG_OE_PER_GDP_USD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_OE_PER_GDP_USD">
           <common:Name xml:lang="en">kg oil equivalent per USD1,000 GDP</common:Name>
           <common:Description xml:lang="en">kg oil equivalent per USD1,000 GDP</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">kg ນ້ໍາມັນທຽບເທົ່າຕໍ່ USD1,000 GDP</common:Name></structure:Code>
         <structure:Code id="KG_C_KM2_PER_DAY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).KG_C_KM2_PER_DAY">
           <common:Name xml:lang="en">kilograms of carbon from algae biomass per sq. km. of river basin area per day</common:Name>
           <common:Description xml:lang="en">kilograms of carbon from algae biomass per sq. km. of river basin area per day</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ກິໂລກຣາມຂອງກາກບອນຈາກຊີວະມວນalgae ຕໍ່ກິໂລແມັດ. ຂອງເຂດອ່າງແມ່ນໍ້າຂອງຕໍ່ມື້</common:Name></structure:Code>
         <structure:Code id="TCO2E" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_UNIT_MEASURE(1.3).TCO2E">
           <common:Name xml:lang="en">Tonnes of CO2-equivalent</common:Name>
           <common:Description xml:lang="en">Tonnes of CO2-equivalent</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໂຕນຂອງ CO2-ທຽບເທົ່າ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="IAEG-SDGs" id="CL_URBANISATION" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IAEG-SDGs:CL_URBANISATION(1.0)" version="1.0">
         <common:Name xml:lang="en">Degree of urbanisation code list</common:Name>
@@ -25379,39 +25379,39 @@
         <structure:Code id="A" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).A">
           <common:Name xml:lang="en">Annual</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every year.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ປະຈໍາປີ</common:Name></structure:Code>
         <structure:Code id="S" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).S">
           <common:Name xml:lang="en">Half-yearly, semester</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every semester.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເຄິ່ງປີ, ສົກຮຽນ</common:Name></structure:Code>
         <structure:Code id="Q" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).Q">
           <common:Name xml:lang="en">Quarterly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every quarter.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ໄຕມາດ</common:Name></structure:Code>
         <structure:Code id="M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).M">
           <common:Name xml:lang="en">Monthly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every month.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ປະຈໍາເດືອນ</common:Name></structure:Code>
         <structure:Code id="W" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).W">
           <common:Name xml:lang="en">Weekly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every week.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອາທິດ</common:Name></structure:Code>
         <structure:Code id="D" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).D">
           <common:Name xml:lang="en">Daily</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every day.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ປະຈໍາວັນ</common:Name></structure:Code>
         <structure:Code id="H" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).H">
           <common:Name xml:lang="en">Hourly</common:Name>
           <common:Description xml:lang="en">To be used for data collected or disseminated every hour.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຊົ່ວໂມງ</common:Name></structure:Code>
         <structure:Code id="B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).B">
           <common:Name xml:lang="en">Daily – businessweek</common:Name>
           <common:Description xml:lang="en">Similar to "daily", however there are no observations for Saturdays and Sundays (so, neither "missing values" nor "numeric values" should be provided for Saturday and Sunday). This treatment  ("business") is one way to deal with such cases, but it is not the only option. Such a time series could alternatively be considered daily ("D"), thus, with missing values in the weekend.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ປະຈໍາວັນ – ອາທິດທຸລະກິດ</common:Name></structure:Code>
         <structure:Code id="N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_FREQ(2.0).N">
           <common:Name xml:lang="en">Minutely</common:Name>
           <common:Description xml:lang="en">While N denotes "minutely", usually, there may be no observations every minute (for several series the frequency is usually "irregular" within a day/days). And though observations may be sparse (not collected or disseminated every minute), missing values do not need to be given for the minutes when no observations exist: in any case the time stamp determines when an observation is observed.</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ນາທີ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="SDMX" id="CL_OBS_STATUS" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=SDMX:CL_OBS_STATUS(2.1)" version="2.1">
         <common:Name xml:lang="en">Observation Status</common:Name>
@@ -25503,127 +25503,127 @@
         <structure:Code id="0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).0">
           <common:Name xml:lang="en">Units</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of zero (10^0)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຫົວຫນ່ວຍ</common:Name></structure:Code>
         <structure:Code id="1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).1">
           <common:Name xml:lang="en">Tens</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of one (10^1)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Tens</common:Name></structure:Code>
         <structure:Code id="2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).2">
           <common:Name xml:lang="en">Hundreds</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of two (10^2)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍ</common:Name></structure:Code>
         <structure:Code id="3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).3">
           <common:Name xml:lang="en">Thousands</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of three (10^3)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ພັນ</common:Name></structure:Code>
         <structure:Code id="4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).4">
           <common:Name xml:lang="en">Tens of thousands</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of four (10^4)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຫມື່ນ</common:Name></structure:Code>
         <structure:Code id="5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).5">
           <common:Name xml:lang="en">Hundreds of thousands</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of five(10^5)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍພັນ</common:Name></structure:Code>
         <structure:Code id="6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).6">
           <common:Name xml:lang="en">Millions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of six (10^6)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ລ້ານ</common:Name></structure:Code>
         <structure:Code id="7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).7">
           <common:Name xml:lang="en">Tens of millions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of seven (10^7)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຫມື່ນລ້ານ</common:Name></structure:Code>
         <structure:Code id="8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).8">
           <common:Name xml:lang="en">Hundreds of millions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of eight (10^8)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍລ້ານ</common:Name></structure:Code>
         <structure:Code id="9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).9">
           <common:Name xml:lang="en">Billions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of nine (10^9)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ພັນລ້ານ</common:Name></structure:Code>
         <structure:Code id="10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).10">
           <common:Name xml:lang="en">Tens of billions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of ten (10^10)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຫມື່ນພັນລ້ານ</common:Name></structure:Code>
         <structure:Code id="11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).11">
           <common:Name xml:lang="en">Hundreds of billions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of eleven (10^11)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍພັນລ້ານ</common:Name></structure:Code>
         <structure:Code id="12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).12">
           <common:Name xml:lang="en">Trillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of twelve (10^12)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Trillions</common:Name></structure:Code>
         <structure:Code id="13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).13">
           <common:Name xml:lang="en">Tens of trillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of thirteen (10^13)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຫມື່ນລ້ານ</common:Name></structure:Code>
         <structure:Code id="14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).14">
           <common:Name xml:lang="en">Hundreds of trillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of fourteen (10^14)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍລ້ານ</common:Name></structure:Code>
         <structure:Code id="15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).15">
           <common:Name xml:lang="en">Quadrillions</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of fifteen (10^15)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Quadrillions</common:Name></structure:Code>
         <structure:Code id="-1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-1">
           <common:Name xml:lang="en">Tenths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus one (10^-1)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ທີສິບ</common:Name></structure:Code>
         <structure:Code id="-2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-2">
           <common:Name xml:lang="en">Hundredths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus two (10^-2)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍ</common:Name></structure:Code>
         <structure:Code id="-3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-3">
           <common:Name xml:lang="en">Thousandths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus three (10^-3)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ພັນ</common:Name></structure:Code>
         <structure:Code id="-4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-4">
           <common:Name xml:lang="en">Ten-thousandths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus four (10^-4)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສິບພັນ</common:Name></structure:Code>
         <structure:Code id="-5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-5">
           <common:Name xml:lang="en">Hundred-thousandths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus five (10^-5)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍພັນ</common:Name></structure:Code>
         <structure:Code id="-6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-6">
           <common:Name xml:lang="en">Millionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus six (10^-6)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ລ້ານ</common:Name></structure:Code>
         <structure:Code id="-7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-7">
           <common:Name xml:lang="en">Ten-millionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus seven (10^-7)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສິບລ້ານ</common:Name></structure:Code>
         <structure:Code id="-8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-8">
           <common:Name xml:lang="en">Hundred-millionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus eight (10^-8)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍລ້ານ</common:Name></structure:Code>
         <structure:Code id="-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-9">
           <common:Name xml:lang="en">Billionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus nine (10^-9)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ພັນລ້ານ</common:Name></structure:Code>
         <structure:Code id="-10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-10">
           <common:Name xml:lang="en">Ten-billionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus ten (10^-10)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສິບພັນລ້ານ</common:Name></structure:Code>
         <structure:Code id="-11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-11">
           <common:Name xml:lang="en">Hundred-billionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus eleven (10^-11)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍລ້ານ</common:Name></structure:Code>
         <structure:Code id="-12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-12">
           <common:Name xml:lang="en">Trillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus twelve (10^-12)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Trillionths</common:Name></structure:Code>
         <structure:Code id="-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-13">
           <common:Name xml:lang="en">Ten-trillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus thirteen (10^-13)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສິບລ້ານ</common:Name></structure:Code>
         <structure:Code id="-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-14">
           <common:Name xml:lang="en">Hundred-trillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus fourteen (10^-14)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຮ້ອຍ-trillionths</common:Name></structure:Code>
         <structure:Code id="-15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=SDMX:CL_UNIT_MULT(1.1).-15">
           <common:Name xml:lang="en">Quadrillionths</common:Name>
           <common:Description xml:lang="en">In scientific notation, expressed as ten raised to the power of minus fifteen (10^-15)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">Quadrillionths</common:Name></structure:Code>
       </structure:Codelist>
     </structure:Codelists>
     <structure:Concepts>

@@ -90,6 +90,30 @@
       "title": "1-2-1"
     },
     {
+      "path": "3-9-2/data.csv",
+      "name": "3-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "3-9-2"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",

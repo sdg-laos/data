@@ -5887,15 +5887,15 @@
         <structure:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_URBANISATION(1.0)._T">
           <common:Name xml:lang="en">Total</common:Name>
           <common:Description xml:lang="en">Total</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ລວມ</common:Name></structure:Code>
         <structure:Code id="U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_URBANISATION(1.0).U">
           <common:Name xml:lang="en">Urban</common:Name>
           <common:Description xml:lang="en">Urban</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຕົວເມືອງ</common:Name></structure:Code>
         <structure:Code id="R" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IAEG-SDGs:CL_URBANISATION(1.0).R">
           <common:Name xml:lang="en">Rural</common:Name>
           <common:Description xml:lang="en">Rural</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຊົນນະບົດ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="LSB-SDGs" id="CL_AGE" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_AGE(1.1)" version="1.1">
         <common:Name xml:lang="en">SDG age group code list</common:Name>
@@ -25339,39 +25339,39 @@
         <structure:Code id="_T" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1)._T">
           <common:Name xml:lang="en">Both sexes or no breakdown by sex</common:Name>
           <common:Description xml:lang="en">Both sexes or no breakdown by sex</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ທັງສອງເພດຫຼືບໍ່ແຕກແຍກໂດຍເພດສໍາພັນ</common:Name></structure:Code>
         <structure:Code id="F" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1).F">
           <common:Name xml:lang="en">Female</common:Name>
           <common:Description xml:lang="en">Female</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຜູ້ຍິງ</common:Name></structure:Code>
         <structure:Code id="M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1).M">
           <common:Name xml:lang="en">Male</common:Name>
           <common:Description xml:lang="en">Male</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຜູ້ຊາຍ</common:Name></structure:Code>
         <structure:Code id="_N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1)._N">
           <common:Name xml:lang="en">Non response</common:Name>
           <common:Description xml:lang="en">Non response</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ບໍ່ຕອບສະຫນອງ</common:Name></structure:Code>
         <structure:Code id="_O" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1)._O">
           <common:Name xml:lang="en">Other</common:Name>
           <common:Description xml:lang="en">Other</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອື່ນໆ</common:Name></structure:Code>
         <structure:Code id="_U" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1)._U">
           <common:Name xml:lang="en">Unknown</common:Name>
           <common:Description xml:lang="en">Unknown</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ບໍ່ຮູ້</common:Name></structure:Code>
         <structure:Code id="_X" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1)._X">
           <common:Name xml:lang="en">Not available</common:Name>
           <common:Description xml:lang="en">Not available</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຍັງບໍ່ທັນມີ</common:Name></structure:Code>
         <structure:Code id="B" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1).B">
           <common:Name xml:lang="en">Boy</common:Name>
           <common:Description xml:lang="en">Boy</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ເດັກຊາຍ</common:Name></structure:Code>
         <structure:Code id="G" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SEX(1.1).G">
           <common:Name xml:lang="en">Girl</common:Name>
           <common:Description xml:lang="en">Girl</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ສາວລາວ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="SDMX" id="CL_FREQ" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=SDMX:CL_FREQ(2.0)" version="2.0">
         <common:Name xml:lang="en">Frequency</common:Name>

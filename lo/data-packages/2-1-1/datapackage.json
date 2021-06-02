@@ -28,7 +28,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": ""
           },
           {
             "name": "UNIT_MEASURE",

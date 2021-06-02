@@ -2,7 +2,7 @@ Disaggregation,lo,en,Number of indicators,Number of values
 AGE,AGE,Age,2,4
 INCOME_WEALTH_QUANTILE,INCOME_WEALTH_QUANTILE,Income or wealth quantile,2,5
 PRODUCT,PRODUCT,Type of product,1,4
-SERIES,SERIES,SDG Series,11,21
-SEX,SEX,Sex,4,2
+SERIES,,SDG Series,11,21
+SEX,ເພດ,Sex,4,2
 UNIT_MEASURE,UNIT_MEASURE,Unit of measure,11,4
-URBANISATION,URBANISATION,Degree of urbanisation,4,2
+URBANISATION,ລະດັບການເມືອງ,Degree of urbanisation,4,2

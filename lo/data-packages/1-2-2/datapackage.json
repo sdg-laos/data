@@ -42,7 +42,7 @@
           {
             "name": "SERIES",
             "type": "string",
-            "title": "SERIES"
+            "title": ""
           },
           {
             "name": "SEX",
@@ -50,11 +50,11 @@
             "constraints": {
               "enum": [
                 "",
-                "F",
-                "M"
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
               ]
             },
-            "title": "SEX"
+            "title": "ເພດ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -67,11 +67,11 @@
             "constraints": {
               "enum": [
                 "",
-                "R",
-                "U"
+                "ຊົນນະບົດ",
+                "ຕົວເມືອງ"
               ]
             },
-            "title": "URBANISATION"
+            "title": "ລະດັບການເມືອງ"
           },
           {
             "name": "Value",

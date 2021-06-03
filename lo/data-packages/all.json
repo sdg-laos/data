@@ -3,55 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "GeoCode",
-            "type": "number",
-            "title": "GeoCode"
-          },
-          {
-            "name": "REF_AREA",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "ເຂດອ້າງອີງ"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ຫນ່ວຍງານວັດແທກ"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "ອັດຕາສ່ວນຂອງພົນລະເມືອງທີ່ຕໍ່າກວ່າເສັ້ນຄວາມທຸກຍາກສາກົນ, ໂດຍເພດ, ອາຍຸ, ສະຖານະພາບການຈ້າງງານແລະທີ່ຕັ້ງພູມສາດ (ຕົວເມືອງ / ຊົນນະບົດ)"
-    },
-    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -136,7 +87,56 @@
           }
         ]
       },
-      "title": "1-2-1"
+      "title": "ອັດຕາສ່ວນຂອງພົນລະເມືອງທີ່ ດຳ ລົງຊີວິດຕໍ່າກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ, ໂດຍເພດແລະອາຍຸ"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "ອັດຕາສ່ວນຂອງພົນລະເມືອງທີ່ຕໍ່າກວ່າເສັ້ນຄວາມທຸກຍາກສາກົນ, ໂດຍເພດ, ອາຍຸ, ສະຖານະພາບການຈ້າງງານແລະທີ່ຕັ້ງພູມສາດ (ຕົວເມືອງ / ຊົນນະບົດ)"
     },
     {
       "path": "3-9-2/data.csv",

@@ -1,1 +1,4 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,11,,Number,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene [3.9.2]"
+2017,72,,Number,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene [3.9.2]"
+2018,72,,Number,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene [3.9.2]"

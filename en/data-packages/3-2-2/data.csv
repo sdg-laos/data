@@ -1,1 +1,13 @@
-Year,Value
+Year,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,GeoCode,Value
+2013,Neonatal mortality rate [3.2.2],,,,"Per 100,000 population",,32.0
+2017,Neonatal mortality rate [3.2.2],,,,"Per 100,000 population",,18.0
+2017,Neonatal mortality rate [3.2.2],,Urban,,"Per 100,000 population",,14.0
+2017,Neonatal mortality rate [3.2.2],,Rural,,"Per 100,000 population",,19.0
+2017,Neonatal mortality rate [3.2.2],,,Quintile 1 (poorest),"Per 100,000 population",,20.0
+2017,Neonatal mortality rate [3.2.2],,,Quintile 2,"Per 100,000 population",,21.0
+2017,Neonatal mortality rate [3.2.2],,,Quintile 3,"Per 100,000 population",,14.0
+2017,Neonatal mortality rate [3.2.2],,,Quintile 4,"Per 100,000 population",,16.0
+2017,Neonatal mortality rate [3.2.2],,,Quintile 5 (richest),"Per 100,000 population",,14.0
+2016,Neonatal mortality rate [3.2.2],,,,"Per 100,000 population",,6.8
+2018,Neonatal mortality rate [3.2.2],,,,"Per 100,000 population",,7.4
+2019,Neonatal mortality rate [3.2.2],,,,"Per 100,000 population",,6.9

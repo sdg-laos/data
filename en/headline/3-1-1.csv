@@ -1,1 +1,6 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,206,,"Per 100,000 population",Maternal mortality ratio [3.1.1]
+2016,196,,"Per 100,000 population",Maternal mortality ratio [3.1.1]
+2017,185,,"Per 100,000 population",Maternal mortality ratio [3.1.1]
+2018,72,,"Per 100,000 population",Maternal mortality ratio [3.1.1]
+2019,70,,"Per 100,000 population",Maternal mortality ratio [3.1.1]

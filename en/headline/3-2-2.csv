@@ -1,1 +1,6 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2013,32.0,,"Per 100,000 population",Neonatal mortality rate [3.2.2]
+2017,18.0,,"Per 100,000 population",Neonatal mortality rate [3.2.2]
+2016,6.8,,"Per 100,000 population",Neonatal mortality rate [3.2.2]
+2018,7.4,,"Per 100,000 population",Neonatal mortality rate [3.2.2]
+2019,6.9,,"Per 100,000 population",Neonatal mortality rate [3.2.2]

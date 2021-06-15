@@ -1,1 +1,10 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2013,79.0,,"Per 100,000 population",Infant mortality rate [3.2.1]
+2017,46.0,,"Per 100,000 population",Infant mortality rate [3.2.1]
+2018,17.8,,"Per 100,000 population",Infant mortality rate [3.2.1]
+2019,18.0,,"Per 100,000 population",Infant mortality rate [3.2.1]
+2013,68.0,,"Per 1,000 live births",_L_LA_030201_01
+2017,40.0,,"Per 1,000 live births",_L_LA_030201_01
+2016,13.1,,"Per 1,000 live births",_L_LA_030201_01
+2018,15.8,,"Per 1,000 live births",_L_LA_030201_01
+2019,14.4,,"Per 1,000 live births",_L_LA_030201_01

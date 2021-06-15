@@ -1,1 +1,10 @@
-Year,Value
+Year,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,GeoCode,Value
+2013,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,,Percent,,61.3
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,,Percent,,71.7
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Urban,,Percent,,66.6
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,Rural,,Percent,,74.1
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,Quintile 1 (poorest),Percent,,67.6
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,Quintile 2,Percent,,73.9
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,Quintile 3,Percent,,75.0
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,Quintile 4,Percent,,75.5
+2017,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1],,,Quintile 5 (richest),Percent,,65.9

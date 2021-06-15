@@ -4,8 +4,8 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2017,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,Number,,830
 2018,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,Number,,810
 2019,"Number of new HIV infections per 1,000 uninfected population [3.3.1]",,Number,,780
-2015,_L_LA_030301_01,,Percent,,32
-2016,_L_LA_030301_01,,Percent,,39
-2017,_L_LA_030301_01,,Percent,,47
-2018,_L_LA_030301_01,,Percent,,50
-2019,_L_LA_030301_01,,Percent,,56
+2015,people with diagnosed HIV sustained ART,,Percent,,32
+2016,people with diagnosed HIV sustained ART,,Percent,,39
+2017,people with diagnosed HIV sustained ART,,Percent,,47
+2018,people with diagnosed HIV sustained ART,,Percent,,50
+2019,people with diagnosed HIV sustained ART,,Percent,,56

@@ -10,15 +10,15 @@ Year,SERIES,Reference area,Degree of urbanisation,Income or wealth quantile,UNIT
 2017,Infant mortality rate [3.2.1],,,Quintile 5 (richest),"Per 100,000 population",,23.0
 2018,Infant mortality rate [3.2.1],,,,"Per 100,000 population",,17.8
 2019,Infant mortality rate [3.2.1],,,,"Per 100,000 population",,18.0
-2013,_L_LA_030201_01,,,,"Per 1,000 live births",,68.0
-2017,_L_LA_030201_01,,,,"Per 1,000 live births",,40.0
-2017,_L_LA_030201_01,,Urban,,"Per 1,000 live births",,20.0
-2017,_L_LA_030201_01,,Rural,,"Per 1,000 live births",,47.0
-2017,_L_LA_030201_01,,,Quintile 1 (poorest),"Per 1,000 live births",,56.0
-2017,_L_LA_030201_01,,,Quintile 2,"Per 1,000 live births",,57.0
-2017,_L_LA_030201_01,,,Quintile 3,"Per 1,000 live births",,31.0
-2017,_L_LA_030201_01,,,Quintile 4,"Per 1,000 live births",,21.0
-2017,_L_LA_030201_01,,,Quintile 5 (richest),"Per 1,000 live births",,14.0
-2016,_L_LA_030201_01,,,,"Per 1,000 live births",,13.1
-2018,_L_LA_030201_01,,,,"Per 1,000 live births",,15.8
-2019,_L_LA_030201_01,,,,"Per 1,000 live births",,14.4
+2013,"Infant mortality rate per 1,000 live births",,,,"Per 1,000 live births",,68.0
+2017,"Infant mortality rate per 1,000 live births",,,,"Per 1,000 live births",,40.0
+2017,"Infant mortality rate per 1,000 live births",,Urban,,"Per 1,000 live births",,20.0
+2017,"Infant mortality rate per 1,000 live births",,Rural,,"Per 1,000 live births",,47.0
+2017,"Infant mortality rate per 1,000 live births",,,Quintile 1 (poorest),"Per 1,000 live births",,56.0
+2017,"Infant mortality rate per 1,000 live births",,,Quintile 2,"Per 1,000 live births",,57.0
+2017,"Infant mortality rate per 1,000 live births",,,Quintile 3,"Per 1,000 live births",,31.0
+2017,"Infant mortality rate per 1,000 live births",,,Quintile 4,"Per 1,000 live births",,21.0
+2017,"Infant mortality rate per 1,000 live births",,,Quintile 5 (richest),"Per 1,000 live births",,14.0
+2016,"Infant mortality rate per 1,000 live births",,,,"Per 1,000 live births",,13.1
+2018,"Infant mortality rate per 1,000 live births",,,,"Per 1,000 live births",,15.8
+2019,"Infant mortality rate per 1,000 live births",,,,"Per 1,000 live births",,14.4

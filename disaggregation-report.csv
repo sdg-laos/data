@@ -1,9 +1,10 @@
 Disaggregation,lo,en,Number of indicators,Number of values
-AGE,ອາຍຸ,Age,4,8
+AGE,ອາຍຸ,Age,6,12
+EDUCATION_LEV,ລະດັບການສຶກສາ,Education level,6,3
 INCOME_WEALTH_QUANTILE,ລາຍໄດ້ ຫຼື ຄວາມຮັ່ງມີ quantile,Income or wealth quantile,6,5
 OCCUPATION,ອາຊີບ,Occupation,1,2
 PRODUCT,ປະເພດຜະລິດຕະພັນ,Type of product,1,4
-SERIES,SDG Series,SDG Series,32,45
-SEX,ເພດ,Sex,5,2
-UNIT_MEASURE,ຫນ່ວຍງານວັດແທກ,Unit of measure,32,8
+SERIES,SDG Series,SDG Series,43,56
+SEX,ເພດ,Sex,10,2
+UNIT_MEASURE,ຫນ່ວຍງານວັດແທກ,Unit of measure,43,8
 URBANISATION,ລະດັບການເມືອງ,Degree of urbanisation,9,2

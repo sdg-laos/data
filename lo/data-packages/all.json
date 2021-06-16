@@ -2097,6 +2097,706 @@
         ]
       },
       "title": "3-c-1"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ການສຶກສາຊັ້ນປະຖົມສຶກສາ",
+                "ການສຶກສາທົ່ວໄປຊັ້ນມັດທະຍົມຕອນລຸ່ມ",
+                "ຊັ້ນມັດທະຍົມສຶກສາຊັ້ນມັດທະຍົມສຶກສາ"
+              ]
+            },
+            "title": "ລະດັບການສຶກສາ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-1-2"
+    },
+    {
+      "path": "4-1-6/data.csv",
+      "name": "4-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ການສຶກສາຊັ້ນປະຖົມສຶກສາ",
+                "ການສຶກສາທົ່ວໄປຊັ້ນມັດທະຍົມຕອນລຸ່ມ"
+              ]
+            },
+            "title": "ລະດັບການສຶກສາ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-1-6"
+    },
+    {
+      "path": "4-2-3/data.csv",
+      "name": "4-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Y0T2",
+                "Y3T4"
+              ]
+            },
+            "title": "ອາຍຸ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-2-3"
+    },
+    {
+      "path": "4-3-3/data.csv",
+      "name": "4-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-3-3"
+    },
+    {
+      "path": "4-3-4/data.csv",
+      "name": "4-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ການສຶກສາທົ່ວໄປຊັ້ນມັດທະຍົມຕອນລຸ່ມ",
+                "ຊັ້ນມັດທະຍົມສຶກສາຊັ້ນມັດທະຍົມສຶກສາ"
+              ]
+            },
+            "title": "ລະດັບການສຶກສາ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-3-4"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-1-1"
+    },
+    {
+      "path": "4-5-1-a/data.csv",
+      "name": "4-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ການສຶກສາຊັ້ນປະຖົມສຶກສາ",
+                "ການສຶກສາທົ່ວໄປຊັ້ນມັດທະຍົມຕອນລຸ່ມ",
+                "ຊັ້ນມັດທະຍົມສຶກສາຊັ້ນມັດທະຍົມສຶກສາ"
+              ]
+            },
+            "title": "ລະດັບການສຶກສາ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-5-1-a"
+    },
+    {
+      "path": "4-5-1-b/data.csv",
+      "name": "4-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ການສຶກສາຊັ້ນປະຖົມສຶກສາ",
+                "ການສຶກສາທົ່ວໄປຊັ້ນມັດທະຍົມຕອນລຸ່ມ",
+                "ຊັ້ນມັດທະຍົມສຶກສາຊັ້ນມັດທະຍົມສຶກສາ"
+              ]
+            },
+            "title": "ລະດັບການສຶກສາ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-5-1-b"
+    },
+    {
+      "path": "4-6-1/data.csv",
+      "name": "4-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 ຫາ 19 ປີ",
+                "20 ຫາ 24 ປີ",
+                "15 ປີແລະຫຼາຍກວ່າ"
+              ]
+            },
+            "title": "ອາຍຸ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-6-1"
+    },
+    {
+      "path": "4-b-1/data.csv",
+      "name": "4-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-b-1"
+    },
+    {
+      "path": "4-c-1/data.csv",
+      "name": "4-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ການສຶກສາຊັ້ນປະຖົມສຶກສາ",
+                "ການສຶກສາທົ່ວໄປຊັ້ນມັດທະຍົມຕອນລຸ່ມ",
+                "ຊັ້ນມັດທະຍົມສຶກສາຊັ້ນມັດທະຍົມສຶກສາ"
+              ]
+            },
+            "title": "ລະດັບການສຶກສາ"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "4-c-1"
     }
   ]
 }

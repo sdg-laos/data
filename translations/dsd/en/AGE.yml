@@ -8,6 +8,7 @@ Y0T14: under 15 years old
 Y0T15: Under 16 years old
 Y0T17: under 18 years old
 Y0T19: Under 20 years old
+Y0T2: 0-2 years old
 Y0T4: under 5 years old
 Y0T45: under 46 years old
 Y0T5: under 6 years old
@@ -79,6 +80,7 @@ Y35: 35 years old
 Y35T39: 35 to 39 years old
 Y35T44: 35 to 44 years old
 Y35T49: 35 to 49 years old
+Y3T4: 3-4 years old
 Y40T44: 40 to 44 years old
 Y40T49: 40 to 49 years old
 Y45T49: 45 to 49 years old
@@ -89,6 +91,7 @@ Y50T54: 50 to 54 years old
 Y50T59: 50 to 59 years old
 Y55T59: 55 to 59 years old
 Y55T64: 55 to 64 years old
+Y5T11: 5-11 years old
 Y5T14: 5 to 14 years old
 Y5T17: 5 to 17 years old
 Y5T9: 5 to 9 years old

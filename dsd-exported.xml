@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <message:Structure xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure">
   <message:Header>
-    <message:ID>IDREF1</message:ID>
+    <message:ID>IDREF2</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-06-16T11:07:12.0526798+07:00</message:Prepared>
+    <message:Prepared>2021-06-17T09:55:10.4521381+07:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -6454,6 +6454,10 @@
         <structure:Code id="Y3T4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y3T4">
           <common:Name xml:lang="en">3-4 years old</common:Name>
           <common:Description xml:lang="en">3 to 4 years old</common:Description>
+        </structure:Code>
+        <structure:Code id="Y5T11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y5T11">
+          <common:Name xml:lang="en">5-11 years old</common:Name>
+          <common:Description xml:lang="en">5 to11 years old</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="LSB-SDGs" id="CL_REF_AREA" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_REF_AREA(1.0)" version="1.0">
@@ -25623,6 +25627,331 @@
           </common:Annotations>
           <common:Name xml:lang="en">Gender parity indices for completion</common:Name>
           <common:Description xml:lang="en">Gender parity indices for completion</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_0050102_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_0050102_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Whether mechanisms are operational in ‘enforcing and monitoring’ the implementation of legal frameworks for each area of law</common:Name>
+          <common:Description xml:lang="en">Whether mechanisms are operational in ‘enforcing and monitoring’ the implementation of legal frameworks for each area of law</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050304_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050304_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.3.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">women aged 15-49 years who gave birth by aged 15</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 15</common:Name>
+          <common:Description xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 15</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050503_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050503_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.5.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Percentage of women being the village chief</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women being the village chief</common:Name>
+          <common:Description xml:lang="en">Percentage of women being the village chief</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050304_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050304_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.3.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 18</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 18</common:Name>
+          <common:Description xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 18</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050304_03" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050304_03">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.3.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Percentage of women aged 20-24 years who gave birth by aged 15</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women aged 20-24 years who gave birth by aged 15</common:Name>
+          <common:Description xml:lang="en">Percentage of women aged 20-24 years who gave birth by aged 15</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050304_04" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050304_04">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.3.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Percentage of women aged 20-24 years who gave birth by aged 18</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women aged 20-24 years who gave birth by aged 18</common:Name>
+          <common:Description xml:lang="en">Percentage of women aged 20-24 years who gave birth by aged 18</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080302_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080302_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.3.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Financing and loans</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of financing and loans issued to SMEs</common:Name>
+          <common:Description xml:lang="en">Percentage of financing and loans issued to SMEs</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080303_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080303_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.3.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Financing and loans</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of SMEs owned by Lao citizens (with Lao citizens as the majority shareholders)</common:Name>
+          <common:Description xml:lang="en">Number of SMEs owned by Lao citizens (with Lao citizens as the majority shareholders)</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080503_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080503_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.5.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Financing and loans</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Businesses owned by females</common:Name>
+          <common:Description xml:lang="en">Businesses owned by females</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080504_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080504_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.5.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of informal employment in total employment, by sector and sex</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Share of employed persons in the informal sector</common:Name>
+          <common:Description xml:lang="en">Share of employed persons in the informal sector</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080702_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080702_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.7.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion and number of children aged 5โ€“17ย years engaged in child labour, by sex and age</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of children aged 5-17 engaged in prohibited hazardous occupations and tasks, by sex and age</common:Name>
+          <common:Description xml:lang="en">Number of children aged 5-17 engaged in prohibited hazardous occupations and tasks, by sex and age</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080903_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080903_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.9.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Establishment of Tourism standards</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Establishment of Tourism standards (1=to be adopted and implemented)</common:Name>
+          <common:Description xml:lang="en">Establishment of Tourism standards (1=to be adopted and implemented)</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_080A01_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_080A01_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">8.a.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Mean number of days to clear imports</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Mean number of days to clear imports</common:Name>
+          <common:Description xml:lang="en">Mean number of days to clear imports</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="LSB-SDGs" id="CL_SEX" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_SEX(1.1)" version="1.1">

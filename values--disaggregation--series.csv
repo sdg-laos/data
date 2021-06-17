@@ -28,6 +28,14 @@ _L_LA_080504_01,_L_LA_080504_01,_L_LA_080504_01,3,1
 _L_LA_080702_01,_L_LA_080702_01,_L_LA_080702_01,1,1
 _L_LA_080903_01,_L_LA_080903_01,_L_LA_080903_01,1,1
 _L_LA_080A01_01,_L_LA_080A01_01,_L_LA_080A01_01,1,1
+_L_LA_180101_00,_L_LA_180101_00,_L_LA_180101_00,1,1
+_L_LA_180101_01,ຈໍາ ນວນ ຜູ້ ເສຍ ຊີ ວິດ UXO ທີ່ ໄດ້ ຮັບ ການ ລາຍ ງານ (disaggated by age group and sex)- ໄດ້ ຮັບ ບາດ ເຈັບ [18.1.1 ],Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],5,1
+_L_LA_180101_02,ຈໍາ ນວນ ຜູ້ ເສຍ ຊີ ວິດ UXO ລາຍ ງານ (disaggated by age group and sex) - ຖືກ ຂ້າ ຕາຍ [18.1.1 ],Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],5,1
+_L_LA_180102_01,"ເປີເຊັນຂອງປະຊາກອນໃນຫມູ່ບ້ານທີ່ເປິເປື້ອນທີ່ມີຂໍ້ມູນກ່ຽວກັບເຂດອັນຕະລາຍທີ່ໄດ້ຮັບການຢືນຢັນໃນຫມູ່ບ້ານຂອງເຂົາເຈົ້າ (ບໍ່ສັງລວມໂດຍກຸ່ມອາຍຸ, ເພດແລະບຸກຄົນທີ່ມີຄວາມພິການ) [18.1.2 ]","Percentage of population in contaminated villages with information on Confirmed Hazardous Areas in their village (disaggregated by age group, sex and persons with disabilities) [18.1.2 ]",3,1
+_L_LA_180201_01,ເປີເຊັນຂອງພື້ນທີ່ອັນຕະລາຍທີ່ສໍາຄັນສູງທີ່ຍັງເຫຼືອທີ່ຈະແຈ້ງ (ບໍ່ສັງລວມຕາມລະດັບຄວາມທຸກຍາກຂອງຫມູ່ບ້ານ) [18.2.1],Percentage of high priority hazardous areas remaining to be cleared (disaggregated by village poverty levels) [18.2.1],1,1
+_L_LA_180202_01,ຈໍານວນຫມູ່ບ້ານທີ່ຖືກກໍານົດວ່າເປັນ 'ຄົນທຸກຍາກ' ກັບເຂດອັນຕະລາຍທີ່ໄດ້ຮັບການຢືນຢັນທີ່ຍັງເຫຼືອທີ່ຈະແຈ້ງ [18.2.2 ],Number of villages defined as ‘poor’ with Confirmed Hazardous Areas remaining to be cleared [18.2.2 ],1,1
+_L_LA_180301_01,ອັດຕາສ່ວນຂອງຜູ້ລອດຊີວິດUXO ອາຍຸທີ່ເຄື່ອນໄຫວທີ່ລົງທະບຽນບໍ່ສາມາດຫາລາຍໄດ້ພຽງພໍກັບການເຂົ້າເຖິງຄວາມປອດໄພດ້ານລາຍຮັບພື້ນຖານ [18.3.1 ],Proportion of registered active age UXO survivors unable to earn sufficient income with access to basic income security [18.3.1 ],1,1
+_L_LA_180302_01,"ເປີເຊັນຂອງຜູ້ລອດຊີວິດ UXO ທີ່ໄດ້ຈົດທະບຽນເປັນຫຼັກໃນການບໍລິການດ້ານສຸຂະພາບ, ການສຶກສາ ແລະ ການຈ້າງງານ [18.3.2 ]","Percentage of registered UXO survivors mainstreamed into health, education and employment services [18.3.2 ]",1,1
 NY_GDP_PCAP,ອັດຕາການເຕີບໂຕປະຈໍາປີຂອງ GDP ຕົວຈິງຕໍ່ຫົວຄົນ [8.1.1],Annual growth rate of real GDP per capita [8.1.1],1,1
 SD_MDP_CSMP,ອັດຕາສ່ວນຂອງເດັກທີ່ດໍາລົງຊີວິດຢູ່ໃນຄວາມທຸກຍາກmultidimensional ສະເພາະເດັກ [1.2.2],Proportion of children living in child-specific multidimensional poverty [1.2.2],9,1
 SE_ADT_FUNS,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ບັນລຸໄດ້ຢ່າງຫນ້ອຍລະດັບຄວາມຊໍານິຊໍານານໃນການເຮັດວຽກ [4.6.1],Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],9,1

@@ -1,3 +1,5 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
-F,ຜູ້ຍິງ,Female,26,16
-M,ຜູ້ຊາຍ,Male,26,16
+B,ເດັກຊາຍ,Boy,2,1
+F,ຜູ້ຍິງ,Female,29,18
+G,ສາວລາວ,Girl,2,1
+M,ຜູ້ຊາຍ,Male,29,18

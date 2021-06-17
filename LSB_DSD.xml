@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <message:Header>
-    <message:ID>IDREF1</message:ID>
+    <message:ID>IDREF2</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-06-17T14:23:21.587519+07:00</message:Prepared>
+    <message:Prepared>2021-06-17T15:04:48.6693535+07:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -26068,7 +26068,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Internet users through landline and wireless</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Percentage of population registered as internet users through landline and wireless</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -26093,7 +26093,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Mobile phone users with internet access</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Percentage of mobile phone users with internet access.</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -26168,7 +26168,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Government revenueas a percentage of GDP_Domestic revenue</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Total government revenueas a percentage of GDP_Domestic revenue</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -26193,7 +26193,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Government revenueas a percentage of GDP_Grants</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Total government revenueas a percentage of GDP_Grants</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -26204,6 +26204,56 @@
           </common:Annotations>
           <common:Name xml:lang="en">Total government revenueas a percentage of GDP_Grants</common:Name>
           <common:Description xml:lang="en">Total government revenueas a percentage of GDP_Grants</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_130101_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_130101_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">13.1.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number the injured and fatalities from disaster_Death</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number the injured and fatalities from disaster_Death</common:Name>
+          <common:Description xml:lang="en">Number the injured and fatalities from disaster_Death</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_130303_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_130303_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">13.3.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Climate Change</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of provinces with capacity to report on the situation of climate change</common:Name>
+          <common:Description xml:lang="en">Number of provinces with capacity to report on the situation of climate change</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_SEX(1.1)" agencyID="LSB-SDGs" version="1.1" isFinal="true">

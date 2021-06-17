@@ -11,13 +11,63 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
+            "name": "ACTIVITY",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ກະສິກໍາ, ປ່າໄມ້ ແລະ ການຫາປາ",
+                "ອຸດສາຫະກໍາ",
+                "ການບໍລິການ"
+              ]
+            },
+            "title": "ກິດຈະກໍາເສດຖະກິດ"
+          },
+          {
+            "name": "GeoCode",
             "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "ເຂດອ້າງອີງ"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ຜູ້ຍິງ",
+                "ຜູ້ຊາຍ"
+              ]
+            },
+            "title": "ເພດ"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "ຫນ່ວຍງານວັດແທກ"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

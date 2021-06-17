@@ -1,1 +1,5 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,5.7,,Percent,Annual growth rate of real GDP per capita [8.1.1]
+2016,5.4,,Percent,Annual growth rate of real GDP per capita [8.1.1]
+2017,5.2,,Percent,Annual growth rate of real GDP per capita [8.1.1]
+2018,4.6,,Percent,Annual growth rate of real GDP per capita [8.1.1]

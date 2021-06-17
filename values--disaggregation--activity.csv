@@ -1,0 +1,4 @@
+Value,lo,en,Disaggregation combinations using this value,Number of indicators
+ISIC4_A,"ກະສິກໍາ, ປ່າໄມ້ ແລະ ການຫາປາ","Agriculture, forestry and fishing",3,1
+ISIC4_BTFXE,ອຸດສາຫະກໍາ,Industries,3,1
+ISIC4_GTS,ການບໍລິການ,Services,3,1

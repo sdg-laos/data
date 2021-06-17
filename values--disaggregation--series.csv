@@ -21,6 +21,14 @@ _L_LA_040303_01,_L_LA_040303_01,_L_LA_040303_01,3,1
 _L_LA_040304_01,_L_LA_040304_01,_L_LA_040304_01,2,1
 _L_LA_040501_01,_L_LA_040501_01,_L_LA_040501_01,3,1
 _L_LA_040501_02,_L_LA_040501_02,_L_LA_040501_02,3,1
+_L_LA_080302_01,_L_LA_080302_01,_L_LA_080302_01,1,1
+_L_LA_080303_01,_L_LA_080303_01,_L_LA_080303_01,1,1
+_L_LA_080503_01,_L_LA_080503_01,_L_LA_080503_01,1,1
+_L_LA_080504_01,_L_LA_080504_01,_L_LA_080504_01,3,1
+_L_LA_080702_01,_L_LA_080702_01,_L_LA_080702_01,1,1
+_L_LA_080903_01,_L_LA_080903_01,_L_LA_080903_01,1,1
+_L_LA_080A01_01,_L_LA_080A01_01,_L_LA_080A01_01,1,1
+NY_GDP_PCAP,ອັດຕາການເຕີບໂຕປະຈໍາປີຂອງ GDP ຕົວຈິງຕໍ່ຫົວຄົນ [8.1.1],Annual growth rate of real GDP per capita [8.1.1],1,1
 SD_MDP_CSMP,ອັດຕາສ່ວນຂອງເດັກທີ່ດໍາລົງຊີວິດຢູ່ໃນຄວາມທຸກຍາກmultidimensional ສະເພາະເດັກ [1.2.2],Proportion of children living in child-specific multidimensional poverty [1.2.2],9,1
 SE_ADT_FUNS,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ບັນລຸໄດ້ຢ່າງຫນ້ອຍລະດັບຄວາມຊໍານິຊໍານານໃນການເຮັດວຽກ [4.6.1],Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1],9,1
 SE_TOT_CPLR,"ອັດຕາຄວາມສໍາເລັດ, ໂດຍເພດ, ສະຖານທີ່, ຄວາມຮັ່ງມີ quintile ແລະລະດັບການສຶກສາ (%) [4.1.2]","Completion rate, by sex, location, wealth quintile and education level (%) [4.1.2]",7,1
@@ -47,9 +55,17 @@ SH_TBS_INCD,ພະຍາດອັກເສບປອດ [3.3.2],Tuberculosis inci
 SH_TRP_INTVN,ຈໍານວນຄົນທີ່ຕ້ອງການແຊກແຊງພະຍາດເຂດຮ້ອນທີ່ຖືກລະເລີຍ [3.3.5],Number of people requiring interventions against neglected tropical diseases [3.3.5],1,1
 SI_POV_DAY1,ອັດຕາສ່ວນຂອງປະຊາກອນຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກສາກົນ [1.1.1],Proportion of population below international poverty line [1.1.1],1,1
 SI_POV_NAHC,ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າເສັ້ນຄວາມທຸກຍາກແຫ່ງຊາດ [1.2.1],Proportion of population living below the national poverty line [1.2.1],9,1
+SL_EMP_EARN,ລາຍໄດ້ປະຈໍາຊົ່ວໂມງສະເລ່ຍ [8.5.1],Average hourly earnings [8.5.1],9,1
+SL_EMP_INJUR,ບາດເຈັບອາຊີບທີ່ບໍ່ເສຍຄ່າໃນບັນດາພະນັກງານ (rate) [8.8.1],Non-fatal occupational injuries among employees (rate) [8.8.1],1,1
+SL_EMP_PCAP,ອັດຕາການເຕີບໂຕປະຈໍາປີຂອງ GDP ຕົວຈິງຕໍ່ຄົນທີ່ມີວຽກເຮັດງານທໍາ [8.2.1],Annual growth rate of real GDP per employed person [8.2.1],1,1
+SL_ISV_IFEM,"ສ່ວນຂອງການຈ້າງງານແບບບໍ່ເປັນທາງການ, ໂດຍຂະແຫນງການ ແລະ ເພດສໍາພັນ (ILO harmonized estimates) [8.3.1]","Proportion of informal employment, by sector and sex (ILO harmonized estimates) [8.3.1]",3,1
+SL_TLF_CHLDEC,ອັດຕາສ່ວນຂອງເດັກທີ່ມີສ່ວນຮ່ວມໃນກິດຈະກໍາເສດຖະກິດ ແລະ ວຽກເຮັດງານທໍາໃນຄົວເຮືອນ [8.7.1],Proportion of children engaged in economic activity and household chores [8.7.1],15,1
+SL_TLF_NEET,"ອັດຕາສ່ວນຂອງໄວຫນຸ່ມທີ່ບໍ່ຢູ່ໃນການສຶກສາ, ການຈ້າງງານ ຫຼື ການຝຶກອົບຮົມ [8.6.1]","Proportion of youth not in education, employment or training [8.6.1]",3,1
+SL_TLF_UEM,ອັດຕາການຫວ່າງງານ [8.5.2],Unemployment rate [8.5.2],7,1
 SN_ITK_DEFC,Prevalence ຂອງການຂາດສານອາຫານ [2.1.1],Prevalence of undernourishment [2.1.1],1,1
 SN_STA_OVWGT,ອັດຕາສ່ວນຂອງເດັກທີ່ມີນໍ້າຫນັກປານກາງ ຫຼື ຮຸນແຮງ [2.2.2],Proportion of children moderately or severely overweight [2.2.2],10,1
 SP_DYN_ADKL,"ອັດຕາການເກີດຂອງໄວຫນຸ່ມ (ຕໍ່ແມ່ຍິງ 1,000 ຄົນ ອາຍຸ 15-19 ປີ) [3.7.2]","Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",1,1
+ST_GDP_ZS,ການທ່ອງທ່ຽວໂດຍກົງ GDP ເປັນສ່ວນຫນຶ່ງຂອງ GDP ທັງຫມົດ [8.9.1],Tourism direct GDP as a proportion of total GDP [8.9.1],1,1
 VC_DSR_AFFCT,"ຈໍານວນຄົນທີ່ໄດ້ຮັບຜົນກະທົບຈາກໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",1,1
 VC_DSR_IJILN,"ຈໍານວນຄົນທີ່ໄດ້ຮັບບາດເຈັບ ຫຼື ເຈັບຍ້ອນໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",1,1
 VC_DSR_MISS,"ຈໍານວນຜູ້ຫາຍສາບສູນ ຍ້ອນໄພພິບັດ [1.5.1, 11.5.1, 13.1.1]","Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",1,1

@@ -1,9 +1,10 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
+CUR_LCU,ສະກຸນເງິນທ້ອງຖິ່ນ,Local currency,9,1
 LITRES_PURE_ALCOHOL,Litres ທາດເຫຼົ້າບໍລິສຸດ,Litres pure alcohol,1,1
-NUMBER,ເລກທີ,Number,4,4
+NUMBER,ເລກທີ,Number,8,8
 PER_1000_LIVE_BIRTHS,"ຕໍ່ 1,000 ຄົນທີ່ມີຊີວິດ","Per 1,000 live births",8,1
 PER_1000_POP,"ຕໍ່ 1,000 ຄົນ","Per 1,000 population",6,2
 PER_100000_POP,"ຕໍ່ 100,000 ຄົນ","Per 100,000 population",24,6
-PT,ເປີເຊັນ,Percent,138,29
+PT,ເປີເຊັນ,Percent,174,39
 T,Metric Tons,Metric Tons,5,1
-USD,USD,USD,1,1
+USD,USD,USD,2,2

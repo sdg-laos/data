@@ -1,1 +1,11 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2015,Unemployment rate [8.5.2],,,,,Percent,,2.1
+2015,Unemployment rate [8.5.2],,Male,,,Percent,,2.1
+2015,Unemployment rate [8.5.2],,Female,,,Percent,,2.1
+2017,Unemployment rate [8.5.2],,,,,Percent,,9.4
+2017,Unemployment rate [8.5.2],,Male,,,Percent,,10.7
+2017,Unemployment rate [8.5.2],,Female,,,Percent,,7.8
+2017,Unemployment rate [8.5.2],,,15 years old and over,Urban,Percent,,5.3
+2017,Unemployment rate [8.5.2],,,15 years old and over,Rural,Percent,,12.4
+2017,Unemployment rate [8.5.2],,,15 to 24 years old,,Percent,,18.2
+2017,Unemployment rate [8.5.2],,,25 years old and over,,Percent,,7.4

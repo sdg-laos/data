@@ -1,13 +1,17 @@
 Value,lo,en,Disaggregation combinations using this value,Number of indicators
-Y_GE15,15 ປີແລະຫຼາຍກວ່າ,15 years old and over,3,1
+Y_GE15,15 ປີແລະຫຼາຍກວ່າ,15 years old and over,5,2
+Y_GE25,25 ປີແລະຫຼາຍກວ່າ,25 years old and over,1,1
 Y_GE65,65 ປີແລະຫຼາຍກວ່າ,65 years old and over,2,2
 Y0T14,ອາຍຸຕ່ໍາກວ່າ 15 ປີ,under 15 years old,2,2
 Y0T19,Y0T19,Under 20 years old,1,1
 Y0T2,Y0T2,Y0T2,1,1
+Y12T14,12 ຫາ 14 ປີ,12 to 14 years old,1,1
 Y15T19,15 ຫາ 19 ປີ,15 to 19 years old,4,2
-Y15T24,15 ຫາ 24 ປີ,15 to 24 years old,2,2
+Y15T24,15 ຫາ 24 ປີ,15 to 24 years old,3,3
 Y20T24,20 ຫາ 24 ປີ,20 to 24 years old,3,1
 Y20T34,Y20T34,20 to 34 years old,1,1
 Y35T49,35 ຫາ 49 ປີ,35 to 49 years old,1,1
 Y3T4,Y3T4,Y3T4,1,1
 Y55T64,55 ຫາ 64 ປີ,55 to 64 years old,2,2
+Y5T11,Y5T11,Y5T11,1,1
+Y5T17,5 ຫາ 17 ປີ,5 to 17 years old,3,1

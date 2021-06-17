@@ -1,1 +1,19 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,GeoCode,Value
+2010,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,,Percent,,15.0
+2010,Proportion of children engaged in economic activity and household chores [8.7.1],,Male,,,,Percent,,17.0
+2010,Proportion of children engaged in economic activity and household chores [8.7.1],,Female,,,,Percent,,13.0
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,,Percent,,42.8
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,Male,,,,Percent,,43.2
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,Female,,,,Percent,,42.4
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,5 to 17 years old,,,Percent,,42.5
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,Male,5 to 17 years old,,,Percent,,42.9
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,Female,5 to 17 years old,,,Percent,,42.1
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,Y5T11,,,Percent,,38.0
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,12 to 14 years old,,,Percent,,48.6
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,Quintile 1 (poorest),Percent,,48.6
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,Quintile 2,Percent,,47.1
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,Quintile 3,Percent,,44.5
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,Quintile 4,Percent,,38.0
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,,Quintile 5 (richest),Percent,,28.5
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Urban,,Percent,,33.1
+2017,Proportion of children engaged in economic activity and household chores [8.7.1],,,,Rural,,Percent,,45.7

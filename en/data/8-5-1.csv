@@ -1,1 +1,46 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Economic activity,UNIT_MEASURE,GeoCode,Value
+2015,Average hourly earnings [8.5.1],,,"Agriculture, forestry and fishing",Local currency,,5208
+2015,Average hourly earnings [8.5.1],,Male,"Agriculture, forestry and fishing",Local currency,,2005
+2015,Average hourly earnings [8.5.1],,Female,"Agriculture, forestry and fishing",Local currency,,3203
+2015,Average hourly earnings [8.5.1],,,Industries,Local currency,,5859
+2015,Average hourly earnings [8.5.1],,Male,Industries,Local currency,,3592
+2015,Average hourly earnings [8.5.1],,Female,Industries,Local currency,,2267
+2015,Average hourly earnings [8.5.1],,,Services,Local currency,,11979
+2015,Average hourly earnings [8.5.1],,Male,Services,Local currency,,3929
+2015,Average hourly earnings [8.5.1],,Female,Services,Local currency,,8050
+2016,Average hourly earnings [8.5.1],,,"Agriculture, forestry and fishing",Local currency,,5729
+2016,Average hourly earnings [8.5.1],,Male,"Agriculture, forestry and fishing",Local currency,,2206
+2016,Average hourly earnings [8.5.1],,Female,"Agriculture, forestry and fishing",Local currency,,3523
+2016,Average hourly earnings [8.5.1],,,Industries,Local currency,,6250
+2016,Average hourly earnings [8.5.1],,Male,Industries,Local currency,,3831
+2016,Average hourly earnings [8.5.1],,Female,Industries,Local currency,,2419
+2016,Average hourly earnings [8.5.1],,,Services,Local currency,,13021
+2016,Average hourly earnings [8.5.1],,Male,Services,Local currency,,4271
+2016,Average hourly earnings [8.5.1],,Female,Services,Local currency,,8750
+2017,Average hourly earnings [8.5.1],,,"Agriculture, forestry and fishing",Local currency,,8677
+2017,Average hourly earnings [8.5.1],,Male,"Agriculture, forestry and fishing",Local currency,,5342
+2017,Average hourly earnings [8.5.1],,Female,"Agriculture, forestry and fishing",Local currency,,3335
+2017,Average hourly earnings [8.5.1],,,Industries,Local currency,,16713
+2017,Average hourly earnings [8.5.1],,Male,Industries,Local currency,,6469
+2017,Average hourly earnings [8.5.1],,Female,Industries,Local currency,,10244
+2017,Average hourly earnings [8.5.1],,,Services,Local currency,,18194
+2017,Average hourly earnings [8.5.1],,Male,Services,Local currency,,12230
+2017,Average hourly earnings [8.5.1],,Female,Services,Local currency,,5964
+2018,Average hourly earnings [8.5.1],,,"Agriculture, forestry and fishing",Local currency,,14579
+2018,Average hourly earnings [8.5.1],,Male,"Agriculture, forestry and fishing",Local currency,,8966
+2018,Average hourly earnings [8.5.1],,Female,"Agriculture, forestry and fishing",Local currency,,5613
+2018,Average hourly earnings [8.5.1],,,Industries,Local currency,,14271
+2018,Average hourly earnings [8.5.1],,Male,Industries,Local currency,,5523
+2018,Average hourly earnings [8.5.1],,Female,Industries,Local currency,,8748
+2018,Average hourly earnings [8.5.1],,,Services,Local currency,,15616
+2018,Average hourly earnings [8.5.1],,Male,Services,Local currency,,10493
+2018,Average hourly earnings [8.5.1],,Female,Services,Local currency,,5123
+2019,Average hourly earnings [8.5.1],,,"Agriculture, forestry and fishing",Local currency,,15813
+2019,Average hourly earnings [8.5.1],,Male,"Agriculture, forestry and fishing",Local currency,,9735
+2019,Average hourly earnings [8.5.1],,Female,"Agriculture, forestry and fishing",Local currency,,6078
+2019,Average hourly earnings [8.5.1],,,Industries,Local currency,,16979
+2019,Average hourly earnings [8.5.1],,Male,Industries,Local currency,,6571
+2019,Average hourly earnings [8.5.1],,Female,Industries,Local currency,,10407
+2019,Average hourly earnings [8.5.1],,,Services,Local currency,,17088
+2019,Average hourly earnings [8.5.1],,Male,Services,Local currency,,11487
+2019,Average hourly earnings [8.5.1],,Female,Services,Local currency,,5601

@@ -1,1 +1,7 @@
-Year,Value
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2015,"Proportion of youth not in education, employment or training [8.6.1]",,,Percent,,18.5
+2015,"Proportion of youth not in education, employment or training [8.6.1]",,Male,Percent,,8.44
+2015,"Proportion of youth not in education, employment or training [8.6.1]",,Female,Percent,,10.06
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,,Percent,,16.11
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,Male,Percent,,7.83
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,Female,Percent,,8.28

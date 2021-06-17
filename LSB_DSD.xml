@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <message:Header>
-    <message:ID>IDREF2</message:ID>
+    <message:ID>IDREF3</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-06-17T09:55:10.4521381+07:00</message:Prepared>
+    <message:Prepared>2021-06-17T11:08:59.5004291+07:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -25952,6 +25952,33 @@
           </common:Annotations>
           <common:Name xml:lang="en">Mean number of days to clear imports</common:Name>
           <common:Description xml:lang="en">Mean number of days to clear imports</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_180101_00" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_180101_00">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">18.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C180101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of reported UXO casualties (disaggregated by age group and sex)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of reported UXO casualties-Total</common:Name>
+          <common:Description xml:lang="en">Number of reported UXO casualties-Total</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_SEX(1.1)" agencyID="LSB-SDGs" version="1.1" isFinal="true">

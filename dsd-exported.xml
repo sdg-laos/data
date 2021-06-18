@@ -6442,11 +6442,11 @@
         <structure:Code id="Y0T19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y0T19">
           <common:Name xml:lang="en">Under 20 years old</common:Name>
           <common:Description xml:lang="en">Under 20 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອາຍຸຕໍ່າກວ່າ 20 ປີ</common:Name></structure:Code>
         <structure:Code id="Y20T34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y20T34">
           <common:Name xml:lang="en">20 to 34 years old</common:Name>
           <common:Description xml:lang="en">20 to 34 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">20 ຫາ 34 ປີ</common:Name></structure:Code>
         <structure:Code id="Y0T2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y0T2">
           <common:Name xml:lang="en">0-2 years old</common:Name>
           <common:Description xml:lang="en">0 to 2 years old</common:Description>
@@ -25377,7 +25377,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">people with diagnosed HIV sustained ART</common:Name>
           <common:Description xml:lang="en">people with diagnosed HIV sustained ART</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ຄົນ ທີ່ ເປັນ ໂຣກ HIV ທີ່ ໄດ້ ຮັບ ການ ກວດ ພົບ ວ່າ ເປັນ ໂຣກ ART</common:Name></structure:Code>
         <structure:Code id="_L_LA_030801_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_030801_01">
           <common:Annotations>
             <common:Annotation>
@@ -25402,7 +25402,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Coverage of essential health services: % Antenatal care coverage (at least 4 visits)</common:Name>
           <common:Description xml:lang="en">Coverage of essential health services: % Antenatal care coverage (at least 4 visits)</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ການປົກຫຸ້ມຂອງການບໍລິການສຸຂະພາບທີ່ຈໍາເປັນ: % ການປົກຫຸ້ມຂອງການດູແລAntenatal (ຢ່າງຫນ້ອຍ 4 ຢ້ຽມຢາມ)</common:Name></structure:Code>
         <structure:Code id="_L_LA_030801_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_030801_02">
           <common:Annotations>
             <common:Annotation>
@@ -25427,7 +25427,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Coverage of essential health services: % Measles &amp; rubella (MR) coverage (%) among 9-12 months old children</common:Name>
           <common:Description xml:lang="en">Coverage of essential health services: % Measles &amp; rubella (MR) coverage (%) among 9-12 months old children</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ການປົກຫຸ້ມຂອງການບໍລິການສຸຂະພາບທີ່ຈໍາເປັນ: % Measles &amp;rubella (MR) coverage (%) ໃນບັນດາເດັກອາຍຸ 9-12 ເດືອນ</common:Name></structure:Code>
         <structure:Code id="_L_LA_030802_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_030802_01">
           <common:Annotations>
             <common:Annotation>
@@ -25452,7 +25452,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Out of pocket health expenditure as % of total health expenditure</common:Name>
           <common:Description xml:lang="en">Out of pocket health expenditure as % of total health expenditure</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອອກລາຍຈ່າຍດ້ານສຸຂະພາບໃນຖົງເປັນ % ຂອງລາຍຈ່າຍດ້ານສຸຂະພາບທັງຫມົດ</common:Name></structure:Code>
         <structure:Code id="_L_LA_030201_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_030201_01">
           <common:Annotations>
             <common:Annotation>
@@ -25477,7 +25477,7 @@
           </common:Annotations>
           <common:Name xml:lang="en">Infant mortality rate per 1,000 live births</common:Name>
           <common:Description xml:lang="en">Infant mortality rate per 1,000 live births</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອັດຕາການຕາຍຂອງເດັກອ່ອນຕໍ່1,000 ຄົນທີ່ມີຊີວິດ</common:Name></structure:Code>
         <structure:Code id="_L_LA_040106_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_040106_01">
           <common:Annotations>
             <common:Annotation>

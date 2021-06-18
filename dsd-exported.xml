@@ -6450,15 +6450,15 @@
         <structure:Code id="Y0T2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y0T2">
           <common:Name xml:lang="en">0-2 years old</common:Name>
           <common:Description xml:lang="en">0 to 2 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">0-2 ປີ</common:Name></structure:Code>
         <structure:Code id="Y3T4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y3T4">
           <common:Name xml:lang="en">3-4 years old</common:Name>
           <common:Description xml:lang="en">3 to 4 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">ອາຍຸ 3-4 ປີ</common:Name></structure:Code>
         <structure:Code id="Y5T11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_AGE(1.1).Y5T11">
           <common:Name xml:lang="en">5-11 years old</common:Name>
           <common:Description xml:lang="en">5 to11 years old</common:Description>
-        </structure:Code>
+        <common:Name xml:lang="lo">5-11 ປີ</common:Name></structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="LSB-SDGs" id="CL_REF_AREA" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_REF_AREA(1.0)" version="1.0">
         <common:Name xml:lang="en">Reference area</common:Name>

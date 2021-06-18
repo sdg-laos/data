@@ -4,7 +4,7 @@ Y_GE25,25 ປີແລະຫຼາຍກວ່າ,25 years old and over,1,1
 Y_GE65,65 ປີແລະຫຼາຍກວ່າ,65 years old and over,2,2
 Y0T14,ອາຍຸຕ່ໍາກວ່າ 15 ປີ,under 15 years old,2,2
 Y0T19,ອາຍຸຕໍ່າກວ່າ 20 ປີ,Under 20 years old,1,1
-Y0T2,Y0T2,0-2 years old,1,1
+Y0T2,0-2 ປີ,0-2 years old,1,1
 Y12T14,12 ຫາ 14 ປີ,12 to 14 years old,1,1
 Y15T19,15 ຫາ 19 ປີ,15 to 19 years old,5,3
 Y15T24,15 ຫາ 24 ປີ,15 to 24 years old,3,3
@@ -14,9 +14,9 @@ Y25T29,25 ຫາ 29 ປີ,25 to 29 years old,1,1
 Y30T34,ອາຍຸ 30 ຫາ 34 ປີ,30 to 34 years old,1,1
 Y35T39,35 ຫາ 39 ປີ,35 to 39 years old,1,1
 Y35T49,35 ຫາ 49 ປີ,35 to 49 years old,1,1
-Y3T4,Y3T4,3-4 years old,1,1
+Y3T4,ອາຍຸ 3-4 ປີ,3-4 years old,1,1
 Y40T44,40 ຫາ 44 ປີ,40 to 44 years old,1,1
 Y45T49,45 ຫາ 49 ປີ,45 to 49 years old,1,1
 Y55T64,55 ຫາ 64 ປີ,55 to 64 years old,2,2
-Y5T11,Y5T11,5-11 years old,1,1
+Y5T11,5-11 ປີ,5-11 years old,1,1
 Y5T17,5 ຫາ 17 ປີ,5 to 17 years old,3,1

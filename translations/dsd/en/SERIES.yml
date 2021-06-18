@@ -27,7 +27,7 @@ AG_PRD_ORTIND: Agriculture orientation index for government expenditures [2.a.1]
 AG_PRD_XSUBDY: Agricultural export subsidies [2.b.1]
 AG_XPD_AGSGB: Agriculture share of Government Expenditure [2.a.1]
 BX_TRF_PWKR: Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2]
-DC_CLC_100B: Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment [13.a.1]
+DC_CLC_100B: Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment [13.a.1]
 DC_CST_EFICP: Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials
 DC_FIN_CLIMB: Climate-specific financial support provided via bilateral, regional and other channels, by type of support (Billions of current United States dollars) [13.a.1]
 DC_FIN_CLIMM: Climate-specific financial support provided via multilateral channels, by type of support (Billions of current United States dollars) [13.a.1]
@@ -73,7 +73,7 @@ EG_CFT_COOK: Proportion of population with primary reliance on clean fuels and t
 EG_CFT_LIGHT: Proportion of population with primary reliance on clean fuels and technology for lighting [7.1.2]
 EG_EGY_CLEAN: Proportion of population with primary reliance on clean fuels and technology [7.1.2]
 EG_EGY_PRIM: Energy intensity level of primary energy [7.3.1]
-EG_EGY_RNEW: Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]
+EG_EGY_RNEW: Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]
 EG_FEC_RNEW: Renewable energy share in the total final energy consumption [7.2.1]
 EG_IFF_RANDN: International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems [7.a.1]
 EG_TBA_H2CO: Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation [6.5.2]
@@ -196,9 +196,9 @@ ER_H2O_PROCED: Proportion of countries with clearly defined procedures in law or
 ER_H2O_RURP: Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA) [6.b.1]
 ER_H2O_STRESS: 'Level of water stress: freshwater withdrawal as a proportion of available freshwater resources [6.4.2]'
 ER_H2O_WUEYST: Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
-ER_IAS_GLOFUN: Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]
+ER_IAS_GLOFUN: Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]
 ER_IAS_LEGIS: Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO) [15.8.1]
-ER_IAS_NATBUD: Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]
+ER_IAS_NATBUD: Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]
 ER_IAS_NBSAP: National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO) [15.8.1]
 ER_MRN_MARIN: Coverage of protected areas in relation to marine areas (Exclusive Economic Zones) [14.5.1]
 ER_MRN_MARINT: Protected marine area (Exclusive Economic Zones) (square kilometres) [14.5.1]
@@ -284,7 +284,7 @@ SE_ACS_CMPTR: Proportion of schools with access to computers for pedagogical pur
 SE_ACS_ELECT: Proportion of schools with access to electricity [4.a.1]
 SE_ACS_H2O: Proportion of schools with access to basic drinking water [4.a.1]
 SE_ACS_INTNT: Proportion of schools with access to the internet for pedagogical purposes [4.a.1]
-SE_ACS_SANIT: Proportion of schools with access to access to single-sex basic sanitation [4.a.1]
+SE_ACS_SANIT: Proportion of schools with access to access to single-sex basic sanitation [4.a.1]
 SE_ADT_ACTS: Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]
 SE_ADT_EDUCTRN: Participation rate in formal and non-formal education and training [4.3.1]
 SE_ADT_FUNS: Proportion of population achieving at least a fixed level of proficiency in functional skills [4.6.1]
@@ -318,16 +318,16 @@ SG_CPA_SIGN_BIT: Number of countries with a signed bilateral investment treaty (
 SG_DMK_PARLCC_JC: Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees [16.7.1]
 SG_DMK_PARLCC_LC: Number of chairs of permanent committees, by age, sex and focus of the committee, Lower Chamber or Unicameral [16.7.1]
 SG_DMK_PARLCC_UC: Number of chairs of permanent committees, by age, sex and focus of the committee, Upper Chamber [16.7.1]
-SG_DMK_PARLMP_LC: Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]
-SG_DMK_PARLMP_UC: Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]
+SG_DMK_PARLMP_LC: Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]
+SG_DMK_PARLMP_UC: Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]
 SG_DMK_PARLSP_LC: Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral [16.7.1]
 SG_DMK_PARLSP_UC: Number of speakers in parliament, by age and sex, Upper Chamber [16.7.1]
 SG_DMK_PARLYN_LC: Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]
 SG_DMK_PARLYN_UC: Number of youth in parliament (age 45 or below), Upper Chamber [16.7.1]
 SG_DMK_PARLYP_LC: Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral [16.7.1]
 SG_DMK_PARLYP_UC: Proportion of youth in parliament (age 45 or below), Upper Chamber [16.7.1]
-SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]
-SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]
+SG_DMK_PARLYR_LC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]
+SG_DMK_PARLYR_UC: Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]
 SG_DSR_LEGREG: Countries with legislative and/or regulatory provisions been made for managing disaster risk (1 = YES; 0 = NO) [1.5.3]
 SG_DSR_LGRGSR: Score of adoption and implementation of national DRR strategies in line with the Sendai Framework [1.5.3, 11.b.1, 13.1.2]
 SG_DSR_SFDRR: Countries that reported having a National DRR Strategy which is aligned to the Sendai Framework to a certain extent (1 = YES; 0 = NO) [1.5.3, 11.b.1, 13.1.2]
@@ -351,7 +351,7 @@ SG_INT_VRTDEV: Proportion of voting rights of developing countries in internatio
 SG_LGL_GENEQEMP: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 3: employment and economic benefits. [5.1.1]'
 SG_LGL_GENEQLFP: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 1: overarching legal frameworks and public life. [5.1.1]'
 SG_LGL_GENEQMAR: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 4: marriage and family. [5.1.1]'
-SG_LGL_GENEQVAW: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]'
+SG_LGL_GENEQVAW: 'Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]'
 SG_LGL_LNDFEMOD: Degree to which the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control (1=No evidence to 6=Highest levels of guarantees) [5.a.2]
 SG_LGL_LNDWMN: Proportion of countries where the legal framework (including customary law) guarantees women's equal rights to land ownership and/or control [5.a.2]
 SG_NHR_IMPL: Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1]
@@ -378,7 +378,7 @@ SG_REG_BRTH90: Proportion of countries with birth registration data that are at 
 SG_REG_BRTH90N: Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]
 SG_REG_CENSUS: Proportion of countries that have conducted at least one population and housing census in the last 10 years [17.19.2]
 SG_REG_CENSUSN: Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]
-SG_RHC_ACCS: Countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (1 = YES; 0 = NO) [5.6.2]
+SG_RHC_ACCS: Countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (1 = YES; 0 = NO) [5.6.2]
 SG_SCP_CNTRY: Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO) [12.1.1]
 SG_SCP_CORMEC: Countries with coordination mechanism for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1]
 SG_SCP_MACPOL: Countries with macro policy for sustainable consumption and production (1 = YES; 0 = NO) [12.1.1]
@@ -495,7 +495,7 @@ SI_COV_VULN: Proportion of vulnerable population receiving social assistance cas
 SI_COV_WKINJRY: Proportion of employed population covered in the event of work injury [1.3.1]
 SI_DST_FISP: Redistributive impact of fiscal policy, Gini index (%) [10.4.2]
 SI_HEI_TOTL: Growth rates of household expenditure or income per capita [10.1.1]
-SI_POV_50MI: Proportion of people living below 50 percent of median income [10.2.1]
+SI_POV_50MI: Proportion of people living below 50 percent of median income [10.2.1]
 SI_POV_DAY1: Proportion of population below international poverty line [1.1.1]
 SI_POV_EMP1: Employed population below international poverty line [1.1.1]
 SI_POV_NAHC: Proportion of population living below the national poverty line [1.2.1]
@@ -542,15 +542,15 @@ SP_LGL_LNDDOC: Proportion of people with legally recognized documentation of the
 SP_LGL_LNDSEC: Proportion of people who perceive their rights to land as secure out of total adult population [1.4.2]
 SP_LGL_LNDSTR: Proportion of people with secure tenure rights to land out of total adult population [1.4.2]
 SP_PSR_SATIS: Proportion of population satisfied with their last experience of public services [16.6.2]
-SP_ROD_R2KM: Proportion of the rural population who live within 2 km of an all-season road [9.1.1]
+SP_ROD_R2KM: Proportion of the rural population who live within 2 km of an all-season road [9.1.1]
 SP_TRN_PUBL: Proportion of population that has convenient access to public transport [11.2.1]
 ST_EEV_ACCSEEA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables) [12.b.1]
 ST_EEV_ACCTSA: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables) [12.b.1]
 ST_EEV_STDACCT: Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Total number of tables) [12.b.1]
 ST_EMP_SUST: Proportion of jobs in sustainable tourism industries out of total tourism jobs
 ST_GDP_ZS: Tourism direct GDP as a proportion of total GDP [8.9.1]
-TM_TAX_DMFN: Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]
-TM_TAX_DPRF: Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]
+TM_TAX_DMFN: Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]
+TM_TAX_DPRF: Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]
 TM_TAX_WM: Average tariff applied by developed countries [17.12.1]
 TM_TAX_WMFN: Worldwide weighted tariff-average, most-favoured-nation status [17.10.1]
 TM_TAX_WMPS: Worldwide weighted tariff-average, preferential status [17.10.1]
@@ -607,12 +607,12 @@ VC_SNS_WALN: Proportion of population that feel safe walking alone around the ar
 VC_VAW_DIST: Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
 VC_VAW_MARR: Proportion of ever-partnered women and girls subjected to physical and sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]
 VC_VAW_MTUHRA: Number of cases of killings of human rights defenders, journalists and trade unionists [16.10.1]
-VC_VAW_NONMARR: Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2]
+VC_VAW_NONMARR: Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2]
 VC_VAW_PHYPYV: Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month [16.2.1]
 VC_VAW_PHYV: Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]
 VC_VAW_PSYV: Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]
 VC_VAW_SEXV: Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]
-VC_VAW_SXVLN: Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3]
+VC_VAW_SXVLN: Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3]
 VC_VOC_ENFDIS: Number of cases of enforced disappearance of human rights defenders, journalists and trade unionists [16.10.1]
 VC_VOH_SXPH: Proportion of persons victim of physical or sexual harassment, in the previous 12 months [11.7.2]
 VC_VOV_DCMN: Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law [10.3.1, 16.b.1]
@@ -620,6 +620,7 @@ VC_VOV_GDSD: Proportion of population reporting having felt discriminated agains
 VC_VOV_PHYL: Proportion of population subjected to physical violence in the previous 12 months [16.1.3]
 VC_VOV_ROBB: Proportion of population subjected to robbery in the previous 12 months [16.1.3]
 VC_VOV_SEXL: Proportion of population subjected to sexual violence in the previous 12 months [16.1.3]
+_L_LA_0050102_01: Whether mechanisms are operational in ‘enforcing and monitoring’ the implementation of legal frameworks for each area of law
 _L_LA_010401_01: Proportion of population living in households with access to secondary school [1.4.1]
 _L_LA_010401_02: Proportion of population living in households with access to health service [1.4.1]
 _L_LA_010401_03: Proportion of population living in households with access to improved water [1.4.1]
@@ -632,6 +633,36 @@ _L_LA_030301_01: people with diagnosed HIV sustained ART
 _L_LA_030801_01: 'Coverage of essential health services: % Antenatal care coverage (at least 4 visits)'
 _L_LA_030801_02: 'Coverage of essential health services: % Measles & rubella (MR) coverage (%) among 9-12 months old children'
 _L_LA_030802_01: Out of pocket health expenditure as % of total health expenditure
+_L_LA_040106_01: Children over-age for grade
+_L_LA_040203_01: Gross early childhood enrolment ratio
+_L_LA_040303_01: Participation rate in technical-vocational education programmes (15-24 years-old)
+_L_LA_040304_01: Percentage lower secondary/upper secondary school graduates enrolled in vocational & training school
+_L_LA_040501_01: Gender parity indices for gross enrolment
+_L_LA_040501_02: Gender parity indices for completion
+_L_LA_050304_01: Percentage of women aged 15-49 years who gave birth by aged 15
+_L_LA_050304_02: Percentage of women aged 15-49 years who gave birth by aged 18
+_L_LA_050304_03: Percentage of women aged 20-24 years who gave birth by aged 15
+_L_LA_050304_04: Percentage of women aged 20-24 years who gave birth by aged 18
+_L_LA_050503_01: Percentage of women being the village chief
+_L_LA_080302_01: Percentage of financing and loans issued to SMEs
+_L_LA_080303_01: Number of SMEs owned by Lao citizens (with Lao citizens as the majority shareholders)
+_L_LA_080503_01: Businesses owned by females
+_L_LA_080504_01: Share of employed persons in the informal sector
+_L_LA_080702_01: Number of children aged 5-17 engaged in prohibited hazardous occupations and tasks, by sex and age
+_L_LA_080903_01: Establishment of Tourism standards (1=to be adopted and implemented)
+_L_LA_080A01_01: Mean number of days to clear imports
+_L_LA_130101_02: Number the injured and fatalities from disaster_Death
+_L_LA_130303_01: Number of provinces with capacity to report on the situation of climate change
+_L_LA_170101_01: Total government revenueas a percentage of GDP_Domestic revenue
+_L_LA_170101_02: Total government revenueas a percentage of GDP_Grants
+_L_LA_170601_01: Number of science and/or technology cooperation agreements and programmes between countries, by type of cooperation (Increase number of agreements with other counties and international organisations to 100 agreements and implementing 80% in 2020)
+_L_LA_170603_01: Number of research projects/papers (increase number of research projects in national and ministerial levels to 250 projects in 2025)
+_L_LA_170603_02: Number of research papers published in regional and international journals (increase number of research publications to 250 copies in national and regional levels in 2025)
+_L_LA_170802_01: Percentage of population registered as internet users through landline and wireless
+_L_LA_170803_01: Percentage of mobile phone users with internet access.
+_L_LA_171902_02: Number of birth registration recorded
+_L_LA_171903_01: Number of death registration recorded
+_L_LA_180101_00: Number of reported UXO casualties-Total
 _L_LA_180101_01: Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ]
 _L_LA_180101_02: Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ]
 _L_LA_180102_01: Percentage of population in contaminated villages with information on Confirmed Hazardous Areas in their village (disaggregated by age group, sex and persons with disabilities) [18.1.2 ]

@@ -12523,7 +12523,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with access to access to single-sex basic sanitation [4.a.1]</common:Name>
+          <common:Name xml:lang="en">Proportion of schools with access to access to single-sex basic sanitation [4.a.1]</common:Name>
           <common:Description xml:lang="en">Proportion of schools with access to access to single-sex basic sanitation [4.a.1]</common:Description>
         <common:Name xml:lang="lo">ສ່ວນຂອງໂຮງຮຽນທີ່ມີການເຂົ້າເຖິງການເຂົ້າເຖິງການອະນາໄມຂັ້ນພື້ນຖານເພດດຽວ [4.a.1]</common:Name></structure:Code>
         <structure:Code id="SE_INF_DSBL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SE_INF_DSBL">
@@ -12663,7 +12663,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]</common:Name>
+          <common:Name xml:lang="en">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]</common:Name>
           <common:Description xml:lang="en">Legal frameworks that promote, enforce and monitor gender equality (percentage of achievement, 0 - 100) -- Area 2: violence against women. [5.1.1]</common:Description>
         <common:Name xml:lang="lo">ໂຄງຮ່າງກົດຫມາຍທີ່ສົ່ງເສີມ, ບັງຄັບໃຊ້ ແລະ ຕິດຕາມກວດກາຄວາມສະເຫມີພາບທາງເພດ (ເປີເຊັນຂອງຄວາມສໍາເລັດ, 0 - 100) -- ເຂດ 2: ຄວາມຮຸນແຮງຕໍ່ແມ່ຍິງ. [5.1.1]</common:Name></structure:Code>
         <structure:Code id="SG_LGL_GENEQEMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SG_LGL_GENEQEMP">
@@ -12859,7 +12859,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2]</common:Name>
+          <common:Name xml:lang="en">Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2]</common:Name>
           <common:Description xml:lang="en">Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months [5.2.2]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງແມ່ຍິງ ແລະ ເດັກຍິງອາຍຸ 15 ປີ ແລະ ຜູ້ມີອາຍຸສູງແມ່ນໄດ້ຮັບຄວາມຮຸນແຮງທາງເພດໂດຍບຸກຄົນອື່ນນອກຈາກຄູ່ຮ່ວມງານສະຫນິດສະຫນົມໃນໄລຍະ 12 ເດືອນຜ່ານມາ [5.2.2]</common:Name></structure:Code>
         <structure:Code id="SP_DYN_MRBF15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SP_DYN_MRBF15">
@@ -13363,7 +13363,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (1 = YES; 0 = NO) [5.6.2]</common:Name>
+          <common:Name xml:lang="en">Countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (1 = YES; 0 = NO) [5.6.2]</common:Name>
           <common:Description xml:lang="en">Countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (1 = YES; 0 = NO) [5.6.2]</common:Description>
         <common:Name xml:lang="lo">ປະເທດທີ່ມີກົດຫມາຍແລະລະບຽບການທີ່ຮັບປະກັນການເຂົ້າເຖິງແມ່ຍິງແລະຜູ້ຊາຍທີ່ມີອາຍຸ15ປີແລະອາຍຸ15ປີແລະອາຍຸຫຼາຍກວ່າການດູແລສຸຂະພາບທາງເພດແລະການສືບພັນ, ຂໍ້ມູນຂ່າວສານແລະການສຶກສາ (1 = YES; 0 = NO) [5.6.2]</common:Name></structure:Code>
         <structure:Code id="SH_LGR_ACSRHE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SH_LGR_ACSRHE">
@@ -15575,7 +15575,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]</common:Name>
+          <common:Name xml:lang="en">Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]</common:Name>
           <common:Description xml:lang="en">Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]</common:Description>
         <common:Name xml:lang="lo">ຕິດຕັ້ງຄວາມສາມາດໃນການຜະລິດໄຟຟ້າທົດແທນ (watts per capita) [7.b.1, 12.a.1]</common:Name></structure:Code>
         <structure:Code id="NY_GDP_PCAP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).NY_GDP_PCAP">
@@ -16463,7 +16463,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of the rural population who live within 2 km of an all-season road [9.1.1]</common:Name>
+          <common:Name xml:lang="en">Proportion of the rural population who live within 2 km of an all-season road [9.1.1]</common:Name>
           <common:Description xml:lang="en">Proportion of the rural population who live within 2 km of an all-season road [9.1.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງປະຊາກອນຊົນນະບົດທີ່ອາໄສຢູ່ພາຍໃນ 2 ກມຂອງເສັ້ນທາງຕະຫຼອດໄລຍະ [9.1.1]</common:Name></structure:Code>
         <structure:Code id="IS_TRP_MAILTKM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).IS_TRP_MAILTKM">
@@ -17107,7 +17107,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of people living below 50 percent of median income [10.2.1]</common:Name>
+          <common:Name xml:lang="en">Proportion of people living below 50 percent of median income [10.2.1]</common:Name>
           <common:Description xml:lang="en">Proportion of people living below 50 percent of median income [10.2.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງຄົນທີ່ດໍາລົງຊີວິດຕ່ໍາກວ່າ 50 ເປີເຊັນຂອງລາຍຮັບກາງ [10.2.1]</common:Name></structure:Code>
         <structure:Code id="VC_VOV_DCMN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).VC_VOV_DCMN">
@@ -20007,7 +20007,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment [13.a.1]</common:Name>
+          <common:Name xml:lang="en">Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment [13.a.1]</common:Name>
           <common:Description xml:lang="en">Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment [13.a.1]</common:Description>
         <common:Name xml:lang="lo">ໄດ້ເຄື່ອນໄຫວຈໍານວນເງິນໂດລາສະຫະລັດຕໍ່ປີລະຫວ່າງປີ 2020 ຫາ 2025 ຮັບຜິດຊອບຕໍ່ຄໍາຫມັ້ນສັນຍາ 100 ພັນລ້ານໂດລາສະຫະລັດ [13.a.1]</common:Name></structure:Code>
         <structure:Code id="DC_FIN_CLIMB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).DC_FIN_CLIMB">
@@ -21547,7 +21547,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]</common:Name>
+          <common:Name xml:lang="en">Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]</common:Name>
           <common:Description xml:lang="en">Countries with an allocation from the national budget to manage the threat of invasive alien species (1 = YES, 0 = NO) [15.8.1]</common:Description>
         <common:Name xml:lang="lo">ປະເທດທີ່ມີການແບ່ງປັນຈາກງົບປະມານແຫ່ງຊາດເພື່ອຈັດການໄພຄຸກຄາມຂອງຊະນິດຕ່າງດ້າວທີ່ບຸກລຸກ (1 = YES, 0 = NO) [15.8.1]</common:Name></structure:Code>
         <structure:Code id="ER_IAS_GLOFUN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).ER_IAS_GLOFUN">
@@ -21575,7 +21575,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]</common:Name>
+          <common:Name xml:lang="en">Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]</common:Name>
           <common:Description xml:lang="en">Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien species  management (1 = YES, 0 = NO) [15.8.1]</common:Description>
         <common:Name xml:lang="lo">ປະເທດທີ່ໄດ້ຮັບທຶນຊ່ວຍເຫຼືອຈາກທົ່ວໂລກດ້ວຍການເຂົ້າເຖິງແຫຼ່ງທຶນໃດໆຈາກກົນໄກການເງິນທົ່ວໂລກສໍາລັບໂຄງການທີ່ກ່ຽວຂ້ອງກັບການຄຸ້ມຄອງຊະນິດຕ່າງດ້າວinvasive (1 = YES, 0 = NO) [15.8.1]</common:Name></structure:Code>
         <structure:Code id="ER_BDY_ABT2NP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).ER_BDY_ABT2NP">
@@ -22219,7 +22219,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3]</common:Name>
+          <common:Name xml:lang="en">Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3]</common:Name>
           <common:Description xml:lang="en">Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ມີອາຍຸ 18-29 ປີ ທີ່ປະສົບກັບຄວາມຮຸນແຮງທາງເພດເມື່ອອາຍຸ 18 ປີ [16.2.3]</common:Name></structure:Code>
         <structure:Code id="VC_PRR_PHYV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).VC_PRR_PHYV">
@@ -22639,7 +22639,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</common:Name>
+          <common:Name xml:lang="en">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</common:Name>
           <common:Description xml:lang="en">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງສະມາຊິກສະພາຍິງ (ອັດຕາສ່ວນຂອງອັດຕາສ່ວນຂອງແມ່ຍິງໃນສະພາແຫ່ງຊາດໃນອັດຕາສ່ວນຂອງແມ່ຍິງໃນປະຊາກອນແຫ່ງຊາດທີ່ມີອາຍຸການມີສິດເປັນຂອບເຂດທີ່ຕ່ໍາກວ່າ), Upper Chamber [16.7.1]</common:Name></structure:Code>
         <structure:Code id="SG_DMK_PARLMP_LC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SG_DMK_PARLMP_LC">
@@ -22667,7 +22667,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</common:Name>
+          <common:Name xml:lang="en">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</common:Name>
           <common:Description xml:lang="en">Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national population with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງສະມາຊິກສະພາຍິງ (ອັດຕາສ່ວນຂອງອັດຕາສ່ວນຂອງແມ່ຍິງໃນສະພາແຫ່ງຊາດໃນອັດຕາສ່ວນຂອງແມ່ຍິງໃນປະຊາກອນແຫ່ງຊາດທີ່ມີອາຍຸການມີສິດເປັນຂອບເຂດທີ່ຕ່ໍາກວ່າ), ຊັ້ນລຸ່ມຫຼື Unicameral [16.7.1]</common:Name></structure:Code>
         <structure:Code id="SG_DMK_PARLSP_UC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SG_DMK_PARLSP_UC">
@@ -22779,7 +22779,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</common:Name>
+          <common:Name xml:lang="en">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</common:Name>
           <common:Description xml:lang="en">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral [16.7.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງສະມາຊິກຫນຸ່ມໃນສະພາແຫ່ງຊາດ (ອັດຕາສ່ວນຂອງອັດຕາສ່ວນຂອງສະມາຊິກໄວຫນຸ່ມໃນສະພາແຫ່ງຊາດ (ອາຍຸ 45 ປີ ຫຼື ຕ່ໍາກວ່າ) ໃນອັດຕາສ່ວນຂອງປະຊາກອນແຫ່ງຊາດ (ອາຍຸ 45 ປີ ຫຼື ຕ່ໍາກວ່າ) ທີ່ມີອາຍຸການມີສິດເປັນຂອບເຂດຂອບເຂດທີ່ຕ່ໍາກວ່າ), ຊັ້ນລຸ່ມ ຫຼື Unicameral [16.7.1]</common:Name></structure:Code>
         <structure:Code id="SG_DMK_PARLYP_LC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SG_DMK_PARLYP_LC">
@@ -22863,7 +22863,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</common:Name>
+          <common:Name xml:lang="en">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</common:Name>
           <common:Description xml:lang="en">Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below) with the age of eligibility as a lower bound boundary), Upper Chamber [16.7.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາສ່ວນຂອງສະມາຊິກໄວຫນຸ່ມໃນສະພາແຫ່ງຊາດ (ອັດຕາສ່ວນຂອງອັດຕາສ່ວນຂອງສະມາຊິກໄວຫນຸ່ມໃນສະພາແຫ່ງຊາດ (ອາຍຸ 45 ປີ ຫຼື ຕ່ໍາກວ່າ) ໃນອັດຕາສ່ວນຂອງປະຊາກອນແຫ່ງຊາດ (ອາຍຸ 45 ປີ ຫຼື ຕ່ໍາກວ່າ) ທີ່ມີອາຍຸການມີສິດເປັນຂອບເຂດຂອບເຂດທີ່ຕ່ໍາກວ່າ), Upper Chamber [16.7.1]</common:Name></structure:Code>
         <structure:Code id="SG_DMK_PARLYP_UC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SG_DMK_PARLYP_UC">
@@ -24147,7 +24147,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]</common:Name>
+          <common:Name xml:lang="en">Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]</common:Name>
           <common:Description xml:lang="en">Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາເງິນເຟີ້ສະເລ່ຍທີ່ນໍາໃຊ້ໂດຍປະເທດດ້ອຍພັດທະນາ, ສະຖານະພາບຂອງຊາດທີ່ນິຍົມທີ່ສຸດ, ໂດຍປະເພດຜະລິດຕະພັນ (%)  [17.12.1]</common:Name></structure:Code>
         <structure:Code id="TM_TAX_DPRF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).TM_TAX_DPRF">
@@ -24175,7 +24175,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]</common:Name>
+          <common:Name xml:lang="en">Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]</common:Name>
           <common:Description xml:lang="en">Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]</common:Description>
         <common:Name xml:lang="lo">ອັດຕາດອກເບັ້ຍສະເລ່ຍທີ່ນໍາໃຊ້ໂດຍປະເທດດ້ອຍພັດທະນາ, ສະຖານະພາບທີ່ມັກ, ໂດຍປະເພດຜະລິດຕະພັນ (%)  [17.12.1]</common:Name></structure:Code>
         <structure:Code id="SG_CPA_SDEV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1).SG_CPA_SDEV">

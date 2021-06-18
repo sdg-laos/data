@@ -48,7 +48,7 @@
             "constraints": {
               "enum": [
                 "5 to 17 years old",
-                "Y5T11",
+                "5-11 years old",
                 "12 to 14 years old",
                 ""
               ]

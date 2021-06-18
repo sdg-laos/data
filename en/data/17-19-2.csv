@@ -1,14 +1,14 @@
 Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2010,Proportion of countries that have conducted at least one population and housing census in the last 10 years [17.19.2],,,Number,,1
-2015,_L_LA_171902_02,,,Number,,82128
-2015,_L_LA_171902_02,,Male,Number,,35930
-2015,_L_LA_171902_02,,Female,Number,,46198
-2016,_L_LA_171902_02,,,Number,,61746
-2016,_L_LA_171902_02,,Male,Number,,31217
-2016,_L_LA_171902_02,,Female,Number,,30529
-2017,_L_LA_171902_02,,,Number,,61416
-2017,_L_LA_171902_02,,Male,Number,,30180
-2017,_L_LA_171902_02,,Female,Number,,31236
-2018,_L_LA_171902_02,,,Number,,70732
-2018,_L_LA_171902_02,,Male,Number,,35324
-2018,_L_LA_171902_02,,Female,Number,,35408
+2015,Number of birth registration recorded,,,Number,,82128
+2015,Number of birth registration recorded,,Male,Number,,35930
+2015,Number of birth registration recorded,,Female,Number,,46198
+2016,Number of birth registration recorded,,,Number,,61746
+2016,Number of birth registration recorded,,Male,Number,,31217
+2016,Number of birth registration recorded,,Female,Number,,30529
+2017,Number of birth registration recorded,,,Number,,61416
+2017,Number of birth registration recorded,,Male,Number,,30180
+2017,Number of birth registration recorded,,Female,Number,,31236
+2018,Number of birth registration recorded,,,Number,,70732
+2018,Number of birth registration recorded,,Male,Number,,35324
+2018,Number of birth registration recorded,,Female,Number,,35408

@@ -1,13 +1,13 @@
 Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2015,_L_LA_171903_01,,,Number,,14042
-2015,_L_LA_171903_01,,Male,Number,,5637
-2015,_L_LA_171903_01,,Female,Number,,8405
-2016,_L_LA_171903_01,,,Number,,17157
-2016,_L_LA_171903_01,,Male,Number,,7339
-2016,_L_LA_171903_01,,Female,Number,,9818
-2017,_L_LA_171903_01,,,Number,,15646
-2017,_L_LA_171903_01,,Male,Number,,6719
-2017,_L_LA_171903_01,,Female,Number,,8927
-2018,_L_LA_171903_01,,,Number,,19238
-2018,_L_LA_171903_01,,Male,Number,,8173
-2018,_L_LA_171903_01,,Female,Number,,11065
+2015,Number of death registration recorded,,,Number,,14042
+2015,Number of death registration recorded,,Male,Number,,5637
+2015,Number of death registration recorded,,Female,Number,,8405
+2016,Number of death registration recorded,,,Number,,17157
+2016,Number of death registration recorded,,Male,Number,,7339
+2016,Number of death registration recorded,,Female,Number,,9818
+2017,Number of death registration recorded,,,Number,,15646
+2017,Number of death registration recorded,,Male,Number,,6719
+2017,Number of death registration recorded,,Female,Number,,8927
+2018,Number of death registration recorded,,,Number,,19238
+2018,Number of death registration recorded,,Male,Number,,8173
+2018,Number of death registration recorded,,Female,Number,,11065

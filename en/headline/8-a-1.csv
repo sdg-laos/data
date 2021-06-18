@@ -1,6 +1,6 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2015,26,,Number,_L_LA_080A01_01
-2016,9,,Number,_L_LA_080A01_01
-2017,10,,Number,_L_LA_080A01_01
-2018,10,,Number,_L_LA_080A01_01
-2019,3,,Number,_L_LA_080A01_01
+2015,26,,Number,Mean number of days to clear imports
+2016,9,,Number,Mean number of days to clear imports
+2017,10,,Number,Mean number of days to clear imports
+2018,10,,Number,Mean number of days to clear imports
+2019,3,,Number,Mean number of days to clear imports

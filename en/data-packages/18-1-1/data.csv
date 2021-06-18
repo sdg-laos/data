@@ -1,5 +1,5 @@
 Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2015,_L_LA_180101_00,,,Number,,42
+2015,Number of reported UXO casualties-Total,,,Number,,42
 2015,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,,Number,,33
 2015,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Male,Number,,15
 2015,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Boy,Number,,16
@@ -10,7 +10,7 @@ Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2015,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Boy,Number,,2
 2015,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Female,Number,,1
 2015,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Girl,Number,,0
-2016,_L_LA_180101_00,,,Number,,60
+2016,Number of reported UXO casualties-Total,,,Number,,60
 2016,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,,Number,,50
 2016,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Male,Number,,18
 2016,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Boy,Number,,24
@@ -21,7 +21,7 @@ Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2016,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Boy,Number,,8
 2016,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Female,Number,,0
 2016,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Girl,Number,,0
-2017,_L_LA_180101_00,,,Number,,41
+2017,Number of reported UXO casualties-Total,,,Number,,41
 2017,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,,Number,,37
 2017,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Male,Number,,12
 2017,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Boy,Number,,8
@@ -32,7 +32,7 @@ Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2017,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Boy,Number,,0
 2017,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Female,Number,,0
 2017,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Girl,Number,,1
-2018,_L_LA_180101_00,,,Number,,24
+2018,Number of reported UXO casualties-Total,,,Number,,24
 2018,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,,Number,,21
 2018,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Male,Number,,4
 2018,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Boy,Number,,8
@@ -43,7 +43,7 @@ Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2018,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Boy,Number,,1
 2018,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Female,Number,,0
 2018,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Girl,Number,,0
-2019,_L_LA_180101_00,,,Number,,25
+2019,Number of reported UXO casualties-Total,,,Number,,25
 2019,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,,Number,,16
 2019,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Male,Number,,5
 2019,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Boy,Number,,4
@@ -54,7 +54,7 @@ Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
 2019,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Boy,Number,,1
 2019,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Female,Number,,0
 2019,Number of reported UXO casualties (disaggregated by age group and sex) - Killed [18.1.1 ],,Girl,Number,,0
-2020,_L_LA_180101_00,,,Number,,33
+2020,Number of reported UXO casualties-Total,,,Number,,33
 2020,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,,Number,,24
 2020,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Male,Number,,11
 2020,Number of reported UXO casualties (disaggregated by age group and sex)- Injured [18.1.1 ],,Boy,Number,,9

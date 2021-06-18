@@ -3,7 +3,7 @@
   <message:Header>
     <message:ID>IDREF2</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2021-06-17T15:04:48.6693535+07:00</message:Prepared>
+    <message:Prepared>2021-06-18T11:12:25.9627326+07:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="Unknown" />
   </message:Header>
@@ -25678,12 +25678,12 @@
           <common:Name xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 15</common:Name>
           <common:Description xml:lang="en">Percentage of women aged 15-49 years who gave birth by aged 15</common:Description>
         </structure:Code>
-        <structure:Code id="_L_LA_050503_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050503_01">
+        <structure:Code id="_L_LA_050502_06" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050502_06">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">5.5.3</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">5.5.2</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
@@ -25691,7 +25691,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Percentage of women being the village chief</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of women in managerial positions</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -25891,7 +25891,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion and number of children aged 5โ€“17ย years engaged in child labour, by sex and age</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion and number of children aged 5โ€“17ย years engaged in child labour, by sex and age</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -26118,7 +26118,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of countries that (a) have conducted at least one population and housing census in the last 10ย years; and (b) have achieved 100ย perย cent birth registration and 80ย perย cent death registration</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of countries that (a) have conducted at least one population and housing census in the last 10ย years; and (b) have achieved 100ย perย cent birth registration and 80ย perย cent death registration</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -26254,6 +26254,131 @@
           </common:Annotations>
           <common:Name xml:lang="en">Number of provinces with capacity to report on the situation of climate change</common:Name>
           <common:Description xml:lang="en">Number of provinces with capacity to report on the situation of climate change</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050502_01" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050502_01">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.5.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of women in managerial positions</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_Deputy Division Head</common:Name>
+          <common:Description xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_Deputy Division Head</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050502_02" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050502_02">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.5.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of women in managerial positions</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_ Division Head</common:Name>
+          <common:Description xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_ Division Head</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050502_03" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050502_03">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.5.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of women in managerial positions</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_Deputy Department General</common:Name>
+          <common:Description xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_Deputy Department General</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050502_04" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050502_04">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.5.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of women in managerial positions</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_Department General</common:Name>
+          <common:Description xml:lang="en">Percentage of women in decision making positions /leadership positions in government sector by central, province and district in the following positions_Department General</common:Description>
+        </structure:Code>
+        <structure:Code id="_L_LA_050502_05" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=LSB-SDGs:CL_SERIES(1.1)._L_LA_050502_05">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5.5.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of women in managerial positions</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>ORDER</common:AnnotationType>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of women being  the deputy village chief</common:Name>
+          <common:Description xml:lang="en">Percentage of women being  the deputy village chief</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist agencyID="LSB-SDGs" id="CL_SEX" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=LSB-SDGs:CL_SEX(1.1)" version="1.1">
@@ -26549,9 +26674,9 @@
       </structure:Codelist>
     </structure:Codelists>
     <structure:Concepts>
-      <structure:ConceptScheme agencyID="LSB-SDGs" id="SDG_CONCEPTS" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.ConceptScheme=LSB-SDGs:SDG_CONCEPTS(1.0)" version="1.0">
+      <structure:ConceptScheme agencyID="LSB-SDG" id="SDG_CONCEPTS" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.ConceptScheme=LSB-SDG:SDG_CONCEPTS(1.0)" version="1.0">
         <common:Name xml:lang="en">Date of the most recent change of the series.</common:Name>
-        <structure:Concept id="FREQ" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).FREQ">
+        <structure:Concept id="FREQ" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).FREQ">
           <common:Name xml:lang="en">Frequency of observation</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26559,7 +26684,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="REPORTING_TYPE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).REPORTING_TYPE">
+        <structure:Concept id="REPORTING_TYPE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).REPORTING_TYPE">
           <common:Name xml:lang="en">Reporting type</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26567,7 +26692,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="SERIES" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).SERIES">
+        <structure:Concept id="SERIES" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).SERIES">
           <common:Name xml:lang="en">SDG Series</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26575,7 +26700,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="REF_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).REF_AREA">
+        <structure:Concept id="REF_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).REF_AREA">
           <common:Name xml:lang="en">Reference area</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26583,7 +26708,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="SEX" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).SEX">
+        <structure:Concept id="SEX" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).SEX">
           <common:Name xml:lang="en">Sex</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26591,7 +26716,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="AGE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).AGE">
+        <structure:Concept id="AGE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).AGE">
           <common:Name xml:lang="en">Age</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26599,7 +26724,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="URBANISATION" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).URBANISATION">
+        <structure:Concept id="URBANISATION" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).URBANISATION">
           <common:Name xml:lang="en">Degree of urbanisation</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26607,7 +26732,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="INCOME_WEALTH_QUANTILE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).INCOME_WEALTH_QUANTILE">
+        <structure:Concept id="INCOME_WEALTH_QUANTILE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).INCOME_WEALTH_QUANTILE">
           <common:Name xml:lang="en">Income or wealth quantile</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26615,7 +26740,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="EDUCATION_LEV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).EDUCATION_LEV">
+        <structure:Concept id="EDUCATION_LEV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).EDUCATION_LEV">
           <common:Name xml:lang="en">Education level</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26623,7 +26748,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="OCCUPATION" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).OCCUPATION">
+        <structure:Concept id="OCCUPATION" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).OCCUPATION">
           <common:Name xml:lang="en">Occupation</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26631,7 +26756,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="CUST_BREAKDOWN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).CUST_BREAKDOWN">
+        <structure:Concept id="CUST_BREAKDOWN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).CUST_BREAKDOWN">
           <common:Name xml:lang="en">Custom Breakdown</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26639,7 +26764,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="COMPOSITE_BREAKDOWN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).COMPOSITE_BREAKDOWN">
+        <structure:Concept id="COMPOSITE_BREAKDOWN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).COMPOSITE_BREAKDOWN">
           <common:Name xml:lang="en">Composite breakdown</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26647,7 +26772,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="DISABILITY_STATUS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).DISABILITY_STATUS">
+        <structure:Concept id="DISABILITY_STATUS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).DISABILITY_STATUS">
           <common:Name xml:lang="en">Disability status</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26655,7 +26780,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="ACTIVITY" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).ACTIVITY">
+        <structure:Concept id="ACTIVITY" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).ACTIVITY">
           <common:Name xml:lang="en">Economic activity</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26663,7 +26788,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="PRODUCT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).PRODUCT">
+        <structure:Concept id="PRODUCT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).PRODUCT">
           <common:Name xml:lang="en">Type of product</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26671,13 +26796,13 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="TIME_PERIOD" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).TIME_PERIOD">
+        <structure:Concept id="TIME_PERIOD" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).TIME_PERIOD">
           <common:Name xml:lang="en">Time period</common:Name>
         </structure:Concept>
-        <structure:Concept id="OBS_VALUE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).OBS_VALUE">
+        <structure:Concept id="OBS_VALUE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).OBS_VALUE">
           <common:Name xml:lang="en">Observation value</common:Name>
         </structure:Concept>
-        <structure:Concept id="OBS_STATUS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).OBS_STATUS">
+        <structure:Concept id="OBS_STATUS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).OBS_STATUS">
           <common:Name xml:lang="en">Observation status</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26685,7 +26810,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="UNIT_MULT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).UNIT_MULT">
+        <structure:Concept id="UNIT_MULT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).UNIT_MULT">
           <common:Name xml:lang="en">Unit multiplier</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26693,7 +26818,7 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="UNIT_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).UNIT_MEASURE">
+        <structure:Concept id="UNIT_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).UNIT_MEASURE">
           <common:Name xml:lang="en">Unit of measure</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26701,10 +26826,10 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="BASE_PER" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).BASE_PER">
+        <structure:Concept id="BASE_PER" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).BASE_PER">
           <common:Name xml:lang="en">Base period</common:Name>
         </structure:Concept>
-        <structure:Concept id="NATURE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).NATURE">
+        <structure:Concept id="NATURE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).NATURE">
           <common:Name xml:lang="en">Nature of data points</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26712,31 +26837,31 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="TIME_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).TIME_DETAIL">
+        <structure:Concept id="TIME_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).TIME_DETAIL">
           <common:Name xml:lang="en">Time period details</common:Name>
         </structure:Concept>
-        <structure:Concept id="COMMENT_OBS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).COMMENT_OBS">
+        <structure:Concept id="COMMENT_OBS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).COMMENT_OBS">
           <common:Name xml:lang="en">Observation-level footnotes</common:Name>
         </structure:Concept>
-        <structure:Concept id="TIME_COVERAGE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).TIME_COVERAGE">
+        <structure:Concept id="TIME_COVERAGE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).TIME_COVERAGE">
           <common:Name xml:lang="en">Time period or range (ISO8601)</common:Name>
         </structure:Concept>
-        <structure:Concept id="UPPER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).UPPER_BOUND">
+        <structure:Concept id="UPPER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).UPPER_BOUND">
           <common:Name xml:lang="en">Upper bound value</common:Name>
         </structure:Concept>
-        <structure:Concept id="LOWER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).LOWER_BOUND">
+        <structure:Concept id="LOWER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).LOWER_BOUND">
           <common:Name xml:lang="en">Lower bound value</common:Name>
         </structure:Concept>
-        <structure:Concept id="SOURCE_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).SOURCE_DETAIL">
+        <structure:Concept id="SOURCE_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).SOURCE_DETAIL">
           <common:Name xml:lang="en">Source details</common:Name>
         </structure:Concept>
-        <structure:Concept id="COMMENT_TS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).COMMENT_TS">
+        <structure:Concept id="COMMENT_TS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).COMMENT_TS">
           <common:Name xml:lang="en">Time series-level footnotes</common:Name>
         </structure:Concept>
-        <structure:Concept id="GEO_INFO_URL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).GEO_INFO_URL">
+        <structure:Concept id="GEO_INFO_URL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).GEO_INFO_URL">
           <common:Name xml:lang="en">Geoinformation URL</common:Name>
         </structure:Concept>
-        <structure:Concept id="GEO_INFO_TYPE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).GEO_INFO_TYPE">
+        <structure:Concept id="GEO_INFO_TYPE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).GEO_INFO_TYPE">
           <common:Name xml:lang="en">Geoinformation type</common:Name>
           <structure:CoreRepresentation>
             <structure:Enumeration>
@@ -26744,22 +26869,22 @@
             </structure:Enumeration>
           </structure:CoreRepresentation>
         </structure:Concept>
-        <structure:Concept id="CUST_BREAKDOWN_LB" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).CUST_BREAKDOWN_LB">
+        <structure:Concept id="CUST_BREAKDOWN_LB" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).CUST_BREAKDOWN_LB">
           <common:Name xml:lang="en">Label for custom breakdown</common:Name>
         </structure:Concept>
-        <structure:Concept id="DATA_LAST_UPDATE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDGs:SDG_CONCEPTS(1.0).DATA_LAST_UPDATE">
+        <structure:Concept id="DATA_LAST_UPDATE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LSB-SDG:SDG_CONCEPTS(1.0).DATA_LAST_UPDATE">
           <common:Name xml:lang="en">Date of the most recent change of the series.</common:Name>
         </structure:Concept>
       </structure:ConceptScheme>
     </structure:Concepts>
     <structure:DataStructures>
-      <structure:DataStructure agencyID="LSB-SDGs" id="SDG" isFinal="false" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=LSB-SDGs:SDG(1.1)" version="1.1">
+      <structure:DataStructure agencyID="LSB-SDG" id="SDG" isFinal="false" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=LSB-SDG:SDG(1.1)" version="1.1">
         <common:Name xml:lang="en">SDG DSD</common:Name>
         <structure:DataStructureComponents>
-          <structure:DimensionList id="DimensionDescriptor" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DimensionDescriptor=LSB-SDGs:SDG(1.1).DimensionDescriptor">
-            <structure:Dimension id="FREQ" position="1" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).FREQ">
+          <structure:DimensionList id="DimensionDescriptor" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DimensionDescriptor=LSB-SDG:SDG(1.1).DimensionDescriptor">
+            <structure:Dimension id="FREQ" position="1" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).FREQ">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="FREQ" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="FREQ" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26767,9 +26892,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="REPORTING_TYPE" position="2" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).REPORTING_TYPE">
+            <structure:Dimension id="REPORTING_TYPE" position="2" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).REPORTING_TYPE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="REPORTING_TYPE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="REPORTING_TYPE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26777,9 +26902,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="SERIES" position="3" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).SERIES">
+            <structure:Dimension id="SERIES" position="3" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).SERIES">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="SERIES" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="SERIES" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26787,9 +26912,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="REF_AREA" position="4" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).REF_AREA">
+            <structure:Dimension id="REF_AREA" position="4" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).REF_AREA">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="REF_AREA" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="REF_AREA" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26797,9 +26922,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="SEX" position="5" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).SEX">
+            <structure:Dimension id="SEX" position="5" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).SEX">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="SEX" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="SEX" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26807,9 +26932,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="AGE" position="6" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).AGE">
+            <structure:Dimension id="AGE" position="6" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).AGE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="AGE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="AGE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26817,9 +26942,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="URBANISATION" position="7" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).URBANISATION">
+            <structure:Dimension id="URBANISATION" position="7" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).URBANISATION">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="URBANISATION" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="URBANISATION" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26827,9 +26952,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="INCOME_WEALTH_QUANTILE" position="8" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).INCOME_WEALTH_QUANTILE">
+            <structure:Dimension id="INCOME_WEALTH_QUANTILE" position="8" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).INCOME_WEALTH_QUANTILE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="INCOME_WEALTH_QUANTILE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="INCOME_WEALTH_QUANTILE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26837,9 +26962,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="EDUCATION_LEV" position="9" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).EDUCATION_LEV">
+            <structure:Dimension id="EDUCATION_LEV" position="9" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).EDUCATION_LEV">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="EDUCATION_LEV" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="EDUCATION_LEV" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26847,9 +26972,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="OCCUPATION" position="10" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).OCCUPATION">
+            <structure:Dimension id="OCCUPATION" position="10" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).OCCUPATION">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="OCCUPATION" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="OCCUPATION" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26857,9 +26982,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="CUST_BREAKDOWN" position="11" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).CUST_BREAKDOWN">
+            <structure:Dimension id="CUST_BREAKDOWN" position="11" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).CUST_BREAKDOWN">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="CUST_BREAKDOWN" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="CUST_BREAKDOWN" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26867,9 +26992,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="COMPOSITE_BREAKDOWN" position="12" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).COMPOSITE_BREAKDOWN">
+            <structure:Dimension id="COMPOSITE_BREAKDOWN" position="12" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).COMPOSITE_BREAKDOWN">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="COMPOSITE_BREAKDOWN" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="COMPOSITE_BREAKDOWN" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26877,9 +27002,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="DISABILITY_STATUS" position="13" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).DISABILITY_STATUS">
+            <structure:Dimension id="DISABILITY_STATUS" position="13" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).DISABILITY_STATUS">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="DISABILITY_STATUS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="DISABILITY_STATUS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26887,9 +27012,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="ACTIVITY" position="14" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).ACTIVITY">
+            <structure:Dimension id="ACTIVITY" position="14" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).ACTIVITY">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="ACTIVITY" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="ACTIVITY" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26897,9 +27022,9 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:Dimension id="PRODUCT" position="15" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDGs:SDG(1.1).PRODUCT">
+            <structure:Dimension id="PRODUCT" position="15" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=LSB-SDG:SDG(1.1).PRODUCT">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="PRODUCT" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="PRODUCT" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26907,19 +27032,19 @@
                 </structure:Enumeration>
               </structure:LocalRepresentation>
             </structure:Dimension>
-            <structure:TimeDimension id="TIME_PERIOD" position="16" urn="urn:sdmx:org.sdmx.infomodel.datastructure.TimeDimension=LSB-SDGs:SDG(1.1).TIME_PERIOD">
+            <structure:TimeDimension id="TIME_PERIOD" position="16" urn="urn:sdmx:org.sdmx.infomodel.datastructure.TimeDimension=LSB-SDG:SDG(1.1).TIME_PERIOD">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="TIME_PERIOD" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="TIME_PERIOD" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:TextFormat textType="ObservationalTimePeriod" />
               </structure:LocalRepresentation>
             </structure:TimeDimension>
           </structure:DimensionList>
-          <structure:AttributeList id="AttributeDescriptor" urn="urn:sdmx:org.sdmx.infomodel.datastructure.AttributeDescriptor=LSB-SDGs:SDG(1.1).AttributeDescriptor">
-            <structure:Attribute assignmentStatus="Mandatory" id="OBS_STATUS" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).OBS_STATUS">
+          <structure:AttributeList id="AttributeDescriptor" urn="urn:sdmx:org.sdmx.infomodel.datastructure.AttributeDescriptor=LSB-SDG:SDG(1.1).AttributeDescriptor">
+            <structure:Attribute assignmentStatus="Mandatory" id="OBS_STATUS" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).OBS_STATUS">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="OBS_STATUS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="OBS_STATUS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26932,9 +27057,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Mandatory" id="UNIT_MULT" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).UNIT_MULT">
+            <structure:Attribute assignmentStatus="Mandatory" id="UNIT_MULT" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).UNIT_MULT">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="UNIT_MULT" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="UNIT_MULT" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -26947,9 +27072,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Mandatory" id="UNIT_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).UNIT_MEASURE">
+            <structure:Attribute assignmentStatus="Mandatory" id="UNIT_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).UNIT_MEASURE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="UNIT_MEASURE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="UNIT_MEASURE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -27004,9 +27129,9 @@
                 </structure:Dimension>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="BASE_PER" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).BASE_PER">
+            <structure:Attribute assignmentStatus="Conditional" id="BASE_PER" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).BASE_PER">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="BASE_PER" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="BASE_PER" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27014,9 +27139,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="NATURE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).NATURE">
+            <structure:Attribute assignmentStatus="Conditional" id="NATURE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).NATURE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="NATURE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="NATURE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -27029,9 +27154,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="TIME_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).TIME_DETAIL">
+            <structure:Attribute assignmentStatus="Conditional" id="TIME_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).TIME_DETAIL">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="TIME_DETAIL" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="TIME_DETAIL" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27039,9 +27164,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="COMMENT_OBS" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).COMMENT_OBS">
+            <structure:Attribute assignmentStatus="Conditional" id="COMMENT_OBS" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).COMMENT_OBS">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="COMMENT_OBS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="COMMENT_OBS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27049,9 +27174,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="TIME_COVERAGE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).TIME_COVERAGE">
+            <structure:Attribute assignmentStatus="Conditional" id="TIME_COVERAGE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).TIME_COVERAGE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="TIME_COVERAGE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="TIME_COVERAGE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27059,9 +27184,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="UPPER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).UPPER_BOUND">
+            <structure:Attribute assignmentStatus="Conditional" id="UPPER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).UPPER_BOUND">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="UPPER_BOUND" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="UPPER_BOUND" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27069,9 +27194,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="LOWER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).LOWER_BOUND">
+            <structure:Attribute assignmentStatus="Conditional" id="LOWER_BOUND" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).LOWER_BOUND">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="LOWER_BOUND" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="LOWER_BOUND" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27079,9 +27204,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="SOURCE_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).SOURCE_DETAIL">
+            <structure:Attribute assignmentStatus="Conditional" id="SOURCE_DETAIL" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).SOURCE_DETAIL">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="SOURCE_DETAIL" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="SOURCE_DETAIL" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:PrimaryMeasure>
@@ -27089,9 +27214,9 @@
                 </structure:PrimaryMeasure>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="COMMENT_TS" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).COMMENT_TS">
+            <structure:Attribute assignmentStatus="Conditional" id="COMMENT_TS" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).COMMENT_TS">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="COMMENT_TS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="COMMENT_TS" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:Dimension>
@@ -27141,9 +27266,9 @@
                 </structure:Dimension>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="GEO_INFO_URL" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).GEO_INFO_URL">
+            <structure:Attribute assignmentStatus="Conditional" id="GEO_INFO_URL" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).GEO_INFO_URL">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="GEO_INFO_URL" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="GEO_INFO_URL" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:Dimension>
@@ -27193,9 +27318,9 @@
                 </structure:Dimension>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="GEO_INFO_TYPE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).GEO_INFO_TYPE">
+            <structure:Attribute assignmentStatus="Conditional" id="GEO_INFO_TYPE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).GEO_INFO_TYPE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="GEO_INFO_TYPE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="GEO_INFO_TYPE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:LocalRepresentation>
                 <structure:Enumeration>
@@ -27250,9 +27375,9 @@
                 </structure:Dimension>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="CUST_BREAKDOWN_LB" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).CUST_BREAKDOWN_LB">
+            <structure:Attribute assignmentStatus="Conditional" id="CUST_BREAKDOWN_LB" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).CUST_BREAKDOWN_LB">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="CUST_BREAKDOWN_LB" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="CUST_BREAKDOWN_LB" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:Dimension>
@@ -27302,9 +27427,9 @@
                 </structure:Dimension>
               </structure:AttributeRelationship>
             </structure:Attribute>
-            <structure:Attribute assignmentStatus="Conditional" id="DATA_LAST_UPDATE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDGs:SDG(1.1).DATA_LAST_UPDATE">
+            <structure:Attribute assignmentStatus="Conditional" id="DATA_LAST_UPDATE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.DataAttribute=LSB-SDG:SDG(1.1).DATA_LAST_UPDATE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="DATA_LAST_UPDATE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="DATA_LAST_UPDATE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
               <structure:AttributeRelationship>
                 <structure:Dimension>
@@ -27355,10 +27480,10 @@
               </structure:AttributeRelationship>
             </structure:Attribute>
           </structure:AttributeList>
-          <structure:MeasureList id="MeasureDescriptor" urn="urn:sdmx:org.sdmx.infomodel.datastructure.MeasureDescriptor=LSB-SDGs:SDG(1.1).MeasureDescriptor">
-            <structure:PrimaryMeasure id="OBS_VALUE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.PrimaryMeasure=LSB-SDGs:SDG(1.1).OBS_VALUE">
+          <structure:MeasureList id="MeasureDescriptor" urn="urn:sdmx:org.sdmx.infomodel.datastructure.MeasureDescriptor=LSB-SDG:SDG(1.1).MeasureDescriptor">
+            <structure:PrimaryMeasure id="OBS_VALUE" urn="urn:sdmx:org.sdmx.infomodel.datastructure.PrimaryMeasure=LSB-SDG:SDG(1.1).OBS_VALUE">
               <structure:ConceptIdentity>
-                <Ref agencyID="LSB-SDGs" class="Concept" id="OBS_VALUE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
+                <Ref agencyID="LSB-SDG" class="Concept" id="OBS_VALUE" maintainableParentID="SDG_CONCEPTS" maintainableParentVersion="1.0" package="conceptscheme" />
               </structure:ConceptIdentity>
             </structure:PrimaryMeasure>
           </structure:MeasureList>

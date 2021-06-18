@@ -5,7 +5,7 @@ EDUCATION_LEV,ລະດັບການສຶກສາ,Education level,6,3
 INCOME_WEALTH_QUANTILE,ລາຍໄດ້ ຫຼື ຄວາມຮັ່ງມີ quantile,Income or wealth quantile,7,5
 OCCUPATION,ອາຊີບ,Occupation,1,2
 PRODUCT,ປະເພດຜະລິດຕະພັນ,Type of product,1,4
-SERIES,SDG Series,SDG Series,66,81
-SEX,ເພດ,Sex,18,4
-UNIT_MEASURE,ຫນ່ວຍງານວັດແທກ,Unit of measure,66,9
+SERIES,SDG Series,SDG Series,77,97
+SEX,ເພດ,Sex,21,4
+UNIT_MEASURE,ຫນ່ວຍງານວັດແທກ,Unit of measure,77,10
 URBANISATION,ລະດັບການເມືອງ,Degree of urbanisation,11,2

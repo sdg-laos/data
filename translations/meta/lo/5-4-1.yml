@@ -85,7 +85,7 @@ QUALITY_MGMNT: <p> N/A</p>
 QUALITY_ASSURE: <p> N/A</p>
 QUALITY_ASSMNT: <p> N/A</p>
 OTHER_DOC: <ol> <li> <a href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></li><li>https://unstats.un.org/sdgs/metadata/</li></ol>
-ORGANISATION_UNIT: <p> ພະແນກສະຖິຕິສັງຄົມ</p>
+ORGANISATION_UNIT: <p> ກົມສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>29 ເມສາ 2021</p>
 INST_MANDATE: <p> ບົນພື້ນຖານກົດຫມາຍສະຖິຕິ ແລະ ຍຸດທະສາດແຫ່ງຊາດ ເພື່ອການພັດທະນາລະບົບສະຖິຕິແບບຍືນຍົງ
   2016-2020 ແລະ ວິໄສທັດສໍາລັບປີ 2030, ກະຊວງແຜນການ ແລະ ການລົງທຶນ (MPI) ທົ່ວກົມສະຖິຕິLao
@@ -95,7 +95,7 @@ IMPUTATION: <p> N/A</p>
 FREQ_COLL: <p>2022</p>
 DOC_METHOD: <p> N/A</p>
 DATA_VALIDATION: <p> N/A</p>
-DATA_SOURCE: <p> Lao Statistics Bureau</p>
+DATA_SOURCE: <p> ສູນສະຖິຕິແຫ່ງຊາດ</p>
 DATA_COMP: '<p> ຂໍ້ມູນທີ່ນໍາສະເຫນີສໍາລັບຕົວຊີ້ວັດນີ້ສະແດງອອກເປັນສ່ວນຫນຶ່ງຂອງເວລາໃນຫນຶ່ງມື້.
   ຂໍ້ ມູນ ປະ ຈໍາ ອາ ທິດ ແມ່ນ ສະ ເລ່ຍ ເປັນ ເວ ລາ ເຈັດ ວັນ ຂອງ ອາ ທິດ ເພື່ອ ໃຫ້ ໄດ້
   ຮັບ ເວ ລາ ສະ ເລ່ຍ ປະ ຈໍາ ວັນ. </p> <p> ອັດຕາສ່ວນຂອງການໃຊ້ເວລາໃນວຽກງານພາຍໃນແລະການດູແລທີ່ບໍ່ໄດ້ຮັບຄ່າຈ້າງແມ່ນຖືກຄິດໄລ່ໂດຍການແບ່ງຈໍານວນຊົ່ວໂມງສະເລ່ຍປະຈໍາວັນທີ່ໃຊ້ເວລາໃນການເຮັດວຽກພາຍໃນແລະການດູແລທີ່ບໍ່ໄດ້ຮັບຄ່າຈ້າງພາຍໃນ
@@ -119,13 +119,13 @@ COVERAGE: <p> ການສໍາຫຼວດກໍາລັງແຮງງານ
   by Location (U/R), ກຸ່ມເພດແລະອາຍຸແລະລັກສະນະຂອງກໍາລັງແຮງງານ, ການຈ້າງງານ, ການຫວ່າງງານແລະລັກສະນະຕະຫຼາດແຮງງານອື່ນໆຂອງປະຊາກອນ.
   </p>
 CONTACT_PHONE: <p>+856 20 55 795 043</p><p>+856 21 214 740</p>
-CONTACT_ORGANISATION: <p> Lao Statistics Bureau</p>
-CONTACT_NAME: <p> Mr.Vilaysook SISOULATH</p>
+CONTACT_ORGANISATION: <p> ສູນສະຖິຕິແຫ່ງຊາດ</p>
+CONTACT_NAME: <p>ທ່ານ ວິໄລສຸກ ສີສຸລາດ</p>
 CONTACT_MAIL: <p> N/A</p>
-CONTACT_FUNCT: <p> ຮອງຜູ້ອໍານວຍການໃຫຍ່</p>
+CONTACT_FUNCT: <p> ຮອງຫົວໜ້າກົມ</p>
 CONTACT_EMAIL: <p> <a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a
   href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p>https://www.lsb.gov.la</p>
-COMPILING_ORG: <p> Lao Statistics Bureau</p>
+COMPILING_ORG: <p> ສູນສະຖິຕິແຫ່ງຊາດ</p>
 COMPARABILITY: <p> N/A</p>
 COLL_METHOD: '<p> ການສໍາຫຼວດກໍາລັງແຮງງານ ທີ່ໄດ້ຈັດຕັ້ງປະຕິບັດຢູ່ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ
   ໃນປີ 2017 (LFS 2017) ຮັບຮອງເອົາແນວຄວາມຄິດໃຫມ່ກ່ຽວກັບວຽກງານ, ການຈ້າງງານ ແລະ ການບໍ່ໃຊ້ແຮງງານ

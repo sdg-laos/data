@@ -100,30 +100,23 @@ FREQ_COLL: <p>2021-2022</p>
 DOC_METHOD: <p> N/A</p>
 DATA_VALIDATION: <p> N/A</p>
 DATA_SOURCE: <p> ສູນສະຖິຕິແຫ່ງຊາດ</p>
-DATA_COMP: '<p> ມີສອງຂັ້ນຕອນການຄິດໄລ່ທີ່ພວກເຮົາໄດ້ນໍາໃຊ້ຂື້ນກັບລະດັບທີ່ເກັບກໍາຂໍ້ມູນ.  ຂັ້ນ
-  ຕອນ ທີ 1 ແມ່ນ ໄດ້ ຮັບ ສ່ວນ ປະ ຊາ ຊົນ ທີ່ ມີ ການ ເຂົ້າ ເຖິງ ALL ການ ບໍ ລິ ການ ພື້ນ
-  ຖານ ທີ່ ໄດ້ ກ່າວ ມາ ຂ້າງ ເທິງ ຈາກ ແຫຼ່ງ ຂໍ້ ມູນ ຕົ້ນ ຕໍ ເຊັ່ນ: ການ ສໍາ ຫຼວດ ໃນ ຄອບ
-  ຄົວ ແລະ ການ ສໍາ ຫຼວດ. </p> <p> <strong> Proportion of Population with access to
-  basic services </strong></p><p> Example: </p><table><tr><td/><td><p><strong>HH 1</strong></p></td><td><p><strong>HH
-  2</strong></p></td><td><p><strong>HH 3</strong></p></td><td><p><strong>HH 4</strong></p></td><td><p><strong>HH5</strong></p></td></tr><tr><td><p>HH
-  size</p></td><td><p>4</p></td><td><p>7</p></td><td><p>5</p></td><td><p>6</p></td><td><p>3</p></td></tr><tr><td><p>Drinking
-  water service</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>Sanitation
-  service</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td>[
-  952]<p>Yes</p></td></tr><tr><td><p>Hygiene facilities</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>Electricity</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td></tr><tr><td><p>Clean
-  fuels</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td></tr><tr><td><p>Mobility</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>Waste
-  collection</p></td><td><p>No</p></td><td><p> No</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td></tr><tr><td><p>Health
-  care</p></td><td><p>4</p></td><td><p>3</p></td><td><p>5</p></td><td><p>No</p></td><td><p>3</p></td></tr><tr><td><p>Education</p></td><td><p>2</p></td><td><p>3</p></td><td><p>2</p></td><td><p>3</p></td><td><p>3</p></td></tr><tr><td><p>Broadband
-  internet</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>No</p></td></tr><tr><td><p>Total
-  population with access to ALL BS</p></td><td><p>0</p></td><td><p>0</p></td><td><p>5</p></td><td><p>0</p></td><td>[
-  2138]0</p></td></tr></table><p><strong><strong>ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ມີການເຂົ້າເຖິງ
-  (ທັງຫມົດ) ການບໍລິການພື້ນຖານ</strong> = [224] 7]5/(4+7+5+6+3) x 100 = 20%</strong></p><p><p><p><p>ບາດກ້າວນີ້ເປັນສິ່ງສໍາຄັນເມື່ອປະເທດມີຂໍ້ມູນຕົ້ນຕໍໃນລະດັບຄົວເຮືອນສໍາລັບການບໍລິການພື້ນຖານທຸກປະເພດ.
+DATA_COMP: '<p> ຂັ້ນຕອນໃນການເກັບກຳຂໍ້ມູນມີສອງຂັ້ນຕອນ.  ຂັ້ນ ຕອນ ທີ 1 ແມ່ນ ອັດຕາສ່ວນ
+  ປະ ຊາ ຊົນ ທີ່ ມີ ການ ເຂົ້າ ເຖິງ ທຸກ ການ ບໍ ລິ ການ ພື້ນ ຖານ ທີ່ ໄດ້ ກ່າວ ມາ ຂ້າງ
+  ເທິງ ຈາກ ແຫຼ່ງ ຂໍ້ ມູນ ພື້ນຖານຈາກການ ສໍາ ຫຼວດ ຄົວເຮືອນແລະ ການ ສໍາ ຫຼວດໃຫ່ຍ</p> <p>
+  <strong>ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ເຂົ້າເຖິງການລໍລິການພື້ນຖານ </strong></p><p> ຕົວຢ່າງ:
+  </p><table><tr><td/><td><p><strong>ຄົວເຮືອນທີ່ 1</strong></p></td><td><p><strong>ຄົວເຮືອນທີ່2</strong></p></td><td><p><strong>ຄົວເຮືອນທີ່
+  3</strong></p></td><td><p><strong>ຄົວເຮືອນທີ່4</strong></p></td><td><p><strong>ຄົວເຮືອນທີ່5</strong></p></td></tr><tr><td><p>ຂະໜາດຄົວເຮືອນ</p></td><td><p>4</p></td><td><p>7</p></td><td><p>5</p></td><td><p>6</p></td><td><p>3</p></td></tr><tr><td><p>ການບໍລິການນ້ຳດື່ມ</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>ການບໍລິການສຸຂາພິບານ</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td>[
+  952]<p>Yes</p></td></tr><tr><td><p>ການບໍລິການສຸຂາອະນາໄມ</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>ໄຟຟ້າ</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td></tr><tr><td><p>ເຊື້ອໄຟສະອາດ</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td></tr><tr><td><p>ການເຄື່ອນຍ້າຍ</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>ການເກັບສິ່ງເສດເຫຼືອ</p></td><td><p>No</p></td><td><p>
+  No</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td></tr><tr><td><p>ການເບິ່ງແຍງສຸຂະພາບ</p></td><td><p>4</p></td><td><p>3</p></td><td><p>5</p></td><td><p>No</p></td><td><p>3</p></td></tr><tr><td><p>ການສຶກສາ</p></td><td><p>2</p></td><td><p>3</p></td><td><p>2</p></td><td><p>3</p></td><td><p>3</p></td></tr><tr><td><p>ການເຂົ້າເຖິງອິນເຕີເນັດ</p></td><td><p>Yes</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td><td><p>No</p></td></tr><tr><td><p>ຈຳນວນປະຊາກອນທັງໝົດທີ່ເຂົ້າເຖິງການບໍລິການພື້ນຖານທັງໝົດ</p></td><td><p>0</p></td><td><p>0</p></td><td><p>5</p></td><td><p>0</p></td><td>[
+  2138]0</p></td></tr></table><p><strong><strong>ອັດຕາສ່ວນຂອງປະຊາກອນທີ່ມີການເຂົ້າເຖິງການບໍລິການພື້ນຖານທັງໝົດ</strong>
+  = [224] 7]5/(4+7+5+6+3) x 100 = 20%</strong></p><p><p><p><p>ບາດກ້າວນີ້ເປັນສິ່ງສໍາຄັນເມື່ອປະເທດມີຂໍ້ມູນຕົ້ນຕໍໃນລະດັບຄົວເຮືອນສໍາລັບການບໍລິການພື້ນຖານທຸກປະເພດ.
   ຈາກນັ້ນກໍຕິດຕາມດ້ວຍການປະມວນຜົນຂອງວັດແທກສໍາລັບອົງປະກອບອື່ນໆທີ່ບໍ່ໄດ້ວັດແທກໃນລະດັບຄົວເຮືອນເຊັ່ນ:
   ການເຂົ້າເຖິງສຸຂະພາບ, ການສຶກສາ, ການຂົນສົ່ງ, ແລະອື່ນໆ. ຕົວຢ່າງ: ການເຂົ້າເຖິງການເຄື່ອນຍ້າຍສໍາລັບຄົວເຮືອນແມ່ນຖືກວັດແທກໂດຍຜ່ານຂໍ້ມູນ
-  GIS ແທນທີ່ຈະສໍາຫຼວດໃນຄົວເຮືອນ. ສ່ວນປະກອບສ່ວນບຸກຄົນຂອງການເຂົ້າເຖິງການບໍລິການພື້ນຖານແມ່ນຄອມພິວເຕີກ່ອນ,
-  ຕິດຕາມດ້ວຍການສັງລວມຂອງອົງປະກອບທີ່ບໍ່ມີນ້ໍາຫນັກ. ຈາກນັກບິນ, ມີມູນຄ່າລວມທີ່ສະແດງໃຫ້ເຫັນການເຂົ້າເຖິງ
-  ALL ການບໍລິການພື້ນຖານເຮັດວຽກເປັນມາດຕະການທີ່ດີທີ່ສຸດເພື່ອແຈ້ງນະໂຍບາຍຂອງພາກພື້ນທີ່ຜູ້ຂາດເຂີນຫຼາຍທີ່ສຸດແມ່ນມີຢູ່ທົ່ວໄປ,
+  GIS ແທນທີ່ຈະສໍາຫຼວດໃນຄົວເຮືອນ. ອົງປະກອບສ່ວນບຸກຄົນທີ່ເຂົ້າເຖິງການບໍລິການພື້ນຖານແມ່ນຖືກຄຳນວນກ່ອນ,
+  ຫຼັງຈາກນັ້ນແມ່ນອົງປະກອບທີ່ບໍ່ມີນ້ໍາຫນັກ. ຈາກການທົດລອງ, ການສະແດງມູນຄ່າການເຂົ້າເຖິງການບໍລິການພື້ນຖານທັງໝົດ
+  ເປັນມາດຕະການທີ່ດີທີ່ສຸດເພື່ອແຈ້ງນະໂຍບາຍຂອງພາກພື້ນທີ່ຜູ້ຂາດເຂີນຫຼາຍທີ່ສຸດແມ່ນມີຢູ່ທົ່ວໄປ,
   ແຕ່ບໍ່ສາມາດປະຕິບັດໄດ້. ແທນ ທີ່, ມັນ ແມ່ນ ມາດ ຕະ ການ ສ່ວນ ປະ ກອບ ສ່ວນ ບຸກ ຄົນ ທີ່
-  ຊີ້ ໃຫ້ ເຫັນ ຢ່າງ ຖືກ ຕ້ອງ ຕໍ່ ຂອບ ເຂດ ຂອງ ການ ປັບ ປຸງ ຫຼື ການ ລົງ ທຶນ. </p>'
+  ຊີ້ ໃຫ້ ເຫັນ ຢ່າງ ຖືກ ຕ້ອງ ຕໍ່ ຂອບ ເຂດ ການ ປັບ ປຸງ ຫຼື ການ ລົງ ທຶນ. </p>'
 COVERAGE: <p> ການສໍາຫຼວດດັດຊະນີໝາຍສັງຄົມລາວ (LSIS) ໄດ້ດໍາເນີນໃນທຸກ 5 ປີ ນັບແຕ່ປີ 2011-2012
   ເປັນຕົ້ນມາ. </p> <p> ແບ່ງຕາມຕົວເມືອງ ແລະ ຊົນນະບົດ,  ແລະ ລະດັບຄວາມຮັ່ງມີ  </p>
 CONTACT_PHONE: <p>+856 20 55 795 043</p><p>+856 21 214 740</p>

@@ -27,8 +27,9 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages-production
+        REPOSITORY_NAME: sustainabledevelopment-laos/data
+        ACCESS_TOKEN: ${{ secrets.token }}
+        BRANCH: main
         FOLDER: _site
         CLEAN: true
     - name: Waiting 4 minutes for live data deployment

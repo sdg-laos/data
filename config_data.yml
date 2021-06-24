@@ -6,7 +6,7 @@
 # The following should be changed according to the hosting environment. In the most
 # common environment, Github Pages, you would need to set this according to the name
 # of this repository, after a preceding slash. Eg: /my-repository-name
-docs_baseurl: /sdg-data
+docs_baseurl: /data
 
 # Languages
 # ---------
@@ -123,7 +123,7 @@ docs_intro: This is a list of examples of endpoints and output that are
 #docs_subfolder: ''
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
-docs_indicator_url: https://sdg-laos.github.io/sdg/[id]
+docs_indicator_url: https://sdg-laos.github.io/site/[id]
 docs_extra_disaggregations:
   - SERIES
   - UNIT_MEASURE

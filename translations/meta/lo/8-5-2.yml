@@ -27,7 +27,7 @@ SDG_GOAL: '<p> SDG 8: ວຽກງານທີ່ເຫມາະສົມ ແລ
   ລວມແລະຍືນຍົງ, ມີວຽກເຮັດງານທໍາຢ່າງເຕັມທີ່ ແລະ ມີປະສິດທິຜົນ ແລະ ວຽກງານທີ່ເຫມາະສົມສໍາລັບທຸກຄົນ</p>'
 SDG_CUSTODIAN_AGENCIES: <p> ILO</p>
 REL_CAL_POLICY: <p>2023</p>
-REG_AGG: <p> ບໍໍ່ມີ</p>
+REG_AGG: <p> ບໍ່ມີ</p>
 REC_USE_LIM: <p> ເຖິງ ແມ່ນ ວ່າ ໃນ ປະ ເທດ ທີ່ ພັດ ທະ ນາ ສ່ວນ ຫລາຍ ແລ້ວ ອັດຕາ ການ ວ່າງ
   ງານ ແມ່ນ ມີ ປະ ໂຫຍດ ເປັນ ຕົວ ຊີ້ ບອກ ເຖິງ ການ ປະ ຕິ ບັດ ງານ ຂອງ ຕະ ຫລາດ ແຮງ ງານ,
   ແລະ ໂດຍ ສະ ເພາະ ແມ່ນ ວ່າ, ເປັນ ມາດ ຕະ ການ ສໍາ ຄັນ ຂອງ ການ ປະ ຕິ ບັດ ວຽກ ງານ, ໃນ
@@ -37,10 +37,10 @@ REC_USE_LIM: <p> ເຖິງ ແມ່ນ ວ່າ ໃນ ປະ ເທດ ທ
   ເຖິງຢ່າງໃດກໍ່ຕາມບໍ່ສໍາຄັນຫຼືບໍ່ພຽງພໍ. ດັ່ງ ນັ້ນ, ໃນ ສະ ພາບ ການ ດັ່ງ ກ່າວ, ມາດ ຕະ
   ການ ອື່ນໆ ຄວນ ຊ່ວຍ ເພີ່ມ ອັດຕາ ການ ວ່າງ ງານ ໃຫ້ ປະ ເມີນ ຜົນ ງານ ຢ່າງ ກວ້າງ ຂວາງ.
   </p>
-RATIONALE: <p> N/A</p>
+RATIONALE: <p> ບໍ່ມີ</p>
 QUALITY_MGMNT: <p> ບໍ່ມີ</p>
 QUALITY_ASSURE: <p> ບໍ່ມີ</p>
-QUALITY_ASSMNT: <p> N/A</p>
+QUALITY_ASSMNT: <p> ບໍ່ມີ</p>
 OTHER_DOC: <ol> <li> <a href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></li><li>https://unstats.un.org/sdgs/metadata/</li></ol>
 ORGANISATION_UNIT: <p> ກົມສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>1 ພຶດສະພາ 2021</p>

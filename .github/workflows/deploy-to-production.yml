@@ -29,6 +29,6 @@ jobs:
       with:
         REPOSITORY_NAME: sustainabledevelopment-laos/data
         ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
+        BRANCH: main
         FOLDER: _site
         CLEAN: true

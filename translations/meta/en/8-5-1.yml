@@ -1,54 +1,50 @@
-ADJUSTMENT: <p>N/A</p>
-COLL_METHOD: '<p>The Labor Force Survey that was implemented in Lao People’s Democratic
+COLL_METHOD: <p>The Labor Force Survey that was implemented in Lao People’s Democratic
   Republic in 2017 (LFS 2017) adopts the new concept of work, employment and labor
   underutilization that was adopted by the19th International Conference of Labor Statisticians
-  (ICLS) in 2013.</p><h2><strong>Sampling</strong></h2><p>Sampling Procedure</p><p>The
-  2015 Census of Population and Housing was applied for sampling frame for LFS 2017.
-  Base on the Census, Lao PDR has a total population of 6,479,982 distributed into
-  1,197,926 households . The province of Savannakhet has the most population but Vientiane
-  Capital has the most households. Population in Xaysomboun is lowest at 85,168, the
-  province also has the lowest number of households at 14,316.<br/><br/>Two stage
-  sampling is proposed, with selection of villages in </p><ul><li>the first stage
-  and selection of households in the second stage. In the provincial domains, villages
-  were selected using PPS (no need for stratification since there are fewer villages
-  within each province). </li><li>Second stage sampling comprise of systematic selection
-  of 20 households from the updated list of households from the 2015 Census. Provincial
-  Domains target 10,800 sample households at 3% and 6% margin of errors. </li></ul><p><strong>Data
-  Collection: </strong>Start: 2017, End: 2017</p><p><strong>Data collection Mode:
-  </strong>Face-to-Face</p>'
-COMPARABILITY: <p>N/A</p>
+  (ICLS) in 2013. </p>
+COMPARABILITY: <p>Please see item 4.b</p>
 COMPILING_ORG: <p>Lao Statistics Bureau</p>
-CONTACT_EMAIL: <p><a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p><a
-  href="mailto:lstats@lsb.gov.la">lstats@lsb.gov.la</a></p><p><a href="https://www.lsb.gov.la">https://www.lsb.gov.la</a></p><p>suthanu1974@gmail.com</p><p>http://www.molsw.gov.la/</p><p><a
-  href="http://www.nra.gov.la">http://www.nra.gov.la</a></p>
+CONTACT_EMAIL: <p><a href="mailto:vilaysooks@gmail.com">vilaysooks@gmail.com</a></p><p>suthanu1974@gmail.com</p>
 CONTACT_FUNCT: <p>Deputy Director General</p>
-CONTACT_MAIL: <p>Pangkham Road, Postcode 347, Vientiane Capital</p>
+CONTACT_MAIL: '<p>Ministry of Planning and Investment</p><p>Lao Statistics Bureau,
+  Dongnachokphuea Village, Sikhottabong District, Vientiane Capital Province. Tel:
+  (+856 21) 214740, Fax: (+856 21) 242022.</p>'
 CONTACT_NAME: <p>Mr.Vilaysook SISOULATH</p><p>Mr. Suthanou BOULOM</p>
-CONTACT_ORGANISATION: <p>Lao Statistics Bureau and</p><p>Ministry of Labor and Social
+CONTACT_ORGANISATION: <p>Lao Statistics Bureau </p><p>Ministry of Labor and Social
   Welfare</p>
 CONTACT_PHONE: <p>+856 20 55 795 043, +856 21 214 740</p><p>+856 20 5889 1999, +856
   21 2130 03/2227 77</p>
 COVERAGE: <p>The Labor Force Survey have been conducted at five-year intervals since
   2010</p><p>Disaggregated by sectors and sex</p>
-DATA_COMP: <p> Statistics on average hourly earnings by sex can be used to calculate
+DATA_COMP: <p>Statistics on average hourly earnings by sex can be used to calculate
   the gender pay gap, as follows:</p><p>Gender pay gap=  (〖Average hourly earnings〗_Men-
   〖Average hourly earnings〗_Women)/〖Average hourly earnings〗_Men   x 100</p>
 DATA_SOURCE: <p>Lao Statistics Bureau</p>
-DATA_VALIDATION: <p>N/A</p>
-DOC_METHOD: <p>N/A</p>
-FREQ_COLL: <p>2022</p>
-IMPUTATION: <p>N/A</p>
+DATA_VALIDATION: <p>Standard data review and validation protocols were implemented
+  from data collection, processing, calculation to finalization and publication of
+  the results of the GDP and population estimates.</p>
+FREQ_COLL: <p>2017</p>
 INST_MANDATE: <p>Base on the statistical law and the National Strategy for sustainable
   Development of Statistical System 2016-2020 and vision for 2030, Ministry of Planning
   and Investment (MPI) throughout the  Lao  Statistics  Bureau  in  cooperate with  Ministry  of  Labor  and  Welfare  has  conducted  the
   Lao  Labor  Force  Survey  in  2017.</p>
-META_LAST_UPDATE: <p>1 May 2021</p>
+META_LAST_UPDATE: <p>23 June 2021</p>
 ORGANISATION_UNIT: <p>Department of Social Statistics</p><p>Department of Planning
   and International Cooperation</p>
-OTHER_DOC: <ol><li><a href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf</a></li><li>https://unstats.un.org/sdgs/metadata/</li></ol>
-QUALITY_ASSMNT: <p>N/A</p>
-QUALITY_ASSURE: <p>N/A</p>
-QUALITY_MGMNT: <p>N/A</p>
+OTHER_DOC: <p><a href="file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf4">file:///C:/Users/BK/AppData/Local/Temp/5.Lao%20PDR%20Labor%20force%20Survey%202017.pdf4</a></p><p>The
+  UNSD SDG Indicators, Metadata repository <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p><p>http://www.molsw.gov.la/</p><p><a
+  href="http://www.nra.gov.la">http://www.nra.gov.la</a></p><p><a href="https://www.lsb.gov.la">https://www.lsb.gov.la</a></p>
+QUALITY_ASSMNT: <p>The estimates derived for each year are compared to previous years
+  to ensure that estimates are prepared consistently from year to year. Additionally,
+  the growth rate from year to year is analyzed to identify anomalies in the data.</p><p>In
+  general, the quality of the results is considered good given the quality management
+  and standards implemented in the basic data source used for obtaining the value
+  for this SDG indicator. </p>
+QUALITY_ASSURE: <p>Data are validated in accordance with the international statistical
+  standards</p>
+QUALITY_MGMNT: <p>Managing the quality of the indicator is guided by the Lao PDR Statistics
+  Law of 2017 and in accordance with the recommendations of the UN Fundamental Principles
+  of Official Statistics.</p>
 RATIONALE: <p>Earnings are a key aspect of quality of employment and living conditions.
   Information on hourly earnings disaggregated by various classifications (sex, age,
   occupation, disability status) provides some indication of the extent to which pay
@@ -60,20 +56,19 @@ REC_USE_LIM: <p>The variety of possible sources for statistics on earnings great
   from an establishment survey for another. The use of non-standard definitions and
   the heterogeneity of operational criteria applied further hamper cross-country comparisons.
   </p>
-REG_AGG: <p>N/A</p>
-REL_CAL_POLICY: <p>2023</p>
+REL_CAL_POLICY: <p>2022</p>
 SDG_CUSTODIAN_AGENCIES: <p>ILO</p>
 SDG_GOAL: '<p>SDG 8: Decent Work and Economic Growth: Promote sustained, inclusive
   and sustainable economic growth, full and productive employment and decent work
   for all</p>'
 SDG_INDICATOR: <p>8.5.1 Average hourly earnings of female/ male employees, by sector,
   age group and persons with disabilities</p>
-SDG_RELATED_INDICATORS: <p>N/A</p>
-SDG_SERIES_DESCR: <p>SL_EMP_EARN</p>
+SDG_RELATED_INDICATORS: <p>Any economic statistics that is used for other SDG indicator </p>
+SDG_SERIES_DESCR: <p>Average hourly earnings</p>
 SDG_TARGET: <p>8.5 By 2030, achieve full and productive employment and decent work
   for all women and men, including for young people and persons with disabilities,
   and equal pay for work of equal value.</p>
-SOURCE_TYPE: <p>Use 2 type of data source </p><ol><li>The Labor Force Survey 2017
+SOURCE_TYPE: <p>Use 2 type of data source </p><ol><li>The Labour Force Survey 2017
   (every 5 years)</li><li>and administrative data from Ministry of Labour and Social
   Welfare annually</li></ol>
 STAT_CONC_DEF: <p><strong>Definition:</strong></p><p>This indicator provides information
@@ -91,3 +86,4 @@ STAT_CONC_DEF: <p><strong>Definition:</strong></p><p>This indicator provides inf
   dues and other obligations of employees. As stated in the indicator title, data
   on earnings should be presented on the basis of the arithmetic average of the hourly
   earnings of all employees.</p>
+UNIT_MEASURE: <p>number</p>

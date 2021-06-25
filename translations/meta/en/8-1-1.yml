@@ -1,15 +1,77 @@
+COLL_METHOD: <p>Each year, the Lao Sstatistics Bureau collects the latest data and
+  estimates GDP based on data collected either from surveys (i.e. Lao Expenditure
+  and Consumption Survey; and Annual Establishment Survey) and administrative data.  </p><p>Population
+  figures are projections based on the 2015 Census of Population and Housing in Lao
+  PDR.</p>
+COMPILING_ORG: <p>Lao Statistics Bureau</p>
+CONTACT_EMAIL: <p>Salikanaja@yahoo.com</p>
 CONTACT_FUNCT: <p>Deputy Director General</p>
-CONTACT_MAIL: <p>N/A</p>
+CONTACT_MAIL: '<p>Ministry of Planning and Investment</p><p>Lao Statistics Bureau,
+  Dongnachokphuea Village, Sikhottabong District, Vientiane Capital Province. Tel:
+  (+856 21) 214740, Fax: (+856 21) 242022.</p>'
 CONTACT_NAME: <p>Ms.Salika CHANHTHALAVONG</p>
 CONTACT_ORGANISATION: <p>Lao Statistics Bureau</p>
 CONTACT_PHONE: <p>+856 20 55042665</p>
-META_LAST_UPDATE: <p>10 May 2021</p>
+COVERAGE: '<p>Annual: 2015 to 2018</p><p>Breakdown/disaggregation: no breakdown.</p>'
+DATA_COMP: '<p>The annual growth rate of real Gross Domestic Product (GDP) per capita
+  is calculated as follows:</p><ol><li>Numerator: GDP per capita of current year (at
+  constant price)- GDP per capita of previous year (at constant price)</li><li>Denominator:
+  GDP per capita of previous year (at constant price)</li><li>Multiplier: 100</li></ol>'
+DATA_SOURCE: <p>Lao Statistics Bureau</p>
+DATA_VALIDATION: <p>Standard data review and validation protocols were implemented
+  from data collection, processing, calculation to finalization and publication of
+  the results. </p>
+FREQ_COLL: <p>Quarterly, semestral, and annual </p>
+INST_MANDATE: <p>Data collection, processing, dissemination  and use of statistics
+  for this indicator is in accordance with the Statistics Law 2017; the National Strategy
+  for Sustainable Development of Statistical System (NSSDSS) 2016-2020; and the Vision
+  for 2030.</p>
+META_LAST_UPDATE: <p>23 June 2021</p>
 ORGANISATION_UNIT: <p>Department of Economic Statistics</p>
+OTHER_DOC: <p>The System of National Accounts (SNA) website<br/><a href="http://unstats.un.org/unsd/nationalaccount/sna.asp">http://unstats.un.org/unsd/nationalaccount/sna.asp</a></p><p>The
+  UNSD SDG Indicators, Metadata repository <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p><p>Lao
+  Statistical Information Service for GDP</p><p><a href="https://laosis.lsb.gov.la/tblInfo/TblInfoList.do">https://laosis.lsb.gov.la/tblInfo/TblInfoList.do</a></p><p>Lao
+  PDR Statistics Law, 2017<br/><a href="https://www.lsb.gov.la">https://www.lsb.gov.la</a></p><p>
+  </p>
+QUALITY_ASSMNT: <p>The estimates derived for each year are compared to previous years
+  to ensure that estimates are prepared consistently from year to year. </p><p>In
+  general, the quality of the results is considered good given the quality management
+  and standards implemented in the basic data source used for obtaining the value
+  for this SDG indicator. </p>
+QUALITY_ASSURE: <p>Data are validated in accordance with the international statistical
+  standards</p>
+QUALITY_MGMNT: <p>Managing the quality of the indicator is guided by the Lao PDR Statistics
+  Law of 2017 and in accordance with the recommendations of the UN Fundamental Principles
+  of Official Statistics.</p>
+RATIONALE: <p>Real Gross Domestic Product (GDP) per capita is a proxy for the average
+  standard of living of residents in a country or area.</p><p>A positive percentage
+  change in annual real GDP per capita can be interpreted as an increase in the average
+  standard of living of the residents in a country or area</p>
+REC_USE_LIM: <p>Although countries or areas calculate GDP using the common principles
+  and recommendations in the United Nations System of National Accounts (SNA), there
+  are still problems in international comparability of GDP estimates. These include:</p><ol><li>Different
+  versions of the SNA (for example, 1968, 1993 or 2008) countries or areas use in
+  calculating their GDP estimates</li><li>Different degree of coverage of informal
+  and non-observed economic activities in the GDP estimates</li></ol><p>Further, as
+  a necessary condition to being a key economic performance indicator of sustainable
+  development, one of the often-cited limitations of GDP is that it does not account
+  for the social and environmental costs of production. It is designed as a measure
+  of the level of overall well-being. For example, growth in real GDP per capita reveals
+  nothing concerning energy and material interactions with the environment.</p>
+REL_CAL_POLICY: <p> Annually, December June 2021</p>
 SDG_CUSTODIAN_AGENCIES: <p>United Nations Statistics Division (UNSD)</p>
 SDG_GOAL: '<p>Goal 8: Promote sustained, inclusive and sustainable economic growth,
   full and productive employment</p><p>and decent work for all</p>'
 SDG_INDICATOR: '<p>Indicator 8.1.1: Annual growth rate of real GDP per capita</p>'
-SDG_RELATED_INDICATORS: <p>Any economic statistics related SDG indicator </p>
+SDG_RELATED_INDICATORS: <p>Any economic statistics that is used for other SDG indicator </p>
+SDG_SERIES_DESCR: <p>Annual growth rate of real GDP per capita</p>
 SDG_TARGET: '<p>Target 8.1: Sustain per capita economic growth in accordance with
   national circumstances and, in</p><p>particular, at least 7 per cent gross domestic
   product growth per annum in the least developed countries</p>'
+SOURCE_TYPE: <p>Lao Statistic Bureau, Department of Economic Statistics, National
+  Account Division </p>
+STAT_CONC_DEF: <p>Annual growth rate of real Gross Domestic Product (GDP) per capita
+  is calculated as the percentage change in the real GDP per capita between two consecutive
+  years. Real GDP per capita is calculated by dividing GDP at constant prices by the
+  population of a country or area. </p>
+UNIT_MEASURE: <p>percent (%)</p>

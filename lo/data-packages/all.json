@@ -2717,30 +2717,6 @@
       "title": "5-b-1"
     },
     {
-      "path": "8-5-2.docm/data.csv",
-      "name": "8-5-2.docm",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "8-5-2.docm"
-    },
-    {
       "path": "1-2-1-a/data.csv",
       "name": "1-2-1-a",
       "profile": "tabular-data-resource",

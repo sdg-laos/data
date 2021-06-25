@@ -16,6 +16,21 @@ jobs:
           do_not_test:
             - 'meta/**'
             - 'translations/**'
+    - uses: batista/lint-filenames@v1
+      name: Validating metadata filenames
+      with:
+        path: './meta'
+        pattern: '^[0-9a-z]*-[0-9a-z]*-[0-9a-z]*(-[0-9a-z]*)?\.docm$'
+    - uses: batista/lint-filenames@v1
+      name: Validating SDMX filenames
+      with:
+        path: './data'
+        pattern: '^.*\.xml$'
+    - uses: batista/lint-filenames@v1
+      name: Validating indicator configuration filenames
+      with:
+        path: './indicator-config'
+        pattern: '^[0-9a-z]*-[0-9a-z]*-[0-9a-z]*(-[0-9a-z]*)?\.yml$'
     - if: steps.filter.outputs.do_not_test == 'false'
       name: Set up Python 3.7
       uses: actions/setup-python@v1

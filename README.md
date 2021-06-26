@@ -7,3 +7,4 @@ Translations are performed on [Weblate](https://weblate.org).
 <a href="https://hosted.weblate.org/engage/sdg-laos/">
 <img src="https://hosted.weblate.org/widgets/sdg-laos/-/open-graph.png" alt="Translation status" />
 </a>
+

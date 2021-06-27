@@ -1,7 +1,10 @@
-import yaml
 import os
 from sdg.translations import TranslationInputYaml
 import xml.etree.ElementTree as ET
+
+language_fixes = {
+    'zh_Hans': 'zh'
+}
 
 translation_input = TranslationInputYaml(source='translations/dsd')
 translation_input.execute()
@@ -43,16 +46,22 @@ for concept in dimensions + attributes:
         code_id = code.attrib['id']
         for language in translations:
             if key in translations[language] and code_id in translations[language][key] and translations[language][key][code_id] != '':
+                fixed_language = language_fixes[language] if language in language_fixes else language
                 found_name = False
+                name_index = 0
                 lang_ns = '{' + namespaces['xml'] + '}lang'
-                for name in code.findall('./' + com_ns('Name'), namespaces):
-                    code_lang = name.attrib[lang_ns]
-                    if code_lang == language:
-                        found_name = True
-                        if name.text != translations[language][key][code_id]:
-                            name.text = translations[language][key][code_id]
+                name_ns = '{' + namespaces[common_ns] + '}Name'
+                for index, child in enumerate(code):
+                    if child.tag == name_ns:
+                        name_index = index
+                        code_lang = child.attrib[lang_ns]
+                        if code_lang == fixed_language:
+                            found_name = True
+                            if child.text != translations[language][key][code_id]:
+                                child.text = translations[language][key][code_id]
                 if not found_name:
-                    name = ET.SubElement(code, com_ns('Name'), {lang_ns: language})
+                    name = ET.Element(com_ns('Name'), {lang_ns: fixed_language})
+                    code.insert(name_index, name)
                     name.text = translations[language][key][code_id]
 
 export_filename = os.path.join('_site', 'dsd-exported.xml')

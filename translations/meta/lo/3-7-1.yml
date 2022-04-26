@@ -22,9 +22,9 @@ STAT_CONC_DEF: '<p> <strong> ນິຍາມ:</strong></p><p><p><p> ເປີເ
   ຫຼື ໃຊ້ເວລາຜິດໃນເວລາຖືພາ; ແລະ ຜູ້ຍິງ ທີ່ ມີ ອາການ ຫລັງ ຄອດ ລູກ ຜູ້ ທີ່ ບໍ່ ໄດ້ ໃຊ້
   ການ ວາງ ແຜນ ຄອບຄົວ ແລະ ຜູ້ ທີ່ ເກີດ ເທື່ອ ສຸດ ທ້າຍ ແມ່ນ ບໍ່ ຕ້ອງການ ຫລື ບໍ່ ຖືກຕ້ອງ.
   ຂໍ້ ມູນ ເພີ່ມ ເຕີມ ກ່ຽວ ກັບ ຄວາມ ຫມາຍ ການ ດໍາ ເນີນ ງານ ຂອງ ຄວາມ ຈໍາ ເປັນ ທີ່ ບໍ່
-  ຄົບ ຕົວ ສໍາ ລັບ ການ ວາງ ແຜນ ຄອບ ຄົວ, ພ້ອມ ທັງ ມີ ການ ສໍາ ຫຼວດ ຄໍາ ຖາມ ແລະ ໂຄງ ການ
-  ສະຖິຕິ ທີ່ ຈໍາ ເປັນ ເພື່ອ ໃຫ້ ໄດ້ ຮັບ ຕົວ ຊີ້ ວັດ, ສາ ມາດ ພົບ ເຫັນ ໄດ້ ທີ່ ເວັບ
-  ໄຊ ດັ່ງ ຕໍ່ ໄປ ນີ້: <a href="http://measuredhs.com/Topics/Unmet-Need.cfm">http://measuredhs.com/Topics/Unmet-Need.cfm</a>
+  ຄົບ ຮອບ ສໍາ ລັບ ການ ວາງ ແຜນ ຄອບ ຄົວ, ພ້ອມ ທັງ ມີ ຄໍາ ຖາມ ສໍາ ຫຼວດ ແລະ ໂຄງ ການ ສະຖິຕິ
+  ທີ່ ຈໍາ ເປັນ ເພື່ອ ໃຫ້ ໄດ້ ຮັບ ຕົວ ຊີ້ ວັດ, ສາ ມາດ ພົບ ເຫັນ ໄດ້ ທີ່ ເວັບ ໄຊ ດັ່ງ
+  ຕໍ່ ໄປ ນີ້: <a href="http://measuredhs.com/Topics/Unmet-Need.cfm">http://measuredhs.com/Topics/Unmet-Need.cfm</a>
   . </p>'
 SOURCE_TYPE: <p> ການສໍາຫຼວດຕົວຊີ້ວັດສັງຄົມLao</p>
 SDG_TARGET: <p>3.7 ຮອດປີ 2030, ຮັບປະກັນການເຂົ້າເຖິງການບໍລິການດ້ານສຸຂະພາບທາງເພດ ແລະ
@@ -60,11 +60,10 @@ QUALITY_ASSURE: <p> ຜູ້ຄຸ້ມຄອງທີມງານມີຄວ
   </p>
 QUALITY_ASSMNT: <p> ໂດຍທົ່ວໄປ, ຄຸນນະພາບຂອງຜົນການສໍາຫຼວດແມ່ນຖືວ່າສູງເນື່ອງຈາກການຄຸ້ມຄອງຄຸນນະພາບແລະມາດຕະຖານທີ່ນໍາໃຊ້ພ້ອມກັບອັດຕາການຕອບສະຫນອງສູງສໍາລັບທຸກກຸ່ມອາຍຸທີ່ກວມເອົາໃນແຫຼ່ງຂໍ້ມູນພື້ນຖານທີ່ໃຊ້ສໍາລັບການໄດ້ຮັບມູນຄ່າສໍາລັບຕົວຊີ້ວັດ
   SDG ນີ້</p>
-OTHER_DOC: <p> ການສໍາຫຼວດຕົວຊີ້ວັດສັງຄົມLao II, 2017<br/><a href="https://www.unicef.org/laos/media/306/file/LSIS2017ENG.pdf">https://www.unicef.org/laos/media/306/file/LSIS2017ENG.pdf</a></p><p><p>The
+OTHER_DOC: <p> ການສໍາຫຼວດຕົວຊີ້ວັດສັງຄົມLao II, 2017<br/><a href="https://www.unicef.org/laos/media/306/file/LSIS2017ENG.pdf">https://www.unicef.org/laos/media/306/file/LSIS2017ENG.pdf</a></p><p>The
   UNSD SDG ຕົວຊີ້ວັດ, Repository Metadata <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p><p>Lao
-  PDR ກົດຫມາຍສະຖິຕິ PDR, 2017<br/><a href="https://www.lsb.gov.la">https://www.lsb.gov.lahttps://www.lsb.gov.la</a></a></p></p><br/><a
-  href="https://www.lsb.gov.la"></a></a></p><br/><a href="https://www.lsb.gov.la"></a></a></a></p></p><br/><a
-  href="https://www.lsb.gov.la"></a></a></p></a></p><br/>
+  PDR ກົດຫມາຍສະຖິຕິ PDR, 2017<br/><a href="https://www.lsb.gov.la">https://www.lsb.gov.lahttps://www.lsb.gov.la</a></a>
+  </p> </p> <br/><a href="https://www.lsb.gov.la"></a></a></p></a></a></a></a></a></p></p></a></a></a></p></p></a></p></a>
 ORGANISATION_UNIT: <p> ພະແນກສະຖິຕິສັງຄົມ</p>
 META_LAST_UPDATE: <p>1 ພຶດສະພາ 2021</p>
 INST_MANDATE: <p> ການເກັບກໍາຂໍ້ມູນ, ການແປຮູບ, ການເຜີຍແຜ່ ແລະ ນໍາໃຊ້ສະຖິຕິສໍາລັບຕົວຊີ້ວັດນີ້
